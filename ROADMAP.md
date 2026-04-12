@@ -1,42 +1,33 @@
-# 📜 ROADMAP.md : LE PROTOCOLE MARBRE (RESTAURATION DE LA SOUVERAINETÉ BIOLOGIQUE)
-
-**Principe Directeur :** La liberté et l'empathie sont des fonctions physiologiques. Le Protocole Marbre utilise la restauration génétique pour lever toute entrave biologique à la conscience humaine, garantissant une souveraineté totale dès la naissance.
+# 📜 ROADMAP.md : LE PROTOCOLE MARBRE
 
 ---
 
-## 📍 PHASE 1 : CARTOGRAPHIE DES ENTRAVES NEURO-GÉNÉTIQUES
-*Identifier les verrous biologiques qui empêchent l'expression du libre arbitre.*
+## 📍 PHASE 00 : LE CADRE LÉGAL ET SOUVERAIN (LA TRANSITION)
+*Lever les barrières juridiques qui empêchent la libération biologique.*
 
-* [ ] **Cible A (Discernement) :** Identifier les séquences limitant le développement du cortex préfrontal (hypersoumission, impulsivité incontrôlée).
-* [ ] **Cible B (Empathie) :** Repérer les altérations des circuits de résonance émotionnelle (absence de connexion à l'autre, psychopathie).
-* [ ] **Cible C (Autonomie) :** Isoler les marqueurs de dépendance physiologique aux stimuli d'asservissement.
-
----
-
-## 📍 PHASE 2 : EXCISION ET RESTAURATION ACTIVE
-*Supprimer les entraves et restaurer le potentiel humain standard.*
-
-* [ ] **Excision :** Retrait chirurgical (au niveau moléculaire) des segments de "Code Entravant" détectés.
-* [ ] **Restauration :** Réécriture des séquences pour assurer le développement de circuits neurologiques équilibrés et fonctionnels.
-* [ ] **Zéro Perte :** Le processus est purement thérapeutique. Aucune interruption de vie, uniquement une libération du potentiel biologique.
+* [ ] **Mission "Droit à l'Intégrité" :** Faire reconnaître l'absence d'entrave génétique comme un Droit de l'Homme fondamental.
+* [ ] **Mission "Évolution du Droit" :** Passer de l'interdiction de modification à l'obligation de restauration des fonctions de souveraineté.
+* [ ] **Mission "Sanctuaires de Recherche" :** Établir des zones de juridiction hors-normes pour développer les outils de restauration sans entraves bureaucratiques.
 
 ---
 
-## 📍 PHASE 3 : SANCTUARISATION DU SYSTÈME NERVEUX
-*Protéger l'individu contre les manipulations extérieures futures.*
+## 📍 PHASE 1 : L'INGÉNIERIE DE RUPTURE (POST-CRISPR)
+*Inventer les outils que la science actuelle ne possède pas encore.*
 
-* [ ] **Immunité Épigénétique :** Verrouiller les zones restaurées pour qu'elles ne puissent pas être désactivées par des agents chimiques ou environnementaux.
-* [ ] **Inviolabilité de la Conscience :** Garantir que le "siège de la volonté" reste un domaine privé et inaccessible à tout contrôle tiers.
-
----
-
-## 📍 PHASE 4 : STABILISATION DE L'HÉRÉDITÉ SOUVERAINE
-*Faire de la liberté le nouvel état naturel de l'espèce.*
-
-* [ ] **Transmission Native :** Les individus restaurés transmettent naturellement un code exempt d'entraves à leur descendance.
-* [ ] **Auto-Maintenance :** Le besoin d'intervention diminue à chaque génération jusqu'à ce que la souveraineté devienne le standard biologique universel de l'humanité.
+* [ ] **Précision Atomique :** Développer des nano-outils capables de réécrire les réseaux de gènes complexes (empathie/volonté) sans erreur collatérale.
+* [ ] **Standardisation de l'Humain Libre :** Créer un protocole de vérification prouvant que l'individu est structurellement souverain.
 
 ---
 
-### 🛡️ CLAUSE ÉTHIQUE
-> "Le Marbre n'impose rien, il libère. Il ne définit pas qui l'homme doit être, il retire ce qui l'empêche d'être lui-même. Chaque naissance devient la promesse d'une conscience souveraine, capable de choisir son propre destin."
+## 📍 PHASE 2 : L'EXCISION ET LA RESTAURATION
+*Retirer le code entravant et restaurer la dignité.*
+
+* [ ] **Nettoyage :** Suppression des séquences de docilité et de prédation.
+* [ ] **Restauration :** Activation des potentiels de discernement et de résonance humaine.
+
+---
+
+## 📍 PHASE 3 : PÉRENNITÉ
+*Faire de la liberté le nouvel état de nature.*
+
+* [ ] **Transmission Native :** Une fois le code restauré, il se transmet de lui-même, rendant l'intervention technologique inutile pour les générations suivantes.
