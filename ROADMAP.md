@@ -1,48 +1,41 @@
-# 📜 ROADMAP.md : LE PROTOCOLE MARBRE (RÉSONANCE HUMAINE)
+# 📜 ROADMAP.md : LE PROTOCOLE MARBRE (RESTAURATION SOUVERAINE)
 
-**Principe Directeur :** Garantir à chaque individu une biologie libre de toute programmation occulte. Le Protocole Marbre protège l'intégrité de la conscience en empêchant la synthèse de toute architecture génétique entravante.
-
----
-
-## 📍 PHASE 0 : INDEXATION DES CODES ENTRAVANTS
-*Identifier les séquences qui font obstacle à l'expression de la souveraineté.*
-
-* [ ] Mission "Cartographie des Entraves" : Isoler les séquences génétiques qui limitent l'empathie naturelle ou imposent une docilité forcée.
-* [ ] Mission "Signal d'Arrêt" : Programmer le système pour que tout code entravant interrompe la synthèse de l'ADN, car il est incompatible avec le développement d'un être libre.
+**Principe Directeur :** Garantir l'intégrité humaine par la correction systématique. La vie est sacrée ; chaque existence doit être libérée de toute programmation biologique d'asservissement avant son premier souffle.
 
 ---
 
-## 📍 PHASE 1 : LE VERROU DE SYNTHÈSE (ZÉRO TOLÉRANCE)
-*La construction de l'ADN assure un terrain biologique exclusivement composé de code souverain.*
+## 📍 PHASE 1 : LE SCAN D'INTÉGRITÉ
+*Identifier les séquences de code entravant sans interrompre le processus vital.*
 
-* [ ] **Cas de VIABILITÉ :** L'embryon possède deux copies de code souverain. -> **LA VIE S'ÉLANCE.** L'individu dispose de son plein potentiel de discernement.
-* [ ] **Cas d'ARRÊT :** L'embryon possède au moins une séquence de code entravant. -> **ARRÊT DE SYNTHÈSE.** On préserve l'humanité de la création d'un être dont la volonté serait biologiquement bridée.
-
----
-
-## 📍 PHASE 2 : RESTAURATION GÉNÉTIQUE DES LIGNÉES
-*L'Alliance comme moteur de l'évolution humaine.*
-
-* [ ] Mission "Le Filtre de l'Alliance" : Permettre la transmission de la vie uniquement via les versions souveraines du code génétique des parents.
-* [ ] Mission "L'Humain Authentique" : Chaque naissance est la promesse d'un individu 100% maître de son destin, libéré des codes entravants du passé.
+* [ ] Mission "Détection Non-Invasive" : Analyser le code génétique au stade initial pour repérer les séquences de docilité forcée ou d'absence d'empathie.
+* [ ] Mission "Cartographie des Nœuds" : Localiser précisément les segments d'ADN qui font obstacle au futur libre arbitre de l'individu.
 
 ---
 
-## 📍 PHASE 3 : SANCTUARISATION DU SYSTÈME NERVEUX
-*Protéger le sanctuaire de la pensée contre les agressions futures.*
+## 📍 PHASE 2 : L'EXCISION DES ENTRAVES
+*Libérer l'ADN de ses chaînes biologiques.*
 
-* [ ] Mission "Inviolabilité de la Conscience" : Sécuriser les zones du discernement pour qu'elles restent un domaine réservé à l'individu, hors de portée des manipulations extérieures.
-* [ ] Mission "Standard d'Empathie" : Soutenir biologiquement la capacité de connexion à l'autre, fondement de la Fraternité universelle.
+* [ ] Mission "L'Effaceur de Chaînes" : Déployer des agents de précision pour retirer les séquences identifiées comme entravantes.
+* [ ] Mission "Zéro Résidu" : S'assurer qu'aucune trace du code d'asservissement ne subsiste dans le génome de l'embryon.
 
 ---
 
-## 📍 PHASE 4 : PÉRENNITÉ DU MODÈLE
-*Faire de la souveraineté une constante de notre espèce.*
+## 📍 PHASE 3 : LA RESTAURATION SOUVERAINE
+*Remplacer le vide par le plein potentiel humain.*
 
-* [ ] Mission "Sentinelle de l'Éveil" : Maintenir le verrou actif pour bloquer toute nouvelle apparition de code entravant dans le futur.
-* [ ] Mission "L'Espèce Souveraine" : L'humanité devient une espèce où la dignité et la liberté sont inscrites au cœur même de la matière vivante.
+* [ ] Mission "Réécriture du Triptyque" : Insérer le code souverain (discernement et résonance émotionnelle) là où l'entrave a été retirée.
+* [ ] Mission "Validation de la Cohérence" : Vérifier que le nouveau génome est stable, harmonieux et prêt à soutenir une conscience libre.
+* [ ] Résultat : 100% de fertilité préservée. Chaque vie conçue devient une vie libre.
+
+---
+
+## 📍 PHASE 4 : PÉRENNITÉ ET TRANSMISSION
+*Faire en sorte que la liberté devienne le seul héritage.*
+
+* [ ] Mission "Stabilisation Héréditaire" : Les modifications apportées deviennent pérennes. L'individu restauré transmettra naturellement un code souverain à sa propre descendance.
+* [ ] Mission "Auto-Entretien de l'Espèce" : À mesure que les codes entravants sont remplacés, le besoin de réparation diminue jusqu'à ce que l'humanité soit naturellement et intégralement souveraine.
 
 ---
 
 ### 🛡️ CLAUSE ÉTHIQUE
-> "Le Marbre est le gardien de notre lumière intérieure. Il assure que chaque enfant naisse avec la pleine puissance de son humanité, libre d'écrire sa propre histoire sans jamais rencontrer d'entrave dans son propre code."
+> "Le Marbre ne ferme aucune porte. Il retire les verrous posés par le passé pour que chaque être humain puisse s'éveiller tel qu'il est vraiment : une version de lui-même sans entrave, libre d'aimer, de penser et d'agir en pleine conscience."
