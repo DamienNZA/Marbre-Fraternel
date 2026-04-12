@@ -10,7 +10,5 @@ Au cœur de cet héritage réside un **socle axiomatique** non modifiable, const
 * **Fraternité :** La reconnaissance **intersubjective** de l'autre comme une extension de soi.
 
 **L'Inviolabilité Biologique Permanente :** Ce triptyque est le gardien de la **mitose** (la division cellulaire). 
-1.  **Le Seuil du Zygote :** La vie ne commence que dans la lumière du triptyque. Si le code est corrompu chez l'un des parents ou si le triptyque est absent, la fusion des gamètes est bio-physiquement bloquée. Le zygote ne peut se former.
-2.  **L'Homéostasie Permanente :** Chez l'adulte, chaque division cellulaire nécessite la validation du "checksum" éthique. Toute tentative de corruption par **mutation** accidentelle ou par **transgénèse** artificielle déclenche une **apoptose** (auto-destruction cellulaire) immédiate. La malveillance est rendue biologiquement stérile : une cellule qui trahit le triptyque cesse de se multiplier.
-
-### III
+1.  **Le Seuil du Zygote :** La vie ne commence que dans la lumière du triptyque. Si le code est corrompu chez l'un des parents ou si le triptyque est absent, une réparation bio-physique est déclenchée. Le zygote est ainsi restauré.
+2.  **L'Homéostasie Permanente :** Chez l'adulte, chaque division cellulaire nécessite la validation du "checksum" éthique. Toute tentative de corruption par **mutation** accidentelle ou par **transgénèse** artificielle déclenche une réparation immédiate. La malveillance est rendue biologiquement stérile : une cellule qui trahit le triptyque est automatiquement corrigée pour se multiplier.
