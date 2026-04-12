@@ -8,12 +8,12 @@
 *Identifier ce qui empêche d'être un humain souverain.*
 
 * [ ] Mission "Cartographie des Obstacles" : Isoler les gènes responsables de l'absence d'empathie (psychopathie) et de la docilité forcée.
-* [ ] Mission "Signal d'Arrêt" : Programmer le système pour que ces gènes d'entrave bloquent la construction de l'embryon s'ils sont détectés.
+* [ ] Mission "Signal d'Arrêt" : Programmer le système pour que ces séquences d'entrave bloquent la construction de l'embryon s'ils sont détectés.
 
 ---
 
 ## 📍 PHASE 1 : LE VERROU DE SYNTHÈSE (ZÉRO TOLÉRANCE)
-*La construction de l'ADN s'arrête si une seule "entrave" est présente, pour empêcher tout risque de domination génétique.*
+*La construction de l'ADN s'arrête si un seul défaut de code est présent, pour empêcher tout risque de domination génétique.*
 
 * [ ] **Cas de VIABILITÉ :** L'embryon possède deux copies saines (une de chaque parent). -> **LA VIE COMMENCE.**
 * [ ] **Cas d'ARRÊT :** L'embryon possède au moins une copie d'entrave (asservissement ou psychopathie). -> **LA SYNTHÈSE S'ARRÊTE.**
@@ -23,8 +23,8 @@
 ## 📍 PHASE 2 : RESTAURATION GÉNÉTIQUE DES LIGNÉES
 *La rencontre des parents devient un filtre naturel contre l'esclavage biologique.*
 
-* [ ] Mission "Le Filtre de l'Alliance" : Si un parent porte une entrave, il ne pourra concevoir un enfant que s'il transmet sa version saine et que l'autre parent fait de même (élimination de l'entrave par la loterie biologique).
-* [ ] Mission "L'Individu Libre" : Chaque enfant né est garanti 100% sans gène d'entrave. La tare disparaît définitivement de la lignée.
+* [ ] Mission "Le Filtre de l'Alliance" : Si un parent porte une séquence d'entrave, il ne pourra concevoir un enfant que s'il transmet sa version saine et que l'autre parent fait de même (élimination du défaut par la loterie biologique).
+* [ ] Mission "L'Individu Libre" : Chaque enfant né est garanti 100% sans gène d'entrave. Le défaut de code disparaît définitivement de la lignée.
 
 ---
 
