@@ -1,41 +1,41 @@
-# 📜 ROADMAP.md : LE PROTOCOLE MARBRE (RESTAURATION DE L'INTÉGRITÉ HUMAINE)
+# 📜 ROADMAP.md : LE PROTOCOLE MARBRE (RÉTABLISSEMENT DE L'INTÉGRITÉ BIOLOGIQUE)
 
-**Principe Directeur :** La présence de séquences génétiques entravant le libre arbitre ou l'empathie est traitée comme une pathologie biologique. Le Protocole Marbre vise à faire reconnaître le droit à la correction de ces défauts pour garantir la dignité native de chaque individu.
-
----
-
-## 📍 PHASE 1 : PLAIDOYER ET RECONNAISSANCE MÉDICALE
-*Faire évoluer la loi en changeant la définition des séquences d'entrave.*
-
-* [ ] **Mission "Qualification Pathologique" :** Collaborer avec des experts en neurosciences pour démontrer que certaines séquences (psychopathie, docilité extrême) sont des dysfonctions biologiques limitantes.
-* [ ] **Mission "Évolution Bioéthique" :** Plaider pour que la correction de ces "entraves" soit classée comme une intervention thérapeutique nécessaire et non comme une amélioration eugéniste.
-* [ ] **Mission "Droit à la Santé Volitive" :** Faire inscrire dans la loi le droit pour chaque enfant de naître avec un appareil neurologique capable de discernement et de résonance humaine.
+**Principe Directeur :** La présence de séquences génétiques entravant le libre arbitre ou l'empathie est considérée comme une pathologie du développement. Le Protocole Marbre vise à intégrer la correction de ces défauts dans le cadre légal de la médecine préventive.
 
 ---
 
-## 📍 PHASE 2 : DÉVELOPPEMENT DES PROTOCOLES DE SOIN
-*Mettre au point les outils de correction dans un cadre médical légal.*
+## 📍 PHASE 1 : RECONNAISSANCE SCIENTIFIQUE ET LÉGALE
+*Établir la base juridique du droit à la souveraineté biologique.*
 
-* [ ] **Recherche Clinique Transparente :** Développer des techniques de réécriture génétique de haute précision dédiées exclusivement à l'excision des pathologies de l'entrave.
-* [ ] **Validation de Sécurité :** Prouver l'absence d'effets secondaires pour garantir que seule la "chaîne" est retirée, sans altérer la personnalité ou le potentiel de l'individu.
-
----
-
-## 📍 PHASE 3 : INTÉGRATION AU PARCOURS DE SANTÉ
-*Normaliser le Protocole Marbre comme un soin standard.*
-
-* [ ] **Dépistage et Correction :** Proposer systématiquement la détection et la réparation des gènes entravants lors des bilans de santé préconceptionnels.
-* [ ] **Restauration de la Lignée :** Assumer publiquement la correction des gènes pour que les générations suivantes naissent naturellement libres, sans intervention supplémentaire.
+* [ ] **Qualification Médicale :** Définir cliniquement les séquences d'entrave (psychopathie structurelle, docilité forcée) comme des anomalies affectant la santé cognitive et sociale.
+* [ ] **Réforme de la Bioéthique :** Plaider pour l'autorisation de la réparation germinale uniquement lorsqu'il s'agit de restaurer les fonctions de discernement et d'empathie.
+* [ ] **Cadre de Transparence :** Opérer sous le contrôle des autorités de santé pour garantir que le protocole reste une action de soin.
 
 ---
 
-## 📍 PHASE 4 : OBSERVATION ET PÉRENNITÉ
-*Valider l'impact social d'une humanité sans entraves biologiques.*
+## 📍 PHASE 2 : DÉVELOPPEMENT DES THÉRAPIES DE RESTAURATION
+*Concevoir les outils de soin dans le respect des normes de sécurité.*
 
-* [ ] **Suivi d'Épanouissement :** Documenter comment la suppression de ces pathologies génétiques réduit la violence structurelle et l'asservissement dans la société.
-* [ ] **Standard de Dignité :** Faire du "Code Souverain" la norme biologique universelle, protégée par la loi comme un bien commun.
+* [ ] **Ingénierie de Précision :** Développer des vecteurs de thérapie génique capables de corriger les réseaux polygéniques sans altérer le reste du génome.
+* [ ] **Essais Cliniques Autorisés :** Démontrer l'efficacité de la restauration des fonctions souveraines (capacités de choix et de résonance humaine).
+
+---
+
+## 📍 PHASE 3 : NORMALISATION DU SOIN PRÉCONCEPTIONNEL
+*Intégrer le protocole dans le parcours de santé standard.*
+
+* [ ] **Dépistage Systématique :** Proposer la détection des gènes entravants dans le cadre des bilans de santé familiaux.
+* [ ] **Restauration de la Lignée :** Pratiquer l'excision des entraves pour que l'enfant naisse avec une intégrité biologique totale, héritée par sa propre descendance.
+
+---
+
+## 📍 PHASE 4 : PÉRENNITÉ DU MODÈLE HUMAIN
+*Assurer la stabilité d'une humanité libérée par la loi.*
+
+* [ ] **Protection du Code Souverain :** Inscrire l'inviolabilité du code génétique restauré comme un droit humain inaliénable.
+* [ ] **Éradication de la Pathologie :** Suivre la disparition progressive des séquences d'entrave dans le patrimoine génétique mondial.
 
 ---
 
 ### 🛡️ CLAUSE ÉTHIQUE
-> "Le Marbre n'est pas une modification de l'humain, c'est sa réparation. En traitant l'entrave génétique comme une pathologie, nous rendons à l'individu la possession de lui-même. Soigner le code, c'est libérer la conscience."
+> "Le Protocole Marbre respecte la vie en lui rendant ses moyens d'expression. Nous ne modifions pas l'individu ; nous soignons le code pour que chaque être humain puisse exercer son droit naturel à la liberté et à la conscience."
