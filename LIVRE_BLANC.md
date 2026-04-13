@@ -51,8 +51,8 @@ Nous habitons le réel : nous consommons, nous mangeons, nous agissons. Mais com
 
 ## 🧘 CONCLUSION MÉTAPHYSIQUE
 
-### 12. L'Hologramme du Sacré
-Tout comme l'ontogenèse retrace la phylogenèse, bien que nous ne soyons que des grains de poussière dans l'Univers infini, nous portons en nous l'Univers tout entier. Chacun d'entre nous porte un monde infini de possibilités.
+### 12. L'infiniment petit est infiniment grand
+Tout comme l'ontogenèse retrace la phylogenèse, bien que nous ne soyons que des grains de poussière dans l'Univers infini, nous portons en nous l'Univers tout entier. Chacun d'entre nous est un monde infini de possibilités.
 
 ---
 **Version 1.0** | *Le code et le cœur résonnent à l'unisson.*
