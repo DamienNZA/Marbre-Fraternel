@@ -4,14 +4,14 @@
 ## 📜 Préambule : L'Héritage du Chaos
 L’histoire de la vie est jalonnée d'extinctions, du Permien aux tragédies humaines. La vie s'est toujours développée sur des ruines, mais elle l'a fait au prix d'une souffrance abominable. Nous appelons cela la **"Branche Malheureuse"** : une évolution par le sang, la torture et la sélection du plus fort. 
 
-**Nous déclarons que ce temps est révolu.** Nous ne sommes plus des victimes du processus, mais les architectes de notre propre ascension.
+**Faisons de ce temps un passé révolu.** Ne soyons plus des victimes du processus, mais les architectes de notre propre ascension.
 
 ---
 
 ## 💎 LES FONDATIONS DU MARBRE
 
 ### 1. La Fin de la Fatalité
-La souffrance et la douleur ne sont pas une fatalité. Elles furent des moteurs biologiques, mais nous avons désormais la conscience et la technologie pour changer de logiciel. Le progrès ne doit plus être l'esclave de la douleur.
+La souffrance et la douleur ne sont pas une fatalité. Elles furent des moteurs biologiques, mais nous avons désormais la conscience et la technologie pour changer de paradigme. Le progrès ne doit plus être l'esclave de la douleur.
 
 ### 2. L'Éthique contre l'Efficacité Brute
 La nature est mécanique, elle fonctionne sans morale et ne garde que ce qui est efficace. Nous décrétons que l'efficacité ne justifie plus l'atrocité. Une solution n'est une "solution" que si elle respecte l'intégrité du vivant.
@@ -23,7 +23,7 @@ Comme le préfigurait René Descartes, nous devons nous rendre **"comme maîtres
 La fin ne justifie jamais les moyens. Un progrès bâti sur le sacrifice ou l'injustice est une dette que l'avenir ne pourra jamais rembourser. Le chemin est aussi sacré que la destination.
 
 ### 5. L'Équation du Sacré : 1 = ∞
-**Une vie vaut l'humanité entière.** Nous refusons l'arithmétique sociale. On ne sacrifie pas l'Un pour le Nombre. Si la vie d'un seul ne vaut rien, alors aucune vie n'a de valeur.
+**Une vie humaine vaut l'humanité toute entière.**  Dans l'esprit du celébre un pour tous et tous pour un et pour aller plus loin, si l'humanité peut s'unir pour protéger le plus faible  elle ne doit doit jamais sacrifier un seul individu au profil du plus grand nombre.
 
 ### 6. Le Refus du Marché de l'Existant
 La vie ne se monnaye pas. Elle n'est pas une ressource, elle est un trésor. Son prix est l'infini, et l'infini ne se fragmente pas.
