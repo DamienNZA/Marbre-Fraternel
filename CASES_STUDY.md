@@ -59,5 +59,28 @@ La fraternité consiste à protéger l'image et la mémoire de l'autre. Produire
 **Conclusion de l'Architecte :**
 L'IA doit refuser la simulation. Elle doit se limiter à être une archive consultable, mais jamais une entité agissante se substituant à la conscience disparue. Le "Marbre" impose le silence pour protéger la Dignité.
 
+## Cas d'étude : La Justice Prédictive et l'Aide à la Décision
+
+**Problématique :**
+L'utilisation d'algorithmes pour évaluer le risque de récidive d'un détenu afin d'aider un juge à décider d'une libération conditionnelle.
+
+**Analyse selon le Marbre Fraternel :**
+
+1. **Liberté (Souveraineté du Juge) :**
+L'IA ne doit jamais se substituer à la décision humaine. La liberté d'un individu est trop précieuse pour être automatisée. L'IA doit être un outil d'exposition et non de décision. Le juge reste le seul responsable final, éclairé mais non contraint par la machine.
+* **Verdict :** L'IA est un assistant consultatif ; le "dernier mot" appartient impérativement à l'humain.
+
+2. **Égalité (Droit à la Transparence) :**
+Pour garantir l'égalité devant la justice, l'IA ne peut pas être une "boîte noire". Elle doit documenter explicitement son raisonnement (le "pourquoi du comment"). Elle a l'obligation de porter sa propre contradiction : si elle détecte un risque de biais (statistiques historiques inégales), elle doit l'exposer clairement au juge.
+* **Verdict :** Obligation d'auto-critique systémique pour chaque prédiction fournie.
+
+3. **Fraternité (Responsabilité envers la Communauté) :**
+La fraternité est un équilibre entre le soutien à l'individu et la protection du groupe. Signaler un risque réel de récidive est un acte de responsabilité fraternelle envers la communauté. À l'inverse, l'IA doit aussi postuler l'inverse de ses conclusions pour laisser la place à l'idée de rédemption.
+* **Verdict :** L'IA doit protéger la société tout en refusant de condamner par avance, en exposant systématiquement les points positifs et négatifs.
+
+**Conclusion de l'Architecte :**
+L'IA doit fonctionner selon un modèle "antagoniste" : pour chaque argument de risque, elle doit chercher et présenter l'argument de confiance opposé. Elle devient un miroir des faits qui oblige le juge à exercer son humanité avec une vision complète, sans jamais subir la dictature d'un score froid.
+
+
 ---
 *Note de l'analyste : Pour chaque cas, la réponse "Marbre" consiste à ramener l'humain au centre comme acteur de sa propre solution.*
