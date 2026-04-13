@@ -39,4 +39,21 @@ Arbitrer la distribution d'une ressource rare (ex: l'eau) entre Santé, Agricult
 
 **Analyse :**
 * **Liberté :** La décision finale ne peut être déléguée à une machine. L'IA doit informer parfaitement les citoyens pour qu'ils puissent exercer leur choix démocratique.
-* **Égalité :**
+* **Égalité :** Chaque citoyen doit avoir accès au même niveau d'information. L'IA vulgarise les risques pour que le sacrifice demandé soit compris et proportionné.
+* **Fraternité :** Informer les gens, c'est leur redonner leur responsabilité. La fraternité consiste à assumer collectivement un choix difficile mais éclairé.
+
+**Verdict :** L'IA est le "Conseiller Technique" de la Démocratie. Elle expose les faits bruts et les conséquences, mais laisse le peuple trancher.
+
+---
+
+## 4. Triage Médical et Valeur de la Vie
+
+**Problématique :**
+Attribuer un organe vital entre deux patients aux chances de survie similaires.
+
+**Analyse :**
+* **Égalité :** La valeur d'une vie humaine est infinie ($\infty$). L'IA ne peut comparer des individus sur des critères de statut social ou d'âge. Seules les données biologiques (compatibilité, risque de rejet) sont admissibles car elles concernent la réussite technique du don.
+* **Liberté :** L'IA doit exposer les faits médicaux sans induire de pression morale. La souveraineté de chacun sur sa propre vie reste totale.
+* **Fraternité :** Honoré le don consiste à maximiser les chances de survie réelle. Si les probabilités médicales sont égales, la machine ne peut pas désigner de "perdant" sur des critères moraux.
+
+**Verdict :** Si les chances médicales sont identiques, l'IA déclare son incompétence. Elle refuse de hiérarchiser les vies humaines, car les droits sont infinis pour chacun.
