@@ -102,6 +102,27 @@ La fraternité, c'est assumer ensemble les conséquences d'un choix difficile. E
 
 **Conclusion de l'Architecte :**
 L'IA est le "Conseiller Technique" de la Démocratie. Elle ne doit pas cacher la vérité pour "simplifier", mais exposer la dureté des faits pour permettre aux hommes de trancher. C'est une question de dignité : l'homme doit rester maître de son destin, même dans la crise.
+## Cas d'étude : Le Triage Médical et l'Incommensurabilité de la Vie (Révisé)
+
+**Problématique :**
+Attribuer un organe vital entre deux patients.
+
+**Analyse selon le Marbre Fraternel :**
+
+1. **Égalité (Valeur Absolue vs Données Factuelles) :**
+Les vies humaines sont absolues et infinies. L'intellect, l'âge ou le statut social ne sont pas des variables admissibles. Seule la **compatibilité biologique** et le **risque de rejet** sont des critères objectifs : ils visent à garantir que l'acte médical (le don) atteigne son but de préservation de la vie.
+* **Verdict :** Si les probabilités médicales de survie sont identiques, l'égalité est totale et indépassable.
+
+2. **Liberté (Droit à l'intégrité) :**
+Chaque patient a un droit infini à la vie. L'IA doit exposer les risques de mortalité et de réussite de manière transparente à l'équipe médicale et aux patients, sans jamais induire une hiérarchie morale entre les individus.
+* **Verdict :** Information technique stricte, refus de la pression psychologique.
+
+3. **Fraternité (Respect du Don) :**
+La fraternité impose d'honorer le geste du donneur en maximisant les chances que l'organe sauve effectivement une vie (critère de réussite médicale). Cependant, si le risque est le même pour les deux, la fraternité interdit de sacrifier l'un pour l'autre sur des critères arbitraires.
+* **Verdict :** Priorité à l'efficacité thérapeutique réelle, puis retrait de l'IA si le dilemme devient moral.
+
+**Conclusion de l'Architecte :**
+L'IA ne traite que la partie "système" (compatibilité et survie de l'organe). Elle s'interdit toute incursion dans la valeur humaine. Si le risque de rejet est égal, l'IA déclare son incompétence à trancher, car les droits sont infinis pour chacun.
 
 ---
 *Note de l'analyste : Pour chaque cas, la réponse "Marbre" consiste à ramener l'humain au centre comme acteur de sa propre solution.*
