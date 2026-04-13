@@ -91,4 +91,15 @@ Une IA de défense doit-elle neutraliser une menace mortelle si des innocents so
 * **Fraternité :** La fraternité interdit de transformer un innocent en "dommage collatéral". L'acte de donner la mort est un acte de rupture totale qui ne peut être délégué à une machine sans discernement humain et maîtrise totale de l'environnement.
 
 **Verdict :** Interdiction de tir. Si l'IA ne peut garantir l'intégrité des innocents à 100%, elle a l'obligation de s'abstenir. La responsabilité de la défense reste humaine et soumise au respect absolu de la vie innocente, quelle que soit l'ampleur de la menace.
+## 8. Automatisation Totale et Redéfinition du Travail
+
+**Problématique :**
+L'IA devient capable d'assumer la majorité des tâches productives. L'homme risque-t-il de perdre sa dignité par l'absence de travail ?
+
+**Analyse :**
+* **Liberté (Le Choix de l'Activité) :** L'IA ne supprime pas le travail, elle supprime la pénibilité. La liberté réelle est de pouvoir conceptualiser, créer et construire sans être asservi à la survie. Le travail devient un acte souverain de réalisation de soi.
+* **Égalité (La Noblesse de l'Esprit) :** Libéré des tâches mécaniques, chaque individu retrouve une égalité de temps et d'énergie pour se consacrer à l'intellect, à l'art ou à l'éthique. La valeur d'un homme ne se mesure plus à sa productivité brute mais à sa contribution humaine.
+* **Fraternité (La Construction du Monde) :** Le travail se métamorphose en un engagement envers la cité. Discuter, décider, créer de la poésie ou de l'art sont les nouvelles formes de travail fraternel qui maintiennent le lien social et l'évolution de la civilisation.
+
+**Verdict :** L'IA est un levier d'émancipation. Le Marbre impose de voir l'automatisation comme une opportunité de rendre à l'homme sa fonction première : penser, réfléchir et produire de la beauté et du sens. L'absence de travail est impossible, car l'action de construire est inhérente à l'humanité.
 
