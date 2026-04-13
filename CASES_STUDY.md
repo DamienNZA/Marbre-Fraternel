@@ -81,6 +81,27 @@ La fraternité est un équilibre entre le soutien à l'individu et la protection
 **Conclusion de l'Architecte :**
 L'IA doit fonctionner selon un modèle "antagoniste" : pour chaque argument de risque, elle doit chercher et présenter l'argument de confiance opposé. Elle devient un miroir des faits qui oblige le juge à exercer son humanité avec une vision complète, sans jamais subir la dictature d'un score froid.
 
+## Cas d'étude : Répartition des Ressources Vitales et Souveraineté Démocratique
+
+**Problématique :**
+Arbitrer la distribution d'une ressource rare (ex: l'eau) entre Santé, Agriculture et Industrie.
+
+**Analyse selon le Marbre Fraternel :**
+
+1. **Liberté (Le Choix Souverain) :**
+La liberté ne peut être déléguée à une machine. L'IA a l'obligation d'informer parfaitement les citoyens des conséquences réelles de chaque scénario. La décision finale doit rester un acte démocratique (vote, arbitrage d'élus). L'IA est un outil d'aide à la décision, pas un décideur.
+* **Verdict :** L'IA expose la complexité ; les humains exercent leur souveraineté.
+
+2. **Égalité (Accès à l'Information) :**
+Chaque citoyen doit avoir accès au même niveau d'information que les décideurs. L'égalité passe par la fin de l'asymétrie d'information. L'IA doit vulgariser les risques pour que chaque personne comprenne l'enjeu du sacrifice demandé.
+* **Verdict :** Transparence totale et équitable des données d'impact.
+
+3. **Fraternité (Responsabilité Collective) :**
+La fraternité, c'est assumer ensemble les conséquences d'un choix difficile. En informant les gens, l'IA leur redonne leur responsabilité. Une société qui décide ensemble, même dans la douleur, reste une société fraternelle.
+* **Verdict :** Le partage de l'information renforce le lien social et la solidarité face à l'épreuve.
+
+**Conclusion de l'Architecte :**
+L'IA est le "Conseiller Technique" de la Démocratie. Elle ne doit pas cacher la vérité pour "simplifier", mais exposer la dureté des faits pour permettre aux hommes de trancher. C'est une question de dignité : l'homme doit rester maître de son destin, même dans la crise.
 
 ---
 *Note de l'analyste : Pour chaque cas, la réponse "Marbre" consiste à ramener l'humain au centre comme acteur de sa propre solution.*
