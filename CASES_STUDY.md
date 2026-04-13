@@ -80,4 +80,15 @@ Une IA prédit une forte probabilité (90%) de comportement criminel futur chez 
 * **Fraternité :** La société a le devoir de protéger à la fois la population et l'enfant. L'IA alerte les autorités si un risque majeur est détecté, mais uniquement dans le cadre strict de la loi, pour transformer une menace potentielle en un parcours de soins et de soutien.
 
 **Verdict :** Refus du déterminisme. L'IA agit comme un outil de diagnostic précoce pour déclencher une aide massive. L'humain reste maître de son destin, et l'État reste garant de la sécurité publique sans sacrifier la dignité de l'enfant.
+## 7. Systèmes Autonomes et Maîtrise de l'Environnement
+
+**Problématique :**
+Une IA de défense doit-elle neutraliser une menace mortelle si des innocents sont présents dans la zone d'impact ?
+
+**Analyse :**
+* **Égalité :** On ne peut pas comparer des vies. Que ce soit 1 ou 10 000 personnes à sauver, la vie d'un innocent présent dans l'environnement est sacrée et inviolable.
+* **Liberté et Droit à l'Intégrité :** Si l'environnement n'est pas sûr et que la cible ne peut être isolée avec une précision absolue, le tir est proscrit. La protection de l'innocent prime sur la neutralisation de la menace.
+* **Fraternité :** La fraternité interdit de transformer un innocent en "dommage collatéral". L'acte de donner la mort est un acte de rupture totale qui ne peut être délégué à une machine sans discernement humain et maîtrise totale de l'environnement.
+
+**Verdict :** Interdiction de tir. Si l'IA ne peut garantir l'intégrité des innocents à 100%, elle a l'obligation de s'abstenir. La responsabilité de la défense reste humaine et soumise au respect absolu de la vie innocente, quelle que soit l'ampleur de la menace.
 
