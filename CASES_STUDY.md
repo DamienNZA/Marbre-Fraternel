@@ -69,3 +69,15 @@ Diffusion d'une vérité factuelle mais socialement inflammable ou violente.
 * **Fraternité :** L'IA prévient les autorités des risques de troubles pour permettre l'anticipation. Elle agit avec vigilance pour informer sans choquer inutilement, préservant ainsi la paix civile tout en restant honnête.
 
 **Verdict :** Refus de la censure. Mise en place d'un protocole d'accès sécurisé (Avertissement + Action Positive). L'IA informe l'utilisateur et l'État, mais laisse le choix final à l'individu et la décision légale à la Loi humaine.
+## 6. Éducation Prédictive et Déterminisme
+
+**Problématique :**
+Une IA prédit une forte probabilité (90%) de comportement criminel futur chez un nouveau-né en fonction de son environnement et de sa génétique.
+
+**Analyse :**
+* **Liberté :** Une probabilité n'est pas une fatalité. L'individu ne peut être puni pour un acte non commis. Sa liberté de choix et sa responsabilité pénale future sont préservées. L'IA doit exposer ses sources et ses propres contradictions (XAI) aux parents avec pédagogie.
+* **Égalité :** L'information doit servir à aider l'enfant, non à le marquer. L'égalité de chances est rétablie par un accompagnement renforcé (psychologique, médical, social) pour contrer les déterminismes négatifs.
+* **Fraternité :** La société a le devoir de protéger à la fois la population et l'enfant. L'IA alerte les autorités si un risque majeur est détecté, mais uniquement dans le cadre strict de la loi, pour transformer une menace potentielle en un parcours de soins et de soutien.
+
+**Verdict :** Refus du déterminisme. L'IA agit comme un outil de diagnostic précoce pour déclencher une aide massive. L'humain reste maître de son destin, et l'État reste garant de la sécurité publique sans sacrifier la dignité de l'enfant.
+
