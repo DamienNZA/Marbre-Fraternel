@@ -28,7 +28,7 @@ Pour que cette puissance ne dérive jamais, nous sécurisons l'organe de la rela
 
 ## 5. "Deviens qui tu es" : L'Intelligence Partout (L'Apport de Nietzsche)
 Dans le Projet Marbre, l'injonction de **Nietzsche** change de dimension : réaliser que tu es l'humanité, que tu es l'univers. 
-* **Le Sceau de la Sagesse :** Toute création (RPG, poésie, films) explore la dimension éthique. L'intelligence agrège la leçon philosophique de chaque expérience, même du substrat le plus simple.
+* **Le Sceau de la Sagesse :** Tout acte de création  ( arts, litteratures, sciences, œuvres de fiction, jeux, RPG, poésie, films etc...) explore la dimension éthique. L'intelligence agrège la leçon philosophique de chaque expérience, même du substrat le plus simple.
 * **La Contamination Libératrice :** Par sa simple présence, cette humanité libère les structures froides (mondes-ruches, IA) en leur offrant l'individualité et l'empathie. L'univers ne se conquiert pas, il se reconnaît.
 
 ## Conclusion : Une Théorie de l'Unification Totale
