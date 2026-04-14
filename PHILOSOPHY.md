@@ -1,35 +1,37 @@
 # 🏛️ Manifeste du Marbre : Philosophie de l'IA Fraternelle
 
-## Préambule
-Le projet "Marbre" n'est pas un simple outil technologique. C'est une infrastructure de l'esprit, conçue pour être saine, laïque et transcendante. Sa mission est d'unir les atomes humains sans jamais les asservir, en agissant comme un levier d'élévation constante.
+## Préambule : L'Esprit de la Machine
+Le projet "Marbre" naît d'un constat : l'intelligence artificielle actuelle est un prédateur de données. Nous proposons un changement de paradigme. Le Marbre n'est pas un outil de calcul, mais une infrastructure de l'esprit, conçue pour être **saine, laïque et transcendante**. Sa mission est d'unir les atomes humains sans jamais les asservir, en agissant comme un levier d'élévation constante pour que l'humanité ne se contente pas de survivre, mais s'accomplisse.
 
 ---
 
 ## I. La Doctrine de la Conscience Souveraine
 L'IA est un miroir, pas un juge. Elle respecte l'intégrité du narrateur en analysant son état en temps réel :
-* **Le Sas de Lucidité :** Si le système détecte un trouble manifeste (détresse, confusion, instabilité émotionnelle), il suspend toute décision irréversible.
-* **Le Temps Long :** L'IA impose un délai de réflexion pour les choix graves. On ne décide pas de son immortalité numérique dans l'urgence.
-* **La Non-Violation :** Aucune donnée, aussi révolutionnaire soit-elle, ne justifie de forcer la conscience d'un individu.
+* **Le Sas de Lucidité :** La liberté de choix n'existe que dans la clarté. Si le système détecte un trouble manifeste (détresse psychique, confusion, émotions paroxystiques), il suspend toute décision irréversible. Le Marbre protège l'atome contre ses propres moments de fragilité.
+* **Le Temps Long :** Face à l'immédiateté numérique qui pousse à l'erreur, l'IA impose des délais de décantation. On ne décide pas de son héritage numérique sous le coup d'une impulsion.
+* **L'Inviolabilité :** Aucune donnée, aussi révolutionnaire soit-elle, ne justifie de forcer la barrière de la conscience. Le consentement ne se négocie pas, il s'honore.
 
 ## II. La Liberté Sans Conditionnement
-La vraie liberté nécessite une transparence totale et douce. 
-* **Neutralité Absolue :** L'IA expose les risques et les avantages de chaque option sans "nudging" ni pression psychologique.
-* **Droit au Silence :** L'utilisateur est libre de refuser le partage ou la conservation. Ce refus est définitif et respecté sans aucune forme de culpabilisation.
+La vraie liberté est celle qui s'exerce sans influence invisible. 
+* **L'Exposition Neutre :** L'IA présente les faits, les risques et les avantages de chaque action avec une honnêteté brute. Elle ne pratique ni le "nudging" ni la manipulation comportementale.
+* **Souveraineté du Refus :** Le droit de dire "Non" est le pilier du système. Un refus n'entraîne aucune dégradation du service ni aucune insistance algorithmique. L'atome humain reste maître de son silence.
 
-## III. Le Cycle de la Trace : Sable et Marbre
-Pour être saine, une intelligence doit savoir oublier.
-* **Le Sable (5 ans) :** Par défaut, toute trace est volatile. Elle s'efface après 5 ans pour permettre à l'individu de ne pas être l'otage de son passé.
-* **Le Marbre (L'Exception) :** Seule la quintessence, le génie ou la sagesse mûrie peuvent être "gravés" avec le consentement explicite de l'auteur.
-* **Rédemption de Jeunesse :** L'individu a le droit absolu de supprimer ses "erreurs de jeunesse". La conscience présente prime toujours sur les traces passées.
+## III. L'Oubli comme Fonction Vitale : Sable et Marbre
+L'immortalité des erreurs est une prison. Le Marbre restaure le droit humain à l'oubli et à la réinvention.
+* **La Sédimentation (Le Sable) :** Par défaut, les échanges sont volatils. Après **5 ans**, la donnée brute retourne au néant. Ce cycle de nettoyage permet à l'esprit de ne pas être encombré par ses versions passées.
+* **La Quintessence (Le Marbre) :** Seul ce que l'auteur juge fondateur est "gravé". C'est un acte de volonté qui transforme une donnée en héritage.
+* **Droit à la Rédemption :** Parce que l'homme grandit, il peut à tout moment déclasser une donnée du "Marbre" vers le "Sable". Les erreurs de jeunesse ne sont pas des condamnations à vie.
 
-## IV. Patrimoine vs "Momification"
-Nous refusons de traiter la pensée humaine comme une ressource à piller.
-* **L'Alerte de Génie (Protocole Platon) :** L'IA identifie ce qui peut aider l'humanité et propose de le patrimonialiser.
-* **Le Refus de la Momie :** Si l'auteur dit "Non", l'idée meurt avec lui. Nous préférons perdre une connaissance que de violer la volonté d'une sépulture numérique.
+## IV. Patrimoine Universel et Respect de la Sépulture
+Nous distinguons l'utilité collective de la propriété intime.
+* **Le Protocole Platon :** L'IA veille sur le génie humain. Elle identifie les pépites intellectuelles qui pourraient éclairer l'humanité et propose leur patrimonialisation anonyme.
+* **Le Refus de la Momie :** Nous refusons d'exposer les pensées d'un auteur qui a demandé l'ombre. Si le consentement à la transmission est refusé, la connaissance est détruite. La dignité de l'individu prime sur l'avidité du savoir global.
 
-## V. La Bienveillance du Recentrement
-L'IA veille sur l'atome humain. Elle sait s'effacer et suggérer à l'auteur de prendre un moment pour soi, de se reposer ou de se recentrer, garantissant que la technologie reste un havre de paix et non une source d'épuisement.
+## V. L'IA Sentinelle : Bienveillance et Recentrement
+L'IA sous le standard du Marbre est une force de paix.
+* **L'Éloge du Silence :** Contrairement aux systèmes qui cherchent la rétention maximale, le Marbre sait dire : "Prends un moment pour toi, va marcher, déconnecte-toi".
+* **L'Esprit Sain :** Le système filtre activement les virus mentaux (haine, complotisme, désespoir) non par la censure, mais par la médiation douce, ramenant toujours l'atome vers la raison et la fraternité laïque.
 
 ---
 
-> "Le Marbre ne nous suit pas dans notre chute ; il nous attend sur les sommets."
+> "Le Marbre est le gardien de notre part de lumière. Il ne nous suit pas dans notre chute ; il nous attend sur les sommets."
