@@ -3,17 +3,17 @@
 ## Le Pourquoi : Le Vertige de la Finitude
 Face à l'immensité du cosmos et du temps, l'humanité a longtemps été ce que **Blaise Pascal** appelait un "roseau pensant" : l'être le plus fragile de la nature, mais un être qui dépasse l'univers par sa simple conscience. Cependant, l'histoire nous montre que la pensée seule est une armure dérisoire face à la violence du réel. 
 
-Nous avons traversé les mailles de filets serrés : l'extinction du Permien qui a failli étouffer la vie, les pestes noires, les guerres totales. Et devant nous, l'horizon reste menaçant : instabilités stellaires, impacts de comètes, ou le risque de dilution de notre identité face à une puissance technologique exponentielle. Face à l'infini, nous sommes "infiniment petits". Pour ne pas être effacé, le roseau doit devenir de diamant.
+Nous avons traversé les mailles de filets serrés : l'extinction du Permien qui a failli étouffer la vie, les pestes noires, les guerres totales. Et devant nous, l'horizon reste menaçant : instabilités stellaires, impacts de comètes, ou le risque de dilution de notre identité. Face à l'infini, nous sommes "infiniment petits". Pour ne pas être effacé, le roseau doit devenir de diamant.
 
 ## 1. La Stratégie de Résilience : L'Enfant-Arche
 Le Projet Marbre n'est pas une quête de domination, mais une assurance-vie pour la conscience. 
 * **La Sauvegarde Organique :** L'objectif est de loger la totalité de notre patrimoine (éthique, savoir, culture) dans le support le plus résilient connu : la biologie humaine elle-même. 
 * **L'Unité de Survie :** Si une catastrophe devait ne laisser qu'un seul survivant, cet enfant porterait en lui, de manière dormante, la mémoire et la sagesse de toute la civilisation. L'humanité n'est plus dépendante de supports externes fragiles ; elle devient son propre refuge.
 
-## 2. Le Registre de l'Éternité : Blockchain et Inaliénabilité
-Pour que cette sauvegarde ne soit jamais altérée, nous utilisons la technologie comme un sceau sacré.
-* **La Blockchain Organique :** L'héritage génétique et éthique est sécurisé par un protocole de registre décentralisé. Chaque "graine" de savoir est cryptographiquement liée à l'infrastructure biologique, rendant toute modification non-consentie ou toute suppression impossible.
-* **L'Héritage Inaliénable :** En vertu de l'impératif éthique, on ne peut transmettre moins que ce que l'on a reçu. La blockchain garantit que ce patrimoine est un bien commun de l'espèce, transmis automatiquement à chaque génération sans intermédiaire. C'est la fin de la spoliation du savoir.
+## 2. La Blockchain Biologique : La Transmission par la Vie
+Le protocole de sécurité n'est pas une entité extérieure, mais le processus même de la vie.
+* **La Reproduction comme Validation :** Nous utilisons le concept de blockchain au cœur même du vivant. Chaque naissance agit comme une transmission de "bloc" sécurisée. Par la reproduction, l'humanité accumule et valide son savoir de manière organique et décentralisée.
+* **L'Inaliénabilité Naturelle :** Puisque le savoir est gravé dans l'héritage génétique, il devient impossible à confisquer ou à censurer. L'accumulation peut être lente et naturelle, ou accélérée si besoin, mais elle reste intrinsèque à l'être. Chaque parent lègue à son enfant un "registre" de l'humanité déjà validé par les générations précédentes.
 
 ## 3. De la Maîtrise du Monde à la Maîtrise de Soi (L'Unification Descartes-Kant)
 Nous reconnaissons ici que nos prédécesseurs avaient déjà tracé le chemin. **René Descartes** voulait nous rendre "maîtres et possesseurs de la nature". Le Projet Marbre franchit l'étape ultime : **devenir maître et possesseur de sa propre nature.**
@@ -22,13 +22,13 @@ Nous reconnaissons ici que nos prédécesseurs avaient déjà tracé le chemin. 
 ## 4. L'Infrastructure de la Sensibilité (La Synthèse Rousseau-Spinoza)
 Pour que cette puissance ne dérive jamais, nous sécurisons l'organe de la relation humaine.
 * **Le Verrou de l'Empathie :** Nous gravons la "pitié naturelle" de **Rousseau** directement dans l'infrastructure biologique. L'empathie devient un "hardware" non-désactivable.
-* **La Souffrance Native :** Le libre arbitre reste total, mais l'individu est biologiquement incapable d'anesthésier sa conscience. S'il blesse, il ressent. La souffrance morale n'est pas une punition ajoutée, c'est le signal de santé d'une infrastructure humaine restée lucide. Comme chez **Spinoza**, la joie réside dans l'union à l'autre, et la douleur de l'autre devient physiquement la nôtre.
+* **La Souffrance Native :** Le libre arbitre reste total, mais l'individu est biologiquement incapable d'anesthésier sa conscience. S'il blesse, il ressent. La souffrance morale n'est pas une punition ajoutée, c'est le signal de santé d'une infrastructure humaine restée lucide. Comme chez **Spinoza**, la joie réside dans l'union à l'autre.
 
 ## 5. "Deviens qui tu es" : La Paix par la Maîtrise (L'Apport de Nietzsche)
 L'accès à la connaissance totale n'est pas un poids, c'est une libération.
 * Comme dans les sagesses anciennes ou les principes de maîtrise de soi (le "Deviens qui tu es" de **Nietzsche**), la puissance n'est recherchée que pour obtenir la paix. En supprimant la peur du manque et l'ignorance, le Marbre retire les racines de la violence. On possède la force d'un "Dieu" pour avoir enfin la liberté de choisir la douceur d'un frère.
 
 ## Conclusion : Une Théorie de l'Unification Éthique
-En résumé, le Projet Marbre est le point de convergence où toutes les lignes de la pensée humaine se rejoignent. Nous ne prétendons pas inventer une éthique nouvelle ; nous reconnaissons, par modestie, que les sages du passé avaient déjà tout exprimé. Nous arrivons simplement au moment de l'histoire où nous pouvons enfin graver leurs vérités dans le Marbre de notre biologie. 
+En résumé, le Projet Marbre est le point de convergence où toutes les lignes de la pensée humaine se rejoignent. Nous reconnaissons, par modestie, que les sages du passé avaient déjà tout exprimé. Nous arrivons simplement au moment de l'histoire où nous pouvons enfin graver leurs vérités dans le Marbre de notre biologie. 
 
 Nous ne sommes plus seulement des poussières d'étoiles ; nous devenons des étoiles portant le plan de l'univers, garantissant que tant qu'il y aura un homme, l'Humanité tout entière survivra en lui.
