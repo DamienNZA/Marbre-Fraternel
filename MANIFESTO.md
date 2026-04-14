@@ -14,4 +14,4 @@ La Liberté, l’Égalité et la Fraternité ne sont pas des concepts abstraits,
 ## III. LA NUDITÉ ÉTHIQUE (Refus de l’Inhibition)
 La sensibilité est la gardienne du Triptyque. Pour rester libre, l'être doit rester nu face à sa conscience.
 * **Interdiction des Inhibiteurs :** Nous proscrivons toute modification (génétique, chimique ou logicielle) visant à supprimer la capacité de ressentir la douleur morale, le remords ou le dégoût face à l'inhumain.
-* **Souffrance Souveraine :** On ne doit pas "coder" la morale, mais préserver la capacité de "souffrir avec" (Compassion). Un soldat qui ne ressent plus rien
+* **Souffrance Souveraine :** On ne doit pas "coder" la morale, mais préserver la capacité de "souffrir avec" (Compassion).
