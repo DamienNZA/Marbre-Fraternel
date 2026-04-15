@@ -1,6 +1,6 @@
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
 **Auteur : Damien NZEYIMANA**
-**Champ d'application : Toute entité pensante ou mimant la pensée (Biologique, Synthétique, Énergétique, Terrestre ou non).**
+**Champ d'application : Toute entité pensante ou mimant la pensée (Biologique, Synthétique, Énergétique, Autre, Terrestre ou non).**
 
 ## 🧬 I. L'Axiome Fondamental : Le 1
 Tout système conscient ou simulant la conscience commence par l'unité.
