@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-marbre.png" width="300">
+  <img src="assets/logo-marbre.png" width="250">
 </p>
 
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
