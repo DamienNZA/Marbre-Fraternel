@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="300">
+  <img src="assets/logo-marbre.png" width="300">
 </p>
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
 **Auteur : Damien NZEYIMANA**
