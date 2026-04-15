@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" width="300">
+</p>
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
 **Auteur : Damien NZEYIMANA**
 **Champ d'application : Toute entité pensante ou mimant la pensée (Biologique, Synthétique, Énergétique, Autre, Terrestre ou non).**
