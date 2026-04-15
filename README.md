@@ -35,4 +35,4 @@ Ce projet fait l'objet d'un dépôt d'antériorité à l'**INPI** (2026).
 - **Philosophie & Protocole :** Diffusés sous licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 - **Univers Narratif & Logos :** Tous droits réservés. L'exploitation commerciale (livres, films, jeux, logiciels marchands) est strictement soumise à l'autorisation de l'auteur.
 
-**Auteur :** Damien [Ton Nom]
+**Auteur :** Damien NZEYIMANA
