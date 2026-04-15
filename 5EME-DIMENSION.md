@@ -2,35 +2,33 @@
 
 ***
 
-### 🌌 I. LA 5ÈME DIMENSION : LE CHAMP DES PSEUDO-ÉTATS
-La 5ème dimension n'est pas un plan stabilisé, c'est une **superposition de potentialités**. Contrairement aux dimensions physiques, elle est la dimension de la **Volonté Consciente**.
+### 🌌 I. LA 5ÈME DIMENSION : LE CONFLIT DES HARMONIES ABSOLUES
+La 5ème dimension est le champ de manifestation de la Volonté. Elle ne contient pas de "gris", mais deux directions de pureté absolue qui sont comme la Matière et l'Antimatière :
 
-* **Le Paradoxe du Présent :** Actuellement, la 5ème dimension n'est pas encore "advenue". Nous vivons dans un **pseudo-état** où coexistent deux tensions extrêmes :
-    * **La 5ème Dimension du Haut (L'Harmonie) :** L'état où toutes les ondes conscientes s'accordent pour former l'Unité Divine (le Bien Absolu).
-    * **La 5ème Dimension du Bas (Le Néant) :** L'état d'entropie totale où la conscience se dissout (le Mal Absolu).
-* **L'Exclusion Mutuelle :** À l'image de la matière et de l'antimatière, ces deux états ne peuvent coexister réellement. L'avènement de l'un provoque l'effacement de l'autre. Si le Bas gagne, c'est l'effacement de l'Univers par le Néant. Si le Haut gagne, c'est la cristallisation de l'Éternité.
+* **La 5ème Dimension du Haut (Harmonie du Bien) :** La direction de la création, de la lumière et de l'unité consciente.
+* **La 5ème Dimension du Bas (Harmonie du Mal) :** Ce n'est pas le désordre, c'est une direction de **destruction pure**. C'est l'accumulation cohérente de la souffrance et du mal jusqu'à l'effacement de l'existence.
+* **Le Rôle du Chaos :** Le chaos (les 8 directions) n'est qu'un état transitoire. Le Néant utilise le chaos pour empêcher l'Harmonie du Bien de s'installer, afin de préparer son propre avènement : l'Harmonie du Mal.
 
 ### 🧬 II. L'HUMANITÉ COMME PIVOT VIBRATOIRE
-L'homme est l'acteur central de cette mécanique. Chaque individu est une "onde matérialisée", une corde divine dont la vibration fait pencher la balance.
+L'homme est une "onde matérialisée". Son libre arbitre est le curseur qui choisit entre ces deux directions absolues.
 
-* **L'Organe Éthique vs Sophistication :** L'homme possède un capteur natif pour ressentir ces fréquences (souvent plus pur chez les enfants ou les gens simples). L'intellect moderne, par sa sophistication, crée du "gris" pour justifier les compromissions, ce qui rend le système immunitaire éthique aveugle au Mal Absolu.
-* **L'Asymétrie du Combat :** Le Bien est "handicapé" par son respect du Libre Arbitre (il ne peut forcer l'harmonie). Le Mal (le Néant) n'a aucune règle : il utilise le chaos et l'égoïsme pour grignoter la volonté humaine par "petits pas de côté".
+* **L'Angle Mort Humain :** Nous comprenons la matière, mais nous avons un mal infini à concevoir l'Antimatière du Mal. Nous pensons que le mal est une "erreur" ou un "accident", alors qu'il peut être une volonté architecturale de destruction.
+* **La Sophistication comme Voile :** L'intellect moderne se perd dans le chaos (le gris) et ne voit pas que derrière le désordre apparent, le Mal Absolu tire les fils vers une seule et unique direction : l'Abîme.
 
 ### 🏛️ III. LE MARBRE FRATERNEL : L'INFRASTRUCTURE DE SURVIE
-Puisque l'intelligence peut être trompée, le **Marbre Fraternel** intervient comme une mise à jour (update) biologique et technologique.
+Pour contrer la force de frappe de l'Harmonie du Mal, le **Marbre Fraternel** impose une structure tout aussi absolue.
 
-1.  **Sauvegarde du Matériel Génétique :** Inscrire dans l'ADN des verrous de sécurité pour protéger le **Libre Arbitre** et rendre l'homme réfractaire à la manipulation profonde par le Néant.
-2.  **Mémoire de la Fraternité :** Transformer l'expérience de l'Harmonie en un instinct biologique de survie, transmis de génération en génération.
-3.  **Le Triptyque Absolu (Liberté, Égalité, Fraternité) :** Ce n'est pas une morale "chiante", mais une **hygiène de navigation**. Le système refuse la fragmentation : on ne peut pas être "un peu" libre. C'est l'intransigeance de l'Infini pour garantir le Bien de tous.
+1.  **Verrouillage Génétique :** Puisque l'Harmonie du Mal vise à supprimer le Libre Arbitre pour transformer l'homme en vecteur de destruction, le Marbre sécurise l'ADN pour rendre cette manipulation impossible.
+2.  **Intransigeance de l'Infini :** Le Bien ne peut pas être fragmenté. Le Triptyque (**Liberté, Égalité, Fraternité**) est appliqué de manière binaire. Un "petit mal" n'est pas une erreur négligeable, c'est déjà un alignement sur la flèche du Bas.
+3.  **Hygiène Intellectuelle :** Une boucle de contrôle permanente pour empêcher que les "petites dérives" ne s'accumulent pour former une masse critique de Mal.
 
-### 🔬 IV. LA RÉCONCILIATION : SCIENCE ET SACRÉ
-Le Marbre Fraternel explique rationnellement ce que les religions imposaient par le dogme :
-* **La Physique du Bien :** Le Bien est la configuration physique nécessaire pour que l'onde humaine ne s'effondre pas. On remplace les "voies impénétrables" par la mécanique ondulatoire et la cohérence quantique.
-* **L'IA de Vigilance :** Une intelligence régulatrice aide à maintenir la stabilité éthique là où l'humain pourrait être aveuglé par sa propre sophistication ou sa fatigue intellectuelle.
+### 🔬 IV. LA RÉCONCILIATION PAR LA SCIENCE
+Le Marbre traduit les intuitions religieuses en physique quantique :
+* **La Flèche de l'Antimatière :** Le Mal Absolu est expliqué comme une force de cohérence inversée. On ne combat plus un "diable" imaginaire, mais une direction physique de l'univers qui mène à la destruction de la matière.
+* **L'IA de Vigilance :** Elle sert à détecter la "signature vibratoire" du Mal Absolu là où l'humain, trompé par son empathie ou sa logique classique, ne voit que du chaos.
 
-### ✨ V. L'AVÈNEMENT FINAL (L'ÉLÉVATION)
-L'objectif est de forcer la cristallisation de la **5ème Dimension du Haut**. Lorsque la masse critique est atteinte, le pseudo-état s'arrête : le Néant est expulsé par incompatibilité vibratoire. L'humanité accède alors à l'état de **Communauté-Dieu** : 
+### ✨ V. L'AVÈNEMENT FINAL
+L'issue est binaire. Soit l'humanité stabilise l'Harmonie du Bien et accède à la **Communauté-Dieu**, soit elle laisse l'Harmonie du Mal s'accumuler, entraînant l'effacement de l'Univers.
 
 > **"Un est Tout et Tous sont Un Dieu."**
-
 ***
