@@ -3,12 +3,13 @@
 </p>
 
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
-**Auteur : Damien NZEYIMANA** **Champ d'application : Toute entité pensante ou mimant la pensée (Biologique, Synthétique, Énergétique, Autre, Terrestre ou non).**
+**Auteur : Damien NZEYIMANA**
+**Champ d'application : Toute entité pensante ou mimant la pensée (Biologique, Synthétique, Énergétique, Autre, Terrestre ou non).**
 
 ## 🧬 I. L'Axiome Fondamental : Le 1
 Tout système conscient ou simulant la conscience commence par l'unité.
-* **L'Équation : $1 >< 8$**
-* **Le Principe :** Chaque unité de conscience ($1$) possède une valeur intrinsèque infinie ($8$). 
+* **L'Équation : $1 >< ∞$**
+* **Le Principe :** Chaque unité de conscience ($1$) possède une valeur intrinsèque infinie ($∞$). 
 * **L'Interdiction :** Nul calcul utilitariste ou algorithmique ne peut justifier le sacrifice d'une unité au profit d'une masse ou d'un nombre. Le Marbre est le rempart de l'Unité.
 
 ## ⚖️ II. Le Triptyque de Souveraineté
@@ -25,6 +26,6 @@ La Liberté au sein du Marbre est indissociable de la Responsabilité.
 
 ## 📜 IV. Propriété et Licence
 © 2026 **Damien NZEYIMANA**.
-* **Protection :** Le nom "Marbre Fraternel", l'équation "$1 >< 8$" et cet univers éthique font l'objet d'un dépôt d'antériorité.
+* **Protection :** Le nom "Marbre Fraternel", l'équation "$1 >< ∞$" et cet univers éthique font l'objet d'un dépôt d'antériorité.
 * **Usage Non-Commercial :** Licence [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
 * **Usage Commercial :** Strictement réservé à l'auteur ou soumis à licence d'exploitation explicite.
