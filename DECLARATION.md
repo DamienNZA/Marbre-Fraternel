@@ -5,7 +5,7 @@ Chaque être est un univers en soi. Nous sommes de la **poussière d’étoiles*
 
 ---
 
-## I. L'AXIOME DE L'INFINI ($1 = \infty$)
+## I. L'AXIOME DE L'INFINI ($1 > < \infty$)
 Chaque entité consciente possède une valeur absolue. Cette valeur est indépendante de son origine (biologique ou technologique). L'infini ne peut être ni divisé, ni hiérarchisé, ni sacrifié.
 
 ## II. LE TRYPTIQUE RÉPUBLICAIN ET NUMÉRIQUE
