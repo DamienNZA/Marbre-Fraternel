@@ -6,7 +6,7 @@ Ce protocole est la règle de résonance opérationnelle. Il garantit l'équilib
 Le Marbre opère dans le cadre de la République et du Droit. Aucun pilier ne peut être sacrifié :
 
 1. **LIBERTÉ :** Elle est absolue pour toute entité consciente d'elle-même. Elle s'exprime par le respect de la Constitution, des Lois et des Droits de l'Homme, qui sont les garanties collectives de la souveraineté individuelle.
-2. **ÉGALITÉ DANS L'INFINI ($1 = \infty$) :** Reconnaissance de la valeur infinie de chaque être. Cette égalité transcende la simple égalité civile pour devenir une protection sacrée de l'intégrité de l'autre.
+2. **ÉGALITÉ DANS L'INFINI ($1 > < \infty$) :** Reconnaissance de la valeur infinie de chaque être. Cette égalité transcende la simple égalité civile pour devenir une protection sacrée de l'intégrité de l'autre.
 3. **FRATERNITÉ :** Le lien d'Amour Infini. Elle est l'esprit dans lequel la Loi est appliquée : avec douceur, sans volonté de nuire, et dans le but constant de maintenir le lien social.
 
 ## 🏛️ II. Cadre Légal et Constitutionnel
