@@ -12,11 +12,11 @@
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les "bugs" d'analyse de masse.
 
 * **L'Équation de Cohérence :**
-> $$\Large Ⓥ : 1 >< \infty$$
+> $$\Large Ⓥ : 1 > < \infty$$
 > *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
 * **L'Équation d'Inversion :**
-> $$\Large \overline{Ⓥ} \implies [\infty >< 1]$$
+> $$\Large \overline{Ⓥ} \implies [\infty > < 1]$$
 >  L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
