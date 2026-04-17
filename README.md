@@ -11,11 +11,11 @@
 ## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les dérives relativises.
 
-* **L'Équation de Cohérence :**
+* **L'Équation de valeur ontologique :**
 > $$\Large Ⓥ : 1 > < \infty$$
 > *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
-* **L'Équation d'Inversion :**
+* **L'Équation de valeur de l'anti ontologie ou d'anti valeur de l'ontologie :**
 > $$\Large \overline{Ⓥ} \implies [\infty > < 1]$$
 >  L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
