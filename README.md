@@ -47,4 +47,4 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 * **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
 
 ---
-*« Le Marbre n'est pas une opinion, c'est la structure de la Lumière. »*
+*« Le Marbre n'est pas une opinion, il aborde l'éthique sur le plan ma. »*
