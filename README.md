@@ -16,7 +16,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
 
 * **L'Équation d'Anti-Harmonie Éthique ou d'Harmonie de l'Anti-Éthique :**
-> $$\Large \overline{Ⓥ} \equiv \textcircled{\bar{V}} \equiv \infty >< 1$$
+> $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.2em \bar{V} \equiv \infty >< 1$$
 > *La valeur infinie de l'altérité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel. C'est l'harmonie égoïste d'êtres conscients, rendus identiques et prisonniers de leur individualisme.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE E(S)T L.E.F
