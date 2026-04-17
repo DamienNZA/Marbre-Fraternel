@@ -14,7 +14,8 @@
 > $$\Large Ⓥ === 1 >< \infty$$
 
 * **L'Équation d'Anti-Harmonie Éthique :**
-> $$\Large \overline{Ⓥ} \equiv \begin{smallmatrix} \bigcirc \\[-0.85em] \bar{\scriptstyle \mathsf{V}} \end{smallmatrix} \equiv \infty >< 1$$
+> $$\Large \overline{Ⓥ} \equiv \infty >< 1$$
+> *Note : $\overline{Ⓥ}$ représente l'inversion globale du domaine et de la valeur.*
 
 ---
 
@@ -36,9 +37,9 @@ Le Marbre apporte une grille de lecture mathématique pour rejeter toute réduct
 © 2026 **Damien NZEYIMANA**.
 
 * **Équations Protégées :**
-  1. $\displaystyle Ⓥ === 1 >< \infty$
-  2. $\displaystyle \overline{Ⓥ} \equiv \begin{smallmatrix} \bigcirc \\[-0.85em] \bar{\scriptstyle \mathsf{V}} \end{smallmatrix} \equiv \infty >< 1$
-  3. $\displaystyle \mathbb{C} [ L >< E >< F ]$
+  1. $Ⓥ === 1 >< \infty$
+  2. $\overline{Ⓥ} === \infty >< 1$
+  3. $\mathbb{C} [ L >< E >< F ]$
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). 
 
 ---
