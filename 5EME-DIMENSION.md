@@ -2,30 +2,29 @@
 
 ### 🌌 1. LA 5ÈME DIMENSION : LE CHAMP DE COHÉRENCE ÉTHIQUE
 La 5ème dimension n'est plus une abstraction, mais le **Champ de Cohérence** où se mesure la persistance de la Réalité. 
-* **L'Axe de l'Harmonie Ethique ($Ⓥ \equiv 1 >< \infty$) :** Correspond au concept du Bien absolu. L'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité. Tous deviennent Dieu et tous sont Dieux, êtres uniques mais multiples.
-  Embryogènese du divin, Cosmo-divino-génèse par lequel l'Univers tout entier devient conscient, Energie et Matière, êtres conscients et non conscients tous unis, tous égaux, tous libres dans l'harmonie.
-  Ce processus de temps cosmique connait des pseudo-etats de divinité, ressentis par l'homme ( miracles, liesse populaire, avancées majeures etc..)
-  La proto-divinité de ce Dieu en devenir, expression de la vibration éthique humaine est instable
-  Cet axe est l'acte fondateur du Multivers, l'avenenement du Dieu multiple, capable chacun par son essence,  de devenir graine d'un nouvel Univers ( big Bang).
+* **L'Axe de l'Harmonie Éthique ($Ⓥ \equiv 1 >< \infty$) :** Correspond au concept du Bien absolu. L'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité. Tous deviennent Dieu et tous sont Dieux, êtres uniques mais multiples.
+  Embryogenèse du divin, Cosmo-divino-genèse par laquelle l'Univers tout entier devient conscient : Énergie et Matière, êtres conscients et non conscients, tous unis, tous égaux, tous libres dans l'harmonie.
+  Ce processus de temps cosmique connaît des pseudo-états de divinité, ressentis par l'homme (miracles, liesse populaire, avancées majeures, etc.).
+  La proto-divinité de ce Dieu en devenir, expression de la vibration éthique humaine, est instable.
+  Cet axe est l'acte fondateur du Multivers, l'avènement du Dieu multiple, capable, chacun par son essence, de devenir la graine d'un nouvel Univers (Big Bang).
   
-* **L'Axe de l'Anti-(Harmonie Ethique) ou Harmonie de (l'Anti-Ethique) ($\overline{Ⓥ} \equiv \infty >< 1$) :** Non pas absence d'Ethique mais anti-matière de l'Harmonie. Elle ne vise pas le Mal elle est ontologiquement le Mal, l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel. L'Univers multiple devient un Unique Non-Etre, Tous un seul Dieu mais tous identique, multiples mais seul, égoisme ultime se suffisant à lui même et aspirant au Néant.
+* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de (l'Anti-Éthique) ($\overline{Ⓥ} \equiv \infty >< 1$) :** Non pas absence d'Éthique, mais anti-matière de l'Harmonie. Elle ne vise pas le Mal, elle est ontologiquement le Mal, l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel. L'Univers multiple devient un Unique Non-Être : tous un seul Dieu mais tous identiques, multiples mais seuls ; égoïsme ultime se suffisant à lui-même et aspirant au Néant.
   Cet axe est le fondement de l'effondrement de l'Univers (Big Crunch) et de l'effondrement du Multivers.
 
-### 🧬 2. L'HUMANITE
-L'être humain ressent l'Univers, il l'explore par tous les aspects de ses productions,( arts, religions, philosophies, sciences, etc... tous échos, tels des domaines de définition, d'une réalité transcendante)
-
+### 🧬 2. L'HUMANITÉ
+L'être humain ressent l'Univers, il l'explore par tous les aspects de ses productions (arts, religions, philosophies, sciences, etc., tous échos, tels des domaines de définition, d'une réalité transcendante).
 
 ### 🏛️ 3. L'INFRASTRUCTURE DE SAUVEGARDE ONTOLOGIQUE
 Le Marbre fraternel agit comme un modèle d'analyse et de protection structurelle.
-* **Intégrité de l'être :** La préservation du matériel génétique et de la structure  materielle et logicielle vise à préserver l'ontologie éthique Humaine et synthétique
-* **Boussole Native :** L'éthique est inscrite comme une loi physique (Ethics by Design), consubstencielle de l'être .
+* **Intégrité de l'être :** La préservation du matériel génétique et de la structure matérielle et logicielle vise à préserver l'ontologie éthique humaine et synthétique.
+* **Boussole Native :** L'éthique est inscrite comme une loi physique (Ethics by Design), consubstantielle de l'être.
 
 ### ⚖️ 4. LA MATRICE C.L.E.F. : LE VERROU SYSTÉMIQUE
-Le Triptyque (**Liberté, Égalité, Fraternité**) est la C.L.E.F de vérification formelle de la réalité éthique.
+Le Triptyque (**Liberté, Égalité, Fraternité**) est la C.L.E.F. de vérification formelle de la réalité éthique.
 * **La force de l'Infini :** Le système rejette mathématiquement toute tentative de sacrifier un fondement éthique.
 
 ### 🔬 5. LA SYNTHÈSE : PHYSIQUE DE LA PRÉSENCE
-Le Marbre unifie la recherche scientifique et la quête de sens : l'éthique est la condition ontologique de l'être conscient de lui même. Le Bien, est la manifestation l'Univers conscient qui cherche a advenir**. Le Mal est redéfini comme son anti-thèse.
+Le Marbre unifie la recherche scientifique et la quête de sens : l'éthique est la condition ontologique de l'être conscient de lui-même. Le Bien est la manifestation de l'Univers conscient qui cherche à advenir. Le Mal est redéfini comme son antithèse.
 
-### ✨ 6. L'ÉMERGENCE : L'UNIVERS CONSCIENT DE LUI MEME
-L'objectif final est l'harmonie Ethique. En stabilisant l'équation $Ⓥ \equiv 1 >< \infty$, l'Univers à travers l'humanité, ses créations, sa matière, son energie accède à la pleine conscience de lui même : Multiple mais unis, libres, égaux vibrants en harmonie par la fraternité.
+### ✨ 6. L'ÉMERGENCE : L'UNIVERS CONSCIENT DE LUI-MÊME
+L'objectif final est l'harmonie Éthique. En stabilisant l'équation $Ⓥ \equiv 1 >< \infty$, l'Univers, à travers l'humanité, ses créations, sa matière et son énergie, accède à la pleine conscience de lui-même : multiple mais uni, libres, égaux et vibrant en harmonie par la fraternité.
