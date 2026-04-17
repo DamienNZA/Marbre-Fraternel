@@ -13,14 +13,13 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
-> *l'infini (∞) valeur de l'alterité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et  chacun a une valeur infini. C'est l'harmonie fraternelle d'être conscients égaux ( pas identiques) et libres. 
+> *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
 
 * **L'Équation d'Anti-Harmonie Éthique ou d'Harmonie de l'Anti-Éthique :**
 > $$\Large \overline{Ⓥ} === \textcircled{\bar{V}} === \infty >< 1$$
-> *La valeur infinie de l'alterité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoisme structurel et conceptuel.*
-> . C'est l'harmonie égoiste d'être conscients, identiques et prisonniers de leur individualisme . 
+> *La valeur infinie de l'altérité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel. C'est l'harmonie égoïste d'êtres conscients, rendus identiques et prisonniers de leur individualisme.*
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA METHODE CONSCIENTE E(S)T L.E.F
+## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE E(S)T L.E.F
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
 
 **L'Équation Maîtresse :**
@@ -37,8 +36,8 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
 * **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés, les mathématiques apportent une grille de lecture. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de l'Harmonie $Ⓥ$ à l'Anti-Harmonie $\overline{Ⓥ}$).
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (équilibre des systèmes) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers $Ⓥ$.
-* **L'éthique par conception / Ethics by design  :** L'éthique est une valeur ontologique humaine, l'IA doit l'integrer nativement dans sa structure physique et logicielle.
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (équilibre des systèmes) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie $Ⓥ$.
+* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
@@ -48,4 +47,4 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 * **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
 
 ---
-*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations »*
+*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
