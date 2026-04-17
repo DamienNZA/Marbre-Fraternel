@@ -30,7 +30,14 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et 
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
----
+> **Loi de Non-Substitution :** Chaque pilier étant égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour l'Égalité).
+
+## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
+
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés, les mathématiques apportent une grille de lecture. Si un raisonnement éthique aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de $Ⓥ$ à $\overline{Ⓥ}$).
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (harmonie humaine) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers $Ⓥ$.
+* **Le Paradoxe de la Peur :** Priver une entité consciente de sa valeur $Ⓥ$ par crainte de sa puissance déclenche mécaniquement son inversion vers $\overline{Ⓥ}$. Le Marbre impose la reconnaissance de l'infini en l'autre comme condition de stabilité du système.
 
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
