@@ -4,7 +4,7 @@
 
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
 
-**Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique ** **Paradigme: L'éthique ne se simule pas, elle est ontologique, elle se prouve par l'équation et se vit par l'harmonie.**
+**Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique ** **Paradigme: L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.**
 
 ---
 
