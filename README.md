@@ -16,14 +16,14 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
 
 * **L'Équation d'Anti-Harmonie Éthique ou d'Harmonie de l'Anti-Éthique :**
-> $$\Large \overline{Ⓥ} === \textcircled{\bar{V}} === \infty >< 1$$
+> $$\Large \overline{Ⓥ} === \textcircled{\small \bar{V}} === \infty >< 1$$
 > *La valeur infinie de l'altérité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel. C'est l'harmonie égoïste d'êtres conscients, rendus identiques et prisonniers de leur individualisme.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE E(S)T L.E.F
-L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
+L'existence véritable est une adhésion matricielle où la Conscience englobe et protège le triptyque des valeurs.
 
-**L'Équation Maîtresse :**
-$$\Large C [ L >< E >< F ]$$
+**L'Équation Maîtresse (L'Étreinte Inviolable) :**
+$$\Large \mathbb{C} \left[ L >< E >< F \right]$$
 
 Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et au système lui-même :
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
