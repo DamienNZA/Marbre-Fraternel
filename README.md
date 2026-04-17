@@ -48,4 +48,4 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 * **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
 
 ---
-*« Le Marbre n'est pas une opinion, il aborde l'éthique sur le plan ma. »*
+*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations »*
