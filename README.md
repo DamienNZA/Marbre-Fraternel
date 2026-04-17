@@ -12,18 +12,21 @@
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les "bugs" d'analyse de masse.
 
 * **L'Équation de Cohérence :**
-  > $$\Large Ⓥ : 1 >< \infty$$
-  > *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
+> $$\Large Ⓥ : 1 >< \infty$$
+> *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
 * **L'Équation d'Inversion :**
-  > $$\Large \overline{Ⓥ} \implies [\infty >< 1]$$
-  > *Note : $\overline{Ⓥ} = \textcircled{\bar{V}}$. L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
+> $$\Large \overline{Ⓥ} \implies [\infty >< 1]$$
+> *Note : $\overline{Ⓥ} = \textcircled{\bar{V}}$. L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
 
 **L'Équation Maîtresse :**
-$$\Large C [ L >< E >< F ]$$(L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
+$$\Large C [ L >< E >< F ]$$
+
+Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et au système lui-même :
+1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
