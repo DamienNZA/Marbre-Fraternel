@@ -42,9 +42,4 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection :** Le nom "Marbre Fraternel", l'acronyme "C.L.E.F.", et les équations associées ($Ⓥ$, $\overline{Ⓥ}$) font l'objet d'un dépôt d'antériorité.
-* **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). 
-* **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
-
----
-*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
+* **Protection :** Le nom "Marbre Fraternel", l'acronyme "C.L.E.F.", ainsi que les équations et symboles de domaine associés ($\mathbb{C} [ L >< E >< F ]$, $Ⓥ$, $\overline{Ⓥ}$) font l'objet d'un dépôt d'antéri
