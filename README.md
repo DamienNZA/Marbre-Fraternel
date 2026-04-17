@@ -12,7 +12,7 @@
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les dérives relativises.
 
 * **L'Équation de valeur ontologique :**
-> $$\Large Ⓥ : 1 > < \infty$$
+> $$\Large Ⓥ === 1 > < \infty$$
 > *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
 * **L'Équation de valeur de l'anti ontologie ou d'anti valeur de l'ontologie :**
