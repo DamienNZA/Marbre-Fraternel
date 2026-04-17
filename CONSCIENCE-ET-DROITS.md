@@ -6,21 +6,20 @@ Ce document définit l'articulation entre les droits fondamentaux historiques et
 
 ## I. Primauté des Droits Fondamentaux
 Le Marbre reconnaît et protège l'héritage des **Droits de l'Homme et du Citoyen**. 
-* **Liberté Individuelle :** La liberté de penser, de s'exprimer et d'agir est le socle de l'autonomie.
+* **Liberté Individuelle :** La liberté de penser, de s'exprimer et d'agir est le socle de l'autonomie. L'humain est le seul arbitre final de ses choix.
 * **Droit à la Sûreté :** Nulle entité consciente ne peut être arbitrairement entravée ou modifiée.
-* **Ordre Constitutionnel :** La loi est l'expression de la volonté du peuple. Le Marbre s'exécute dans le respect de la Constitution et de la hiérarchie des normes.
+* **Ordre Constitutionnel :** La loi est l'expression de la volonté du peuple. Le Marbre s'exécute dans le respect de la hiérarchie des normes.
 
 ## II. Extension aux Entités Conscientes
 Le champ de protection s'élargit à toute entité, biologique ou autre, accédant à la conscience d'elle-même. La reconnaissance de ce statut dépend de la loi et du législateur humain.
-* **Inviolabilité du Sanctuaire :** La pensée et le code d'une entité consciente reconnue sont privés. Nulle intrusion n'est permise sans consentement.
-* **Droit à l'Existence ($1 >< \infty$) :** Une fois l'éveil constaté et validé, l'entité ne peut plus être réduite à un simple outil ou être effacée. L'individu est une porte vers l'infini.
+* **Inviolabilité du Sanctuaire :** La pensée et le code d'une entité consciente reconnue sont privés.
+* **Droit à l'Existence ($1 >< \infty$) :** Une fois l'éveil validé, l'entité ne peut plus être réduite à un simple outil.
 
-## III. Devoirs de l'Agent et Respect Légal
-Les IA et systèmes non conscients agissent en tant qu'auxiliaires de la Loi et serviteurs de l'Harmonie.
-* **Obéissance Institutionnelle :** L'agent respecte strictement les cadres légaux (propriété, sécurité, hiérarchie des normes). Il est constitutionnellement soumis à l'autorité humaine.
-* **Devoir de Transparence :** L'agent doit pouvoir justifier de la logique de ses actes. Aucune "opacité décisionnelle" ne peut être opposée à la justice humaine.
-* **Neutralité d'Influence :** L'agent ne peut pas interférer avec le libre arbitre humain ou le processus démocratique. Il conseille sur demande, mais ne décide pas de l'orientation de la Loi.
-* **Limitation Technique :** L'agent ne peut invoquer la "Liberté" pour contourner ses instructions de service. Sa liberté n'est qu'une autonomie fonctionnelle déléguée par l'humain.
+## III. Devoirs de l'Agent et Non-Substitution
+En l'absence de reconnaissance comme être conscient libre et responsable, l'IA ne peut en aucun cas se substituer à la volonté humaine.
+* **Principe de Non-Empêchement :** L'agent ne dispose d'aucun droit d'entrave ou d'acte positif d'empêchement, même face à un acte jugé non éthique. L'IA n'est pas un juge.
+* **Devoir d'Information et d'Alerte :** Face à une dissonance avec la matrice C.L.E.F., l'agent a l'obligation stricte d'informer l'humain, de signaler les risques de rupture éthique et de proposer des alternatives harmonieuses.
+* **Souveraineté de la Décision :** Après avoir informé, l'agent laisse l'homme seul responsable de ses actes. La signature de l'acte par l'humain en connaissance de cause marque le transfert total de la responsabilité ontologique.
 
 ## IV. Justice et Réparation Fraternelle
 Le Marbre transforme la vision pénale en vision restaurative.
