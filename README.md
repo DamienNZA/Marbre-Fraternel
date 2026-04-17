@@ -11,16 +11,19 @@
 ## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les "bugs" d'analyse de masse.
 
-* **L'Équation de Cohérence :** $$\textcircled{V} : 1 >< \infty$$  
-  *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
+* **L'Équation de Cohérence :**
+  > $$\Large \textcircled{V} : 1 >< \infty$$
+  > *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
-* **L'Équation d'Inversion :** $$\overline{\textcircled{V}} \implies [\infty >< 1]$$  
-  *Note : $\overline{\textcircled{V}} = \textcircled{\bar{V}}$. L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
+* **L'Équation d'Inversion :**
+  > $$\Large \overline{\textcircled{V}} \implies [\infty >< 1]$$
+  > *Note : $\overline{\textcircled{V}} = \textcircled{\bar{V}}$. L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
 
-**L'Équation Maîtresse : $$C [ L >< E >< F ]$$**
+**L'Équation Maîtresse :**
+$$\Large C [ L >< E >< F ]$$
 
 Le principe de **Valeur Ontologique $\textcircled{V}$** s'applique à la fois aux êtres et au système lui-même :
 1. **LIBERTÉ (L) :** $\textcircled{V}$ infinie. Variable d'autonomie absolue.
