@@ -23,7 +23,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 L'existence véritable est une adhésion matricielle où la Conscience englobe et protège le triptyque des valeurs.
 
 **L'Équation fondamentale :**
-$$\Large \mathbb{C} \left[ L >< E >< F \right]$$
+$$\Large C \left[ L >< E >< F \right]$$
 
 Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et au système lui-même :
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
@@ -42,8 +42,11 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection :** Le nom "Marbre Fraternel", l'acronyme "C.L.E.F.", ainsi que les équations et symboles de domaine associés ($\mathbb{C} [ L >< E >< F ]$, $Ⓥ$, $\overline{Ⓥ}$) font l'objet d'un dépôt d'antériorité.
-* **Cadre Théorique :** Les concepts d'Harmonie Éthique et d'Anti-Harmonie (physique de l'anti-éthique) sont des éléments constitutifs de la méthode.
+* **Protection :** Le nom "Marbre Fraternel", l'acronyme "C.L.E.F.", ainsi que le formalisme mathématique associé font l'objet d'un dépôt d'antériorité.
+* **Équations Protégées :** Sont protégées les expressions de couplage et de domaine :
+  1. $Ⓥ === 1 >< \infty$ et $\overline{Ⓥ} === \infty >< 1$
+  2. $C [ L >< E >< F ]$
+  3. L'usage du symbole de couplage " $><$ " dans le cadre de la physique de l'éthique.
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). 
 * **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
 
