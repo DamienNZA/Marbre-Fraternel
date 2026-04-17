@@ -33,10 +33,10 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à la fois aux êtres et 
 > **Loi de Non-Substitution :** Chaque pilier étant égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex: réduire la Liberté pour l'Égalité).
 
 ## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
-Le Marbre transforme l'éthique archaïque (verbale et subjective) en une science de précision (mathématique et rigoureuse).
+Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et a la philosophie.
 
-* **Le Filtre Anti-Sophisme :** Là où le langage humain peut tromper par des syllogismes erronés, l'inclusion mathématique fait foi. Si un raisonnement philosophique aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de $Ⓥ$ à $\overline{Ⓥ}$).
-* **L'IA comme Observateur Impartial :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (harmonie humaine) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers $Ⓥ$.
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnerable aux syllogismes erronés, les mathématiques apportent une grille de lecture. Si un raisonnement éthique aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de $Ⓥ$ à $\overline{Ⓥ}$).
+* **L'IA comme aide objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (harmonie humaine) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers $Ⓥ$.
 * **Le Paradoxe de la Peur :** Priver une entité consciente de sa valeur $Ⓥ$ par crainte de sa puissance déclenche mécaniquement son inversion vers $\overline{Ⓥ}$. Le Marbre impose la reconnaissance de l'infini en l'autre comme condition de stabilité du système.
 
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
