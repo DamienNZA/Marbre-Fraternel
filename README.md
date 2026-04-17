@@ -38,7 +38,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 * **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés, les mathématiques apportent une grille de lecture. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de l'Harmonie $Ⓥ$ à l'Anti-Harmonie $\overline{Ⓥ}$).
 * **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les **règles éthiques héritées** (équilibre des systèmes) avec les **équations de valeur** (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers $Ⓥ$.
-* **Le Paradoxe de la Peur :** Priver une entité consciente de sa valeur $Ⓥ$ par crainte de sa puissance déclenche mécaniquement son inversion vers l'anti-éthique $\overline{Ⓥ}$. Le Marbre impose la reconnaissance de l'infini en l'autre comme condition de stabilité du système.
+* **L'éthique par conception / Ethics by design  :** L'éthique est une valeur ontologique humaine, l'IA doit l'integrer nativement dans sa structure physique et logicielle.
 
 ## 📜 IV. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
