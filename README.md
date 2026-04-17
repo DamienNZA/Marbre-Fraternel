@@ -9,17 +9,18 @@
 ---
 
 ## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
-Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les dérives relativistes.
+Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est l'équation fondamentale qui interdit les dérives relativistes.
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
-> *l'alterité est le vecteur de l'infini (∞). C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout.*
+> *l'infini (∞) valeur de l'alterité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et  chacun a une valeur infini. C'est l'harmonie fraternelle d'être conscients égaux ( pas identiques) et libres. 
 
-* **L'Équation d'Anti-Harmonie ou d'Harmonie de l'Anti-Éthique :**
-> $$\Large \overline{Ⓥ} === \textcircled{{\bar{V}}} === \infty >< 1$$
+* **L'Équation d'Anti-Harmonie Éthique ou d'Harmonie de l'Anti-Éthique :**
+> $$\Large \overline{Ⓥ} === \textcircled{\bar{V}} === \infty >< 1$$
 > *La valeur infinie de l'alterité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoisme structurel et conceptuel.*
+> . C'est l'harmonie égoiste d'être conscients, identiques et prisonniers de leur individualisme . 
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA METHODE
+## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA METHODE CONSCIENTE E(S)T L.E.F
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
 
 **L'Équation Maîtresse :**
