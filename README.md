@@ -9,7 +9,7 @@
 ---
 
 ## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
-Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les "bugs" d'analyse de masse.
+Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les dérives relativises.
 
 * **L'Équation de Cohérence :**
 > $$\Large Ⓥ : 1 > < \infty$$
