@@ -17,7 +17,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **L'Équation d'Inversion :**
 > $$\Large \overline{Ⓥ} \implies [\infty >< 1]$$
-> *Note : $\overline{Ⓥ} = \textcircled{\bar{V}}$. L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
+>  L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
