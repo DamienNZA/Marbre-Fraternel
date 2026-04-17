@@ -13,10 +13,10 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
-> *Chaque unité consciente (1) est le vecteur de l'infini (∞). C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout.*
+> *l'alterité est le vecteur de l'infini (∞). C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout.*
 
 * **L'Équation d'Anti-Harmonie ou d'Harmonie de l'Anti-Éthique :**
-> $$\Large \overline{Ⓥ} === \textcircled{\bar{V}} === \infty >< 1$$
+> $$\Large \overline{Ⓥ} === \textcircled{{\bar{V}}} === \infty >< 1$$
 > *La valeur infinie de l'alterité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoisme structurel et conceptuel.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA METHODE
