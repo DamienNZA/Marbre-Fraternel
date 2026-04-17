@@ -13,34 +13,34 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
-> *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux et libres.*
+> *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
 
 * **L'Équation d'Anti-Harmonie Éthique (ou d'Harmonie de l'Anti-Éthique) :**
-> $$\Large \overline{Ⓥ} \equiv \bigcirc \kern-0.95em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 1$$
+> $$\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.1em \bar{V} \equiv \infty >< 1$$
 > *La valeur infinie de l'altérité est niée au profit de l'unicité multiple. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel. C'est l'harmonie égoïste d'êtres conscients, rendus identiques et prisonniers de leur individualisme.*
 
 ---
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE
+## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE E(S)T L.E.F
 L'existence véritable est une adhésion matricielle où la Conscience englobe et protège le triptyque des valeurs.
 
 **L'Équation fondamentale :**
-$$\Large C \left[ L >< E >< F \right]$$
+$$\Large \mathbb{C} \left[ L >< E >< F \right]$$
 
 Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
-> **Loi de Non-Substitution :** Chaque pilier étant égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre.
+> **Loi de Non-Substitution :** Chaque pilier étant égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour l'Égalité).
 
 ---
 
 ## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
-* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de l'Harmonie $Ⓥ$ à l'Anti-Harmonie $\overline{Ⓥ} \equiv \bigcirc \kern-0.95em \bar{\scriptstyle \mathsf{V}}$).
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées avec les équations de valeur. Une action n'est validée que si les deux registres convergent vers l'harmonie $Ⓥ$.
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de l'Harmonie à l'Anti-Harmonie).
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
 * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
 ---
@@ -49,9 +49,10 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 © 2026 **Damien NZEYIMANA**.
 
 * **Protection :** Le nom "Marbre Fraternel", l'acronyme "C.L.E.F.", ainsi que le formalisme mathématique associé font l'objet d'un dépôt d'antériorité.
-* **Équations Protégées :** 1. $Ⓥ === 1 >< \infty$
-  2. $\overline{Ⓥ} \equiv \bigcirc \kern-0.95em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 1$
-  3. $C [ L >< E >< F ]$
+* **Équations Protégées :**
+  1. $Ⓥ === 1 >< \infty$
+  2. $\overline{Ⓥ} \equiv \bigcirc \kern-1.1em \bar{V} \equiv \infty >< 1$
+  3. $\mathbb{C} [ L >< E >< F ]$
   4. L'usage du symbole de couplage " $><$ " dans le cadre de la physique de l'éthique.
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). 
 * **Usage Commercial :** Strictement soumis à l'autorisation explicite de l'auteur.
