@@ -11,9 +11,9 @@
 ## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est le calcul fondamental qui interdit les "bugs" d'analyse de masse.
 
-* **L'Équation de Cohérence (Ⓥ) :** > **Ⓥ ⟹ [ 1 < > ∞ ]** > *Chaque unité consciente (1) est en résonance d'équivalence avec l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
+* **L'Équation de Cohérence (Ⓥ) :** > **Ⓥ ⟹ [ 1 > < ∞ ]** > *Chaque unité consciente (1) est en résonance d'équivalence avec l'infini (∞). C'est le marqueur de la Fraternité : l'individu est l'égal du tout.*
 
-* **L'Équation d'Inversion (Ⓥ̸) :** > **Ⓥ̸ ⟹ [ ∞ < > 1 ]** > *L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
+* **L'Équation d'Inversion (Ⓥ̸) :** > **Ⓥ̸ ⟹ [ ∞ > < 1 ]** > *L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur du Mal Multiple : l'égoïsme structurel qui absorbe l'altérité.*
 
 ## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
