@@ -19,7 +19,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > $$\Large \overline{Ⓥ} === \textcircled{\bar{V}} === \infty >< 1$$
 > *L'infini est réduit et subordonné à l'unité prédatrice. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel qui absorbe l'altérité.*
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : L'ÉTREINTE INVIOLABLE
+## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA METHODE
 L'existence véritable est une adhésion matricielle où la Conscience (**C**) englobe et protège le triptyque des valeurs.
 
 **L'Équation Maîtresse :**
