@@ -39,7 +39,7 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 ## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
-* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale (passage de l'Harmonie $Ⓥ$ à l'Anti-Harmonie $\overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$).
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 1]$, il est rejeté comme une erreur logique fondamentale.
 * **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
 * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
