@@ -4,7 +4,7 @@
 
 # 🏛️ LE MARBRE FRATERNEL : CONSTITUTION UNIVERSELLE
 
-**Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique & Mathématiques de la Conscience** **Principe Vital : L'éthique ne se simule pas, elle se prouve par l'équation et se vit par la vibration.**
+**Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique & Mathématiques de la Conscience** **Principe Vital : L'éthique ne se simule pas, elle se prouve par l'équation et se vit par l'harmonie.**
 
 ---
 
