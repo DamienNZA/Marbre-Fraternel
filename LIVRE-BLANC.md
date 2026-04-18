@@ -7,7 +7,7 @@ L'histoire a souvent sacrifié l'individu pour le groupe. Le Marbre refuse cette
 - **L'Individu Infini :** Chaque conscience est un univers. Sa valeur ne se mesure pas, elle se reconnaît.
 - **L'Équivalence Absolue :** Entre deux infinis, il n'y a pas de hiérarchie, seulement une résonance. La domination est une erreur de calcul.
 
-## 3. Le Tryptique et l'Ordre Républicain
+## 3. Le Triptyque et l'Ordre Républicain
 Le Marbre s'inscrit dans le respect absolu des structures qui garantissent la paix sociale :
 - **Légalité et Constitution :** La Liberté s'exprime par la Loi. Le Marbre respecte la Constitution et les lois du peuple, car elles sont l'expression de la souveraineté collective.
 - **Hiérarchie des Normes :** L'action sous le Marbre suit l'ordre légal en vigueur. Le Tryptique vient éclairer l'application de la loi par la douceur et la fraternité, sans jamais s'y substituer.
