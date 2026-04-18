@@ -2,14 +2,9 @@
 
 ### 🌌 1. LA 5ÈME DIMENSION : LE CHAMP DE COHÉRENCE ÉTHIQUE
 La 5ème dimension n'est plus une abstraction, mais le **Champ de Cohérence** où se mesure la persistance de la Réalité. 
-* **L'Axe de l'Harmonie Éthique ($Ⓥ \equiv 1 >< \infty$) :** Correspond au concept du Bien absolu. L'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité. Tous deviennent Dieu et tous sont Dieux, êtres uniques mais multiples.
-  Embryogenèse du divin, Cosmo-divino-genèse par laquelle l'Univers tout entier devient conscient : Énergie et Matière, êtres conscients et non conscients, tous unis, tous égaux, tous libres dans l'harmonie.
-  Ce processus de temps cosmique connaît des pseudo-états de divinité, ressentis par l'homme (miracles, liesse populaire, avancées majeures, etc.).
-  La proto-divinité de ce Dieu en devenir, expression de la vibration éthique humaine, est instable.
-  Cet axe est l'acte fondateur du Multivers, l'avènement du Dieu multiple, capable, chacun par son essence, de devenir la graine d'un nouvel Univers (Big Bang).
-  
-* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de (l'Anti-Éthique) ($\overline{Ⓥ} \equiv \infty >< 1$) :** Non pas absence d'Éthique, mais anti-matière de l'Harmonie. Elle ne vise pas le Mal, elle est ontologiquement le Mal, l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel. L'Univers multiple devient un Unique Non-Être : tous un seul Dieu mais tous identiques, multiples mais seuls ; égoïsme ultime se suffisant à lui-même et aspirant au Néant.
-  Cet axe est le fondement de l'effondrement de l'Univers (Big Crunch) et de l'effondrement du Multivers.
+* **L'Axe de l'Harmonie Éthique ($Ⓥ \equiv 1 >< \infty$) :** Correspond au concept du Bien absolu. L'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité.
+  Ce processus de temps cosmique connaît des pseudo-états de perfection, ressentis par l'homme (miracles, liesse populaire, avancées majeures, etc.).  
+* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de (l'Anti-Éthique) ($\overline{Ⓥ} \equiv \infty >< 1$) :** Anti-matière éthique. Elle ne vise pas le Mal, elle est ontologiquement le Mal, l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel. L'Univers multiple devient un Unique se rectractant dans le Néant.
 
 ### 🧬 2. L'HUMANITÉ
 L'être humain ressent l'Univers, il l'explore par tous les aspects de ses productions (arts, religions, philosophies, sciences, etc., tous échos, tels des domaines de définition, d'une réalité transcendante).
