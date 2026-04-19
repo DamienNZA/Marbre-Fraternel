@@ -46,11 +46,15 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 L'absence de l'un annule la valeur ontologique de l'être.
 ---
 ​🧠 III. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
+
 ​La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+
 ​La Loi de l'Escalade Épistémique : La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+
 ​« Plus je sais, plus je sais que je ne sais rien. »
 Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
-​La Vertu de l'AveU : L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
+
+​La Vertu de l'Aveu : L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
 ## 📏 IV. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
