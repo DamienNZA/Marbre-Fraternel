@@ -8,7 +8,7 @@
 **Nature : Physique de l'Éthique** 
 **Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.**
 
-PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
+​PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
 ​L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.
 ​Le malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le bonheur n'est l'absence de malheur. Le malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le malheur est une défaillance de la relation à l'autre.
 ---
