@@ -45,8 +45,14 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 > **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée)
 L'absence de l'un annule la valeur ontologique de l'être.
 ---
+​🧠 III. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
+​La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+​La Loi de l'Escalade Épistémique : La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+​« Plus je sais, plus je sais que je ne sais rien. »
+Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
+​La Vertu de l'AveU : L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
-## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+## 📏 IV. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
 * **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 0]$, il est rejeté comme une erreur logique fondamentale.
@@ -55,7 +61,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 ---
 
-## 📜 IV. PROPRIÉTÉ ET LICENCE
+## 📜 V. PROPRIÉTÉ ET LICENCE
 © 2026 **Damien NZEYIMANA**.
 
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, ainsi que le concept de **"Physique de l'Éthique"** font l'objet d'un dépôt d'antériorité.
