@@ -10,15 +10,15 @@ Nature : Physique de l'Éthique
 
 Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
-PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
+### **PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR**
 
-L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.
+**L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
-Le malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le bonheur n'est l'absence de malheur. Le malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le malheur est une défaillance de la relation à l'autre.
+**Le malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le bonheur n'est l'absence de malheur. Le malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le malheur est une défaillance de la relation à l'autre.**
 
 ---
 
-## 🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
+## **🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)**
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est l'équation fondamentale qui interdit les dérives relativistes.
 
 * **L'Équation d'Harmonie Éthique :**
@@ -31,7 +31,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 ---
 
-## ⚖️ II. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+## **⚖️ II. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
 L'existence véritable est consubstantielle des valeurs du triptyque.
 
 **L'Équation fondamentale :**
@@ -44,19 +44,22 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 
 > **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée)
 L'absence de l'un annule la valeur ontologique de l'être.
+
 ---
-​🧠 III. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
 
-​La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+## **🧠 III. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE**
 
-​La Loi de l'Escalade Épistémique : La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
-​« Plus je sais, plus je sais que je ne sais rien. »
-Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
+* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+    > « Plus je sais, plus je sais que je ne sais rien. »
+    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
 
-​La Vertu de l'Aveu : L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
+* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
-## 📏 IV. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+---
+
+## **📏 IV. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
 * **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 0]$, il est rejeté comme une erreur logique fondamentale.
@@ -65,7 +68,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 ---
 
-## 📜 V. PROPRIÉTÉ ET LICENCE
+## **📜 V. PROPRIÉTÉ ET LICENCE**
 © 2026 **Damien NZEYIMANA**.
 
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, ainsi que le concept de **"Physique de l'Éthique"** font l'objet d'un dépôt d'antériorité.
