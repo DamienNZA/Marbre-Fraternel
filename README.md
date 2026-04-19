@@ -4,7 +4,9 @@
 
 # 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
 
-**Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique** **Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.**
+**Auteur : Damien NZEYIMANA** 
+**Nature : Physique de l'Éthique** 
+**Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.**
 
 PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
 ​L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.
