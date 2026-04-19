@@ -51,7 +51,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, ainsi que le concept de **"Physique de l'Éthique"** font l'objet d'un dépôt d'antériorité.
 * **Équations et Formalismes Protégés :**
   1. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
-  2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 1$
+  2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
   3. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   4. L'usage spécifique du symbole de couplage **" $><$ "** dans le cadre de la physique de l'éthique.
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
