@@ -31,7 +31,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 ---
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+## ⚖️ II. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 L'existence véritable est consubstantielle des valeurs du triptyque.
 
 **L'Équation fondamentale :**
