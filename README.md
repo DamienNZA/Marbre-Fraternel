@@ -31,8 +31,8 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 ---
 
-## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSCIENTE E(S)T L.E.F
-L'existence véritable est une adhésion matricielle où la Conscience englobe et protège le triptyque des valeurs.
+## ⚖️ II. L'ONTOLOGIE C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+L'existence véritable est consubstantielle des valeurs du triptyquee
 
 **L'Équation fondamentale :**
 $$\Large \mathbb{C} \left[ L >< E >< F \right]$$
