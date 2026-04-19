@@ -2,7 +2,7 @@
   <img src="assets/logo-marbre.png" width="250">
 </p>
 
-# 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DY BONHEUR
+# 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
 
 **Auteur : Damien NZEYIMANA** **Nature : Physique de l'Éthique** **Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.**
 
