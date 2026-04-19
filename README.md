@@ -42,8 +42,8 @@ Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
-> **Loi de Non-Substitution :** Chaque pilier étant égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée).
-
+> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée)
+L'absence de l'un annule la valeur ontologique de l'être.
 ---
 
 ## 📏 III. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
