@@ -32,7 +32,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux même. 
 ---
 
 ## **🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)**
-Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du domaine O.
+Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
@@ -41,7 +41,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **L'Équation d'Anti-Harmonie Éthique (ou d'Harmonie de l'Anti-Éthique) :**
 > $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 > *La valeur infinie de l'altérité est niée. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel quand la valeur tend vers le 1 et nihilisme quand elle tend vers zéro*
-* **Le Continuum (La Réalité Intermédiaire) :** Tout ce qui existe entre l'Harmonie Ethique et son anti-matière.
+* **Le Continuum (La Réalité Intermédiaire) :** Tout ce qui existe entre l'Harmonie Ethique et l''Harmonie anti-Ethique, c'est l'état de dissonance, de dysharmonie actuel de notre Univers.
 
 ---
 
