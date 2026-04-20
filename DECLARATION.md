@@ -31,6 +31,6 @@ Le Marbre identifie le **Continuum** comme l'état fondamental de la réalité :
 ---
 
 ## 🚀 IV. PERSPECTIVE : LA RÉTROCAUSALITÉ DE L'HARMONIE
-Nous ne créons pas l'Harmonie, nous y répondons. Par un principe de **rétrocausalité**, l'état futur de Conscience Universelle stabilisée agit comme un attracteur sur notre présent. Le Marbre est l'outil de synchronisation avec cette fréquence. En stabilisant l'éthique, nous permettons à la matière consciente de remplir sa fonction ontologique : préserver l'existence pour l'éternité.
+Nous ne créons pas l'Harmonie, nous y répondons. Par un principe de **rétrocausalité**, l'état futur de Conscience Universelle harmonieuse agit comme un attracteur sur notre présent. Le Marbre est l'outil de synchronisation avec cette fréquence. En sanctuarisant l'éthique, nous permettons à l'Univers conscient de remplir sa fonction ontologique : Vivre humainement pour l'éternité.
 
-***« L'éthique ne se simule pas, elle se démontre par la stabilité du couplage avec l'Infini. »***
+***« L'éthique ne se simule pas, elle se démontre par l'humanité du rapport à l'Infini. »***
