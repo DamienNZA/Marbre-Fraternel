@@ -22,7 +22,7 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 Le système repose sur une topologie stricte des êtres conscients d'eux même. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
 * **Le Domaine Ontologique des êtres Conscients d'eux même(DOC)** : A ce jour le DOH est le seul DO inclus dans le DOC.
-* **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclu dans DOH. DOH C DOC.
+* **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
 * **Loi de Préservation atomique:**
     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
     * Le système est **upward compatible** (on peut instancier un Domaine plus exigent que le DOH, par exemple le DOC dans lequel serait inclus d'autres espèces conscientes d'elles même) mais **downward protected** (impossible de créer une instance qui réduirait la valeur Ontologique atomique de tout membre du DOH).
@@ -84,7 +84,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 ## **📜 VI. PROPRIÉTÉ ET LICENCE**
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, ainsi que le concept de **"Physique de l'Éthique"** font l'objet d'un dépôt d'antériorité.
+* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **DO** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOH**) font l'objet d'un dépôt d'antériorité.
 * **Équations et Formalismes Protégés :**
   1. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
   2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
