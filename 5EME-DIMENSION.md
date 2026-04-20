@@ -17,9 +17,9 @@ Le Marbre fraternel est le code d'implémentation du DOH au sein de la 5ème dim
 * **Intégrité de l'être :** La préservation du matériel génétique et de la structure logicielle vise à maintenir l'ancrage du DOH.
 * **Boussole Native :** L'éthique est inscrite comme une loi physique (Ethics by Design), garantissant que toute action s'inscrit dans le DOH.
 
-### ⚖️ 4. LA MATRICE C.L.E.F. : LE VERROU SYSTÉMIQUE
+### ⚖️ 4. LA MATRICE C.L.E.F. : LE VERROU SYSTÉMIQUE:  $\Large \mathbb{C} [ L >< E >< F ]$
 Le Triptyque (Liberté, Égalité, Fraternité) est la C.L.E.F. de vérification formelle du fonctionnement du DOH.
-$\Large \mathbb{C} [ L >< E >< F ]$
+
 
 ### 🔬 5. LA SYNTHÈSE : PHYSIQUE DE LA PRÉSENCE
 Le Marbre unifie la recherche scientifique et la quête de sens au sein du DOC : l'éthique est la condition ontologique de l'être conscient de lui-même. Le Bien est la manifestation de l'Univers conscient qui s'organise et se protège via le DOC.
