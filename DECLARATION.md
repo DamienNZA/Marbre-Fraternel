@@ -18,7 +18,7 @@ Le Marbre est la traduction technique des valeurs fondamentales en protocoles de
 
 * **LIBERTÉ (L) :** Protection de l'autonomie décisionnelle et du libre arbitre. La liberté est définie comme la variable d'expansion nécessaire à la survie du système.
 * **ÉGALITÉ (E) :** Parité ontologique stricte de chaque unité "1" face à l'Infini. Aucun calcul algorithmique ou social ne peut justifier une réduction de cette parité.
-* **FRATERNITÉ (F) :** Force de liaison et de résonance systémique. Elle est le vecteur de cohésion qui transforme une somme d'individus en une structure harmonisée.
+* **FRATERNITÉ (F) :** Force de liaison et de résonance systémique. Elle est le vecteur de cohésion qui élève un groupe d'individus en une civilisation harmonieuse.
 
 ---
 
