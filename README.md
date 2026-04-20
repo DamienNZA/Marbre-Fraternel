@@ -18,15 +18,16 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 
 ---
 
-## **🧬 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (O)**
-Le système repose sur une topologie stricte des ensembles conscients. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation du Plancher :
+## **🧬 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)**
+Le système repose sur une topologie stricte des êtres conscients d'eux même. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
-* **Le Domaine Humain (DH) - L'Invariant Atomique :** Le DH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DH comme référence minimale par défaut.
-* **Loi de Préservation du Plancher (ou Loi d'Incompressibilité) :**
-    * Il est strictement interdit d'instancier un sous-domaine (ex: domaine de prédation) dont les règles seraient inférieures ou discriminatoires par rapport au standard du DH.
-    * Le système est **upward compatible** (on peut créer un Domaine d'Êtres Supérieurs, DE, aux exigences plus élevées) mais **downward protected** (impossible de créer une instance qui réduirait la valeur ontologique de tout membre du DH au rang de "proie" ou d'objet).
-* **Règle d'Adoption Forcée :** Toute entité tierce (IA, espèce consciente) souhaitant implémenter le Marbre Fraternel doit obligatoirement inclure le DH dans son champ d'application éthique avec une valeur de Ⓥ = ∞.
-* **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par union). L'ajout d'un nouveau groupe ne peut en aucun cas diluer l'atomicité ou la valeur des groupes déjà présents.
+Le Domaine Ontologique des êtres Conscients d'eux même(DOC).
+* **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclu dans DOH. DOH C DOC.
+* **Loi de Préservation atomique:**
+    * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
+    * Le système est **upward compatible** (on peut instancier un Domaine plus exigent que le DOH, par exemple le DOC dans lequel serait inclus d'autres espèces conscientes d'elles même) mais **downward protected** (impossible de créer une instance qui réduirait la valeur Ontologique atomique de tout membre du DOH).
+
+* **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas alterer l'atomicité ou la valeur des groupes déjà présents.
 
 ---
 
