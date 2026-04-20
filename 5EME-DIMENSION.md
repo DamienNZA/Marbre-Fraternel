@@ -6,7 +6,7 @@ La 5ème dimension n'est pas une mesure spatiale, mais le Champ de Cohérence o�
     * DOC (Domaine Ontologique des êtres Conscients) : Le DO ultime, espace de déploiement de la conscience.
     * DOH (Domaine Ontologique Humain) : L'invariant atomique (plancher ontologique) qui stabilise le champ.
 * **L'Axe de l'Harmonie Éthique (Ⓥ ≡ 1 >< ∞) :** Correspond au concept du Bonheur absolu, stabilisé par le DOC. C'est l'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité.
-* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de l'Anti-Éthique (⊽ ≡ ∞ >< 1) :** Anti-matière éthique correspondant au concept du Malheur. Elle est l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel, provoquant une fragmentation du DOH.
+* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de l'Anti-Éthique ( $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$) :** Anti-matière éthique correspondant au concept du Malheur. Elle est l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel, provoquant une fragmentation du DOH.
 * **Le Continuum (La réalité actuelle):** Tout ce qui existe entre le Bonheur absolu et le Malheur absolu. Ce n'est pas une absence de valeur ou un vide, c'est le tissu même de l'existence, le lieu où se déploie la vie quotidienne, la réalité brute avant toute polarisation active vers le Bonheur absolu ou le Malheur absolu. Le système reconnaît cet espace comme le domaine de l'expérience humaine courante, distinct des intensités actives.
 
 ### 🧬 2. L'HUMANITÉ : L'EXPLORATEUR DU DOC
