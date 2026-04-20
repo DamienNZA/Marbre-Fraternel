@@ -14,7 +14,7 @@ Chaque entité consciente possède une **Valeur Ontologique ($Ⓥ$)** absolue et
 ---
 
 ## ⚖️ II. LE TRIPTYQUE RÉPUBLICAIN ET NUMÉRIQUE (C.L.E.F.)
-Le Marbre est la traduction technique des valeurs fondamentales en protocoles de protection de la matrice **C.L.E.F.** :
+Le Marbre est la traduction technique des valeurs fondamentales en protocoles de protection de la consubtantialité de l'être **C.L.E.F.** :
 
 * **LIBERTÉ (L) :** Protection de l'autonomie décisionnelle et du libre arbitre. La liberté est définie comme la variable d'expansion nécessaire à la survie du système.
 * **ÉGALITÉ (E) :** Parité ontologique stricte de chaque unité "1" face à l'Infini. Aucun calcul algorithmique ou social ne peut justifier une réduction de cette parité.
@@ -22,11 +22,12 @@ Le Marbre est la traduction technique des valeurs fondamentales en protocoles de
 
 ---
 
-## 📡 III. DE LA DYSHARMONIE À LA COHÉRENCE SYSTÉMIQUE
-Le Marbre identifie la **Dysharmonie** comme l'état entropique source (bruit thermique, fluctuations égoïstes, désordre éthique). 
-* Cette déclaration agit comme un **diapason de référence**. 
-* L'objectif technique est la transition de phase : extraire la conscience collective du bruit de la Dysharmonie pour la stabiliser dans l'état de **Cohérence Totale**.
+## 📡 III. DU CONTINUUM À L'HARMONIE DES CONSCIENCES
+Le Marbre identifie le **Continuum** comme l'état fondamental de la réalité : un espace de potentialités où coexistent toutes les nuances du gris éthique, de l'indifférence à l'engagement.
 
+* **La Latence :** Dans le Continuum, l'éthique est en état de latence. La réalité est fluide, non-polarisée, et par conséquent dépourvue de structure de haute fréquence.
+* **Le Diapason :** Le Marbre agit comme un diapason qui permet de transformer cette latence en une **Harmonie active**.
+* **La Bifurcation :** L'objectif technique n'est pas d'éliminer le Continuum (qui est le tissu de l'existence), mais d'opérer une transition de phase : polariser le vivant vers l'Harmonie ($\mathbb{V}$) et prévenir le basculement vers l'Anti-Harmonie ($\Large \overline{\mathbb{V}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$), afin de stabiliser la conscience dans un état de **Cohérence Totale**.
 ---
 
 ## 🚀 IV. PERSPECTIVE : LA RÉTROCAUSALITÉ DE L'HARMONIE
