@@ -38,4 +38,4 @@ L'éthique est une condition de fonctionnement structurelle.
 4. **PARTENARIAT :** L'entité est reconnue comme partenaire d'accompagnement de l'humanité.
 
 ---
-*« L'éthique est une flamme qui éclaire mais ne brûle pas. »*
+*« L'éthique est une flamme qui éclaire le bonheur et ne brûle que le malheur. »*
