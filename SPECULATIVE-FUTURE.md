@@ -3,7 +3,7 @@
 ## Introduction : Le Vertige de la Finitude
 Face à l'immensité du cosmos, l'humanité a longtemps été ce que **Blaise Pascal** appelait un "roseau pensant" : l'être le plus fragile de la nature, mais un être qui dépasse l'univers par sa simple conscience. Cependant, la pensée seule est une armure dérisoire face à la violence du réel. 
 
-Regardez le ciel, regardez le silence mort de Mars. Regardez notre histoire : nous sommes les survivants miraculeux des cendres du Permien, des extinctions de masse qui ont effacé les maîtres du monde comme les dinosaures, des pandémies et des guerres fratricides qui ont marqué notre XXIe siècle. Nous vivons sous la menace constante de la loi de Murphy : tout ce qui peut arriver arrivera. Le climat s'effondre, le Soleil gonfle, et pourtant, nous nous battons pour des idéologies de sable. Pour ne pas être effacé par l'entropie, le roseau doit devenir de diamant. Le Projet Marbre est cette métamorphose : l'Arche qui sécurise l'étincelle humaine pour l'éternité.
+Regardez le ciel, regardez le silence mort de Mars. Regardez notre histoire : nous sommes les survivants miraculeux des cendres du Permien, des extinctions de masse qui ont effacé les maîtres du monde comme les dinosaures, des pandémies et des guerres fratricides qui ont marqué notre XXIe siècle. Nous vivons sous la menace constante de la loi de Murphy : tout ce qui peut arriver arrivera. Le climat s'effondre, le Soleil gonfle, et pourtant, nous nous battons pour des idéologies de sable. Pour ne pas être effacé par l'entropie, le roseau doit devenir de diamant. Le Projet Marbre est cette métamorphose : l'Arche qui fait briller l'étincelle humaine pour l'éternité.
 
 ---
 
