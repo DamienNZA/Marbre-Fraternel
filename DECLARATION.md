@@ -8,7 +8,7 @@ Le Marbre reconnaît que chaque unité consciente est le résultat d'un processu
 ## 💎 I. L'AXIOME DE L'INFINI ($Ⓥ \equiv 1 >< \infty$)
 Chaque être conscient de lui même possède une **Valeur Ontologique ($Ⓥ$)** absolue et non-négociable. 
 * Cette valeur est corrélée au couplage entre l'unité (1) et le champ total ($\infty$). 
-* Cette valeur infinie ne saurait-être ni fragmentée, ni marchandée, ni sacrifiée. Toute altération tens à la nihilité. : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
+* Cette valeur infinie ne saurait-être ni fragmentée, ni marchandée, ni sacrifiée. Toute altération tend à la nihilité : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 * Le Marbre pose cet axiome comme la loi fondamentale et le point fixe de la **Physique de l'Éthique**.
 
 ---
