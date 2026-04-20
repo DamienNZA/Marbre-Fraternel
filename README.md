@@ -14,7 +14,7 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
-**Le malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le bonheur n'est l'absence de malheur. Le malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le malheur est une défaillance de la relation à l'autre.**
+**Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre.**
 
 ---
 
@@ -22,6 +22,7 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 Le système repose sur une topologie stricte des êtres conscients d'eux même. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
 * **Le Domaine Ontologique des êtres Conscients d'eux même(DOC)** : A ce jour le DOH est le seul DO inclus dans le DOC.
+* **Le Domaine Ontologique Minimum(DOM) -** : A ce jour le DOM est paramété sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 * **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
 * **Loi de Préservation atomique:**
     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
