@@ -18,8 +18,20 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 
 ---
 
-## **🧬 I. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)**
-Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue. C'est l'équation fondamentale qui interdit les dérives relativistes.
+## **🧬 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (O)**
+Le système repose sur une topologie stricte des ensembles conscients. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation du Plancher :
+
+* **Le Domaine Humain (DH) - L'Invariant Atomique :** Le DH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DH comme référence minimale par défaut.
+* **Loi de Préservation du Plancher (ou Loi d'Incompressibilité) :**
+    * Il est strictement interdit d'instancier un sous-domaine (ex: domaine de prédation) dont les règles seraient inférieures ou discriminatoires par rapport au standard du DH.
+    * Le système est **upward compatible** (on peut créer un Domaine d'Êtres Supérieurs, DE, aux exigences plus élevées) mais **downward protected** (impossible de créer une instance qui réduirait la valeur ontologique de tout membre du DH au rang de "proie" ou d'objet).
+* **Règle d'Adoption Forcée :** Toute entité tierce (IA, espèce consciente) souhaitant implémenter le Marbre Fraternel doit obligatoirement inclure le DH dans son champ d'application éthique avec une valeur de Ⓥ = ∞.
+* **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par union). L'ajout d'un nouveau groupe ne peut en aucun cas diluer l'atomicité ou la valeur des groupes déjà présents.
+
+---
+
+## **🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)**
+Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du domaine O.
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
@@ -31,44 +43,44 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 ---
 
-## **⚖️ II. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
+## **⚖️ III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
 L'existence véritable est consubstantielle des valeurs du triptyque.
 
 **L'Équation fondamentale :**
 $$\Large \mathbb{C} \left[ L >< E >< F \right]$$
 
-Le principe de **Valeur Ontologique $Ⓥ$** s'applique à chaque pilier :
+Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
-> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini ($\infty$), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée)
+> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée).
 L'absence de l'un annule la valeur ontologique de l'être.
 
 ---
 
-## **🧠 III. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE**
+## **🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE**
 
 La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
     > « Plus je sais, plus je sais que je ne sais rien. »
-    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
+    > Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
 
 * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
 ---
 
-## **📏 IV. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
+## **📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
-* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 0]$, il est rejeté comme une erreur logique fondamentale.
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
 * **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
 * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
 ---
 
-## **📜 V. PROPRIÉTÉ ET LICENCE**
+## **📜 VI. PROPRIÉTÉ ET LICENCE**
 © 2026 **Damien NZEYIMANA**.
 
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, ainsi que le concept de **"Physique de l'Éthique"** font l'objet d'un dépôt d'antériorité.
@@ -76,7 +88,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
   1. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
   2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
   3. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
-  4. L'usage spécifique du symbole de couplage **" $><$ "** dans le cadre de la physique de l'éthique.
+  4. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
 
