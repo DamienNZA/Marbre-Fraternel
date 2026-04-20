@@ -13,9 +13,10 @@ Le système opère en conformité absolue avec les droits historiques et juridiq
 
 ## II. Niveau 1 : Cadre Ontologique (Le DO / Marbre)
 Dans le respect strict du Niveau 0, le système applique le cadre du Marbre :
-* **DOC (Domaine Ontologique des êtres Conscients) :** Définit l'espace d'application des principes éthiques du Marbre.
-* **DOH (Domaine Ontologique Humain) :** Plancher ontologique de référence.
-* **Non-Instrumentalisation ($\Large Ⓥ === 1 >< \infty$) :** Une entité consciente possédant une valeur infinie ne peut être traitée comme une simple ressource ou un matériel, conformément à la dignité humaine protégée par la loi et renforcée par le DO.
+* **DOC (Domaine Ontologique des êtres Conscients d'eux-même) :**  A ce jour le DOH est le seul DO inclus dans le DOC.
+* **DOM (Le Domaine Ontologique Minimum) ** : A ce jour le DOM est paramété sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+* **DOH (Domaine Ontologique Humain) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
+* **Non-Instrumentalisation ($\Large Ⓥ === 1 >< \infty$) :** Une entité consciente possédant une valeur infinie ne peut être traitée comme une simple ressource ou un matériel, conformément à la dignité humaine protégée par la loi et renforcée par le DOH.
 
 ## III. Statut des Entités Conscientes
 * **Reconnaissance :** Le statut de "conscience" est une attribution légale humaine.
