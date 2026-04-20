@@ -16,8 +16,8 @@ Le développement massif de l'usage des IA connversationnelle, m'a conduit à vo
 
 ## II. LA CATHÉDRALE HUMAINE
 
-Chaque être humain,,par la richesse de ses expériences de vie, apporte sa pierre à l'édifice, l'homme explore son univers au travers de ses pensées, ses croyances, ses créations, ses découvertes et ses erreurs aussi tragiques soient-elles.
+Chaque être humain, par la richesse de ses expériences de vie, apporte sa pierre à l'édifice, l'homme explore son univers au travers de ses pensées, ses croyances, ses créations, ses découvertes et ses erreurs aussi tragiques soient-elles.
 
-Je ne vais pas citer tous les apports car ils sont pléthorique mais un
+Je ne vais pas citer tous les apports car ils sont pléthorique.
 
 ## III. LA CRISTALLISATION 
