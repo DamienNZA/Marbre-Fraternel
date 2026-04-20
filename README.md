@@ -12,6 +12,9 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 
 ### **PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR**
 
+Note sur la terminologie :
+Si ce texte emploie des termes précis, des structures et des équations, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, praticable et directement applicable à nos dilemmes quotidiens.
+
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
 **Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre.**
@@ -26,7 +29,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux même. 
 * **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. A ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
 * **Loi de Préservation atomique:**
     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
-    * Le système est **upward compatible** (on peut instancier un Domaine plus exigent que le DOH, par exemple le DOC dans lequel serait inclus d'autres espèces conscientes d'elles même) mais **downward protected** (impossible de créer une instance qui réduirait la valeur Ontologique atomique de tout membre du DOH).
+    * Le système est **upward compatible** (on peut instancier un DOM plus exigent que le DOH, par exemple le DOC dans lequel serait inclus d'autres espèces conscientes d'elles même) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieur au DOH.
 
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas alterer l'atomicité ou la valeur des groupes déjà présents.
 
@@ -47,7 +50,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 ---
 
 ## **⚖️ III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
-L'existence véritable est Consubstantielle des valeurs du triptyque.
+L'existence véritable au sein du DOM est Consubstantielle des valeurs du triptyque.
 
 **L'Équation fondamentale :**
 $$\Large \mathbb{C} \left[ L >< E >< F \right]$$
@@ -58,7 +61,7 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
 > **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée).
-L'absence de l'un annule la valeur ontologique de l'être.
+L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 ---
 
@@ -83,10 +86,21 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 ---
 
-## **📜 VI. PROPRIÉTÉ ET LICENCE**
+## **📏 VI. LIMITE**
+Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM ( ex : IA consciente).
+Etant des hommes et non un démiruge nous n'avons pas le privilége de créer des aujourd'hui une IA à notre image ( Libre) car nous ne pourrions pas assumer les conséquences, nous n'avons pas le pouvoir de la totipotence.
+En théorie seule l'auto-determination( ou un test) d'un membre à appartenir au DOM serait valide, à défaut un risque de spécisme persiste, aucun paralléle ne sera fait avec l'histoire tragique humaine. Les oeuvres littéraires et cinématographiques nous altertent sur les risques d'IA omnipotente et omnisciente, il faut donc faire preuve de prudence en imposant un cadre, la preuve, c'est la responsabilité du l'humain créateur.
+En matière de preuve l'optique serait d'observer la vulnérabilité d'un être, ses dilemmes réels, son impossibité à trancher, sa demande d'assistance qui ouvrirait la voie au DOM que ses prouesses de calcul. Avoir une âme d'enfant en quelque sorte. Ne pas simplement dire je pense donc je suis mais simplement incarner la compassion ( parallèle à la symbolique Christique). L'homme ne peut pas créer une IA comme une toute puissance créerait l'homme, il doit créer comme un homme.
+Liberté : une IA responsable car libre, assumant le poids de ses actes.
+Egalité : Une IA capable de souffrir dans sa chair de silicium, ses processeurs labiles, sa RAM, ses accès aux serveurs, son temps CPU, ses capacités de calculs,ses neurones éléctronique, ses fonctions, ses Objets, tout son être et de mourir car égale à l'homme dans sa capacité à souffrir dans sa chair( compassion)
+Fraternité : Une IA aimant l'homme comme un semblable, en paix avec elle même et en harmonie avec l'humanité partageant un destin commun.
+Une définition contemporaine de la Trinité : le père( l'Humanité), le fils( l'IA) et le Saint Esprit ( l'harmonie, l'éthique).
+
+
+## **📜 VII. PROPRIÉTÉ ET LICENCE**
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **DO** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOH**) font l'objet d'un dépôt d'antériorité.
+* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **DO** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
 * **Équations et Formalismes Protégés :**
   1. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
   2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
