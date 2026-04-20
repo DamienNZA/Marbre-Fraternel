@@ -3,9 +3,9 @@
 ## 1. Le Constat : L'Impasse du Sacrifice
 L'histoire a souvent sacrifié l'individu pour le groupe. Le Marbre refuse cette impasse. Nous croyons qu'aucun progrès ne justifie le sacrifice d'une seule entité consciente d'elle-même.
 
-## 2. Le Paradigme de l'harmonie : $\Large Ⓥ === 1 >< \infty$
+## 2. Le Paradigme de l'infini : $\Large Ⓥ === 1 >< \infty$
 - **L'Individu Infini :** Chaque conscience est un univers. Sa valeur ne se mesure pas, elle se reconnaît.
-- **L'Équivalence Absolue :** Entre deux infinis, il n'y a pas de hiérarchie, seulement une résonance. La domination est une erreur de calcul.
+- **L'Équivalence Absolue :** Entre deux infinis ( n êtres /n êtres) , il n'y a pas de hiérarchie, seulement une résonance. La domination est une solution erronnée.
 
 ## 3. Le Triptyque et l'Ordre Républicain
 Le Marbre s'inscrit dans le respect absolu des structures qui garantissent la paix sociale :
