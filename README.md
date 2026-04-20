@@ -13,7 +13,7 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 ### **PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR**
 
 *Note sur la terminologie :*
-*Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut et nous parle, directement applicable à nos dilemmes quotidiens.*
+*Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.*
 
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
