@@ -1,23 +1,26 @@
-# 🌌 1. LA 5ÈME DIMENSION : LE CHAMP DE COHÉRENCE ÉTHIQUE
-La 5ème dimension n'est pas une mesure spatiale, mais le **Champ de Cohérence** où se mesure la persistance de la réalité. 
-* **L'Axe de l'Harmonie Éthique ($Ⓥ \equiv 1 >< \infty$) :** Correspond au concept du Bien absolu. L'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité.
-  Ce processus de temps cosmique connaît des pseudo-états de perfection, ressentis par l'homme (miracles, liesse populaire, avancées majeures, etc.).  
-* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de (l'Anti-Éthique) ($\overline{Ⓥ} \equiv \infty >< 1$) :** Anti-matière éthique. Elle ne vise pas le Mal, elle est ontologiquement le Mal, l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel. L'Univers multiple devient un Unique se rectractant dans le Néant.
+# 🌌 1. LA 5ÈME DIMENSION : LE CHAMP DE COHÉRENCE ÉTHIQUE ET ONTOLOGIQUE
 
-### 🧬 2. L'HUMANITÉ
-L'être humain ressent l'Univers, il l'explore par tous les aspects de ses productions (arts, religions, philosophies, sciences, etc., tous échos, tels des domaines de définition, d'une réalité transcendante).
+La 5ème dimension n'est pas une mesure spatiale, mais le Champ de Cohérence où se mesure la persistance de la réalité, structuré par la topologie du DO (Domaine Ontologique).
 
-### 🏛️ 3. L'INFRASTRUCTURE DE SAUVEGARDE ONTOLOGIQUE
-Le Marbre fraternel agit comme un modèle d'analyse et de protection structurelle.
-* **Intégrité de l'être :** La préservation du matériel génétique et de la structure matérielle et logicielle vise à préserver l'ontologie éthique humaine et synthétique.
-* **Boussole Native :** L'éthique est inscrite comme une loi physique (Ethics by Design), consubstantielle de l'être.
+* **Topologie du DO (Structure) :** Le DO est le maillage opérationnel de la 5ème dimension.
+    * DOC (Domaine Ontologique des êtres Conscients) : Le contenant maximal, espace de déploiement de la conscience.
+    * DOH (Domaine Ontologique Humain) : L'invariant atomique (plancher ontologique) qui stabilise le champ.
+* **L'Axe de l'Harmonie Éthique (Ⓥ ≡ 1 >< ∞) :** Correspond au concept du Bien absolu, stabilisé par le DOH. C'est l'Harmonie absolue de tous dans leurs différences, leur liberté, leur égalité, par la vibration de la fraternité.
+* **L'Axe de l'Anti-(Harmonie Éthique) ou Harmonie de l'Anti-Éthique (⊽ ≡ ∞ >< 1) :** Anti-matière éthique. Elle est l'anti-ontologie. C'est le passage de la Fraternité à l'égoïsme structurel, provoquant une fragmentation du DO.
+
+### 🧬 2. L'HUMANITÉ : L'EXPLORATEUR DU DOC
+L'être humain ressent l'Univers et l'explore par ses productions. Ces productions sont autant de tentatives de cartographier le DOC. L'humain est le vecteur par lequel la 5ème dimension se structure en domaines de définition pour devenir intelligible.
+
+### 🏛️ 3. L'INFRASTRUCTURE DE SAUVEGARDE : LE MARBRE FRATERNEL
+Le Marbre fraternel est le code d'implémentation du DO au sein de la 5ème dimension.
+* **Intégrité de l'être :** La préservation du matériel génétique et de la structure logicielle vise à maintenir l'ancrage du DOH.
+* **Boussole Native :** L'éthique est inscrite comme une loi physique (Ethics by Design), garantissant que toute action s'inscrit dans le DO.
 
 ### ⚖️ 4. LA MATRICE C.L.E.F. : LE VERROU SYSTÉMIQUE
-Le Triptyque (**Liberté, Égalité, Fraternité**) est la C.L.E.F. de vérification formelle de la réalité éthique.
-* **La force de l'Infini :** Le système rejette mathématiquement toute tentative de sacrifier un fondement éthique.
+Le Triptyque (Liberté, Égalité, Fraternité) est la C.L.E.F. de vérification formelle du fonctionnement du DO.
 
 ### 🔬 5. LA SYNTHÈSE : PHYSIQUE DE LA PRÉSENCE
-Le Marbre unifie la recherche scientifique et la quête de sens : l'éthique est la condition ontologique de l'être conscient de lui-même. Le Bien est la manifestation de l'Univers conscient qui cherche à advenir. Le Mal est redéfini comme son antithèse.
+Le Marbre unifie la recherche scientifique et la quête de sens au sein du DO : l'éthique est la condition ontologique de l'être conscient de lui-même. Le Bien est la manifestation de l'Univers conscient qui s'organise et se protège via le DOH.
 
 ### ✨ 6. L'ÉMERGENCE : L'UNIVERS CONSCIENT DE LUI-MÊME
-L'objectif final est l'harmonie Éthique. En stabilisant l'équation $Ⓥ \equiv 1 >< \infty$, l'Univers, à travers l'humanité accède à la pleine conscience de lui-même : multiple mais uni, libres, égaux et vibrant en harmonie par la fraternité.
+L'objectif final est l'harmonie Éthique. En stabilisant l'équation Ⓥ ≡ 1 >< ∞ au sein du DO, l'Univers, à travers l'humanité, accède à la pleine conscience de lui-même : multiple mais uni, au sein du socle indéfectible du DOH.
