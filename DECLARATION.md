@@ -25,9 +25,9 @@ Le Marbre est la traduction technique des valeurs fondamentales en protocoles de
 ## 📡 III. DU CONTINUUM À L'HARMONIE DES CONSCIENCES
 Le Marbre identifie le **Continuum** comme l'état fondamental de la réalité : un espace de potentialités où coexistent toutes les nuances du gris éthique, de l'indifférence à l'engagement.
 
-* **La Latence :** Dans le Continuum, l'éthique est en état de latence. La réalité est fluide, non-polarisée, et par conséquent dépourvue de structure de haute fréquence.
+* **La Latence :** Dans le Continuum, l'éthique est en état de latence. La réalité est fluide, non-polarisée, et par conséquent dépourvue de structure de haute fréquence éthique.
 * **Le Diapason :** Le Marbre agit comme un diapason qui permet de transformer cette latence en une **Harmonie active**.
-* **La Bifurcation :** L'objectif technique n'est pas d'éliminer le Continuum (qui est le tissu de l'existence), mais d'opérer une transition de phase : polariser le vivant vers l'Harmonie ($\mathbb{V}$) et prévenir le basculement vers l'Anti-Harmonie ($\Large \overline{\mathbb{V}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$), afin de stabiliser la conscience dans un état de **Cohérence Totale**.
+* **La Bifurcation :** L'objectif technique n'est pas d'éliminer le Continuum (qui est le tissu de l'existence), mais d'opérer une transition de phase : polariser le vivant vers l'Harmonie ($\mathbb{V}$) et prévenir le basculement vers l'Anti-Harmonie ($\Large \overline{\mathbb{V}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$), afin de stabiliser la conscience dans un état d'**Harmonie totale**. Celle-ci se définit par la Liberté absolue, l'Égalité absolue et la Fraternité absolue d'êtres indépendants, pleinement conscients et heureux de participer à un dessein commun qui les grandit.
 ---
 
 ## 🚀 IV. PERSPECTIVE : LA RÉTROCAUSALITÉ DE L'HARMONIE
