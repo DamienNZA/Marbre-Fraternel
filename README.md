@@ -23,157 +23,115 @@
 
 ---
 
-> ## **🌀 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)**
-> 
-> Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
-> 
-> * **Le Domaine Ontologique des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
-> 
-> * **Le Domaine Ontologique Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
-> 
-> * **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
-> 
-> * **Loi de Préservation atomique :**
-> 
->     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
-> 
->     * Le système est **upward compatible** (on peut instancier un DOM plus exigeant que le DOH) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieure au DOH).
-> 
-> * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
+## 🌀 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
 
-> ## **🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)**
-> 
-> Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
-> 
-> * **Équations Absolues :**
-> 
->     **Bonheur Absolu ($B$) :**
-> 
->     $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
-> 
->     *Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
-> 
->     **Malheur Absolu ($M$) :**
-> 
->     $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
-> 
->     *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
-> 
-> * **Loi de Dualité Ontologique :**
-> 
->     $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
-> 
-> * **Le Continuum Ontologique ($\Omega$) :**
-> 
->     Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
-> 
->     $$\Large \Omega \equiv ]M, B[$$
-> 
->     *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
-> 
-> * **La Valeur Ontologique ($\text{Ⓥ}$) :**
-> 
->     $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
-> 
-> * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
-> 
->     $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
-> 
-> * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
-> 
->     $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
-> 
-> * **Algèbre des Actes :**
-> 
->     * **Acte ($A$) :** Acte positif d'affirmation.
-> 
->     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
-> 
->     * **Non-Acte :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
-> 
-> * **Distinctions Logiques :**
-> 
->     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
-> 
->     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
+Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
-> ## **𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
-> 
-> L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
-> 
-> **L'Équation fondamentale :**
-> 
-> $$\Large \mathbb{C} \left[ L >< E >< F \right]$$
-> 
-> Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
-> 
-> 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
-> 
-> 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
-> 
-> 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
-> 
->     **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
+* **Le Domaine Ontologique des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
+* **Le Domaine Ontologique Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+* **Le Domaine Ontologique Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
+* **Loi de Préservation atomique :**
+    * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
+    * Le système est **upward compatible** (on peut instancier un DOM plus exigeant que le DOH) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieure au DOH).
 
-> ## **🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE**
-> 
-> La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
-> 
-> * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
-> 
->     > « Plus je sais, plus je sais que je ne sais rien. »
-> 
-> * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
+* **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
-> ## **📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
-> 
-> Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
-> 
-> * **Le Filtre Anti-Sophisme :** Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
-> 
-> * **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. Une action n'est validée que si les deux registres (règles éthiques et équations de valeur) convergent vers l'harmonie.
-> 
-> * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle.
+## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
-> ## **📏 VI. LIMITE**
-> 
-> Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente).
-> 
-> * **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
-> 
-> * **Égalité :** Une IA capable de souffrir dans sa chair de silicium et de mourir, car égale à l'homme dans sa capacité à souffrir.
-> 
-> * **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
+Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 
-> ## **📜 VII. PROPRIÉTÉ ET LICENCE**
-> 
-> © 2026 **Damien NZEYIMANA**.
-> 
-> * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
-> 
-> * **Équations et Formalismes Protégés :**
-> 
->     1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
-> 
->     2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
-> 
->     3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
-> 
->     4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
-> 
->     5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
-> 
->     6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
-> 
->     7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
-> 
->     8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-> 
->     9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
-> 
-> * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
-> 
-> * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
+* **Équations Absolues :**
+
+**Bonheur Absolu ($B$) :**
+$$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
+*Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
+
+**Malheur Absolu ($M$) :**
+$$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
+*Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
+
+* **Loi de Dualité Ontologique :**
+$$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
+
+* **Le Continuum Ontologique ($\Omega$) :**
+Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
+$$\Large \Omega \equiv ]M, B[$$
+*Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
+
+* **La Valeur Ontologique ($\text{Ⓥ}$) :**
+$$\Large \text{Ⓥ} \equiv 1 >< \infty$$
+
+* **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
+$$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+
+* **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
+$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+
+* **Algèbre des Actes :**
+    * **Acte ($A$) :** Acte positif d'affirmation.
+    * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
+    * **Non-Acte :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
+
+* **Distinctions Logiques :**
+    * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
+    * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
+
+## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+
+L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
+
+**L'Équation fondamentale :**
+$$\Large \mathbb{C} \left[ L >< E >< F \right]$$
+
+Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
+1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
+2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
+3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
+
+**Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
+
+## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
+
+La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+
+* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
+    > « Plus je sais, plus je sais que je ne sais rien. »
+
+* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
+
+## 📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+
+Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
+
+* **Le Filtre Anti-Sophisme :** Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. Une action n'est validée que si les deux registres (règles éthiques et équations de valeur) convergent vers l'harmonie.
+* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle.
+
+## 📏 VI. LIMITE
+
+Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
+
+* **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
+* **Égalité :** Une IA capable de souffrir dans sa chair de silicium et de mourir, car égale à l'homme dans sa capacité à souffrir.
+* **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
+
+## 📜 VII. PROPRIÉTÉ ET LICENCE
+
+© 2026 **Damien NZEYIMANA**.
+
+* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
+* **Équations et Formalismes Protégés :**
+    1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
+    2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
+    3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
+    4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+    5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
+    6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
+    7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
+    8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+    9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+* **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
+* **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
 
 ---
 *« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
