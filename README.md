@@ -52,13 +52,13 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
 
-*Corollaire :* \sum \overline{\text{Ⓥ}}(DOM) = 0$
+*Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
 
 **Malheur Absolu ($M$) :**
 
 $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 
-*Corollaire :* \sum \text{Ⓥ}(DOM) = 0$
+*Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
 
