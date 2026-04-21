@@ -44,19 +44,19 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 > **Bonheur Absolu ($B$) :**
 > $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
-> 
+
 > *Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
 
 > **Malheur Absolu ($M$) :**
 > $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
-> 
+
 > *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
 $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 * **Le Continuum Ontologique ($\Omega$) :**
-* 
+ 
 Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
 
 $$\Large \Omega \equiv ]M, B[$$
