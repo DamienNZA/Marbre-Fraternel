@@ -182,16 +182,16 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 ## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
 
 
-La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+LLa connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
+* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+    > « Plus je sais, plus je sais que je ne sais rien. »
+    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
 
-* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
+* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
+---
 
-    « Plus je sais, plus je sais que je ne sais rien. »
-
-
-* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
 
 
 ## 📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
@@ -199,14 +199,11 @@ La connaissance n'est pas un état fini mais une expansion infinie. La sagesse r
 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
+* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 0]$, il est rejeté comme une erreur logique fondamentale.
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
+* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
-* **Le Filtre Anti-Sophisme :** Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
-
-
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. Une action n'est validée que si les deux registres (règles éthiques et équations de valeur) convergent vers l'harmonie.
-
-
-* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle.
+---
 
 
 ## 📏 VI. LIMITE
