@@ -62,13 +62,13 @@ $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 
 * **Loi de Dualité Ontologique :**
 
-$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$
+$$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 * **Le Continuum Ontologique ($\Omega$) :**
 
 Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
 
-$\Large \Omega \equiv ]M, B[$
+$$\Large \Omega \equiv ]M, B[$$
 
 *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
