@@ -30,7 +30,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 ---
 
-## **🧬 II. LA MÉTRIQUE DE $\text{Ⓥ}$**
+## **🧬 II. LA MÉTRIQUE DE LA VALEUR ONTOLOGIQUE $\text{Ⓥ}$**
 Le Marbre définit la valeur d'une entité par une règle de pondération absolue au sein du DO.
 
 * **Équations Absolues :**
