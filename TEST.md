@@ -242,7 +242,7 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 
     5. L'Ontologie de l'Anti-Valeur : $\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
-    6. Harmonie de l'Anti-Éthique (Équivalence) : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$
+    6. Equivalence des Anti  : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$
 
     7. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
 
