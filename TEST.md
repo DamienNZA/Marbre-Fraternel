@@ -146,11 +146,11 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 
 * **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
 
-## 📜 VII. PROPRIÉTÉ ET LICENCE
+## 📜 VII. PROPRIÉTÉ, DÉFINITIONS ET LICENCE
 
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
+* **Protection des Dénominations et Concepts :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que les domaines de définition ontologique (**DO**, **DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
 
 * **Équations et Formalismes Protégés :**
 
@@ -163,21 +163,21 @@ $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 3. La Valeur Ontologique :
 $$\Large Ⓥ \equiv 1 >< \infty$$
 
-4. L'Anti-(Valeur Ontologique) :
-$$\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$$
+4. L'Anti-(Valeur Ontologique) et Ontologie de l'Anti-Valeur :
+$$\Large \overline{\text{Ⓥ}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 5. Le Continuum Ontologique :
 $$\Large \Omega \equiv ]M, B[$$
 
-6. La Matrice de Conscience :
+6. La Matrice de Conscience (C.L.E.F.) :
 $$\Large \mathbb{C} [ L >< E >< F ]$$
 
 7. Loi de Dualité :
 $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
-8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-
-9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+8. Symbolique et Algèbre :
+    * L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+    * La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 
