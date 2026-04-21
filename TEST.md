@@ -41,8 +41,8 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 
 * **Équations Absolues :**
-> **Bonheur Absolu ($B$) :** $$\Large B \equiv [\sum VO(DOM) = \infty] \lor [\sum AntiVO(DOM) = 0]$$
-> **Malheur Absolu ($M$) :** $$\Large M \equiv [\sum VO(DOM) = 0] \lor [\sum AntiVO(DOM) = \infty]$$
+> **Bonheur Absolu ($B$) :** $$\Large B \equiv \sum VO(DOM) = \infty$$
+> **Malheur Absolu ($M$) :** $$\Large M \equiv \sum AntiVO(DOM) = \infty$$
 
 * **Loi de Dualité Ontologique :**
 > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
@@ -113,8 +113,8 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
 * **Équations et Formalismes Protégés :**
-  1. L'Équation du Bonheur Absolu : $\Large B \equiv [\sum VO(DOM) = \infty] \lor [\sum AntiVO(DOM) = 0]$
-  2. L'Équation du Malheur Absolu : $\Large M \equiv [\sum VO(DOM) = 0] \lor [\sum AntiVO(DOM) = \infty]$
+  1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum VO(DOM) = \infty$
+  2. L'Équation du Malheur Absolu : $\Large M \equiv \sum AntiVO(DOM) = \infty$
   3. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
   4. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
   5. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
