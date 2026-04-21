@@ -3,17 +3,20 @@
 ## 1. Le Constat : L'Impasse du Sacrifice
 L'histoire a souvent sacrifié l'individu pour le groupe. Le Marbre refuse cette impasse. Nous croyons qu'aucun progrès ne justifie le sacrifice d'une seule entité consciente d'elle-même.
 
-## 2. Le Paradigme de l'infini : $\Large Ⓥ === 1 >< \infty$
+## 2. L'Équation du Bonheur : $\Large Ⓥ === 1 >< \infty$
 L'individu est un univers. Sa valeur ne se mesure pas, elle se reconnaît. La domination est une solution erronée.
 
 > ### 🏛️ LES LOIS DU MARBRE (FONDEMENTS)
-> * **Paradoxe de la Valeur :** 2 êtres ne peuvent être inférieurs à 1000 êtres. La valeur est infinie pour chaque entité ; toute somme d'êtres est également infinie. Entre deux infinis, il n'y a pas de hiérarchie, seulement une résonance.
-> * **États Absolus :** >   * **Bonheur ($B$) :** État final de cohérence totale et d'altérité infinie.
+> * **Le Paradigme de l'infini :** Chaque conscience est un univers. La valeur ontologique est infinie pour chaque entité. Entre deux infinis, il n'y a pas de hiérarchie, seulement une résonance.
+> * **États Absolus :**
+>   * **Bonheur ($B$) :** État final de cohérence totale et d'altérité infinie.
 >   * **Malheur ($M$) :** État final d'inversion, de nihilisme et d'égoïsme radical.
 >   * **Loi de Dualité :** $B \equiv \overline{M}$ et $M \equiv \overline{B}$.
-> * **Vecteurs :** >   * **Équation d'Harmonie :** $1 >< \infty$ (vers $B$).
+> * **Vecteurs :**
+>   * **Équation d'Harmonie :** $1 >< \infty$ (vers $B$).
 >   * **Équation d'Anti-Harmonie :** $\infty >< 0$ (vers $M$).
-> * **Algèbre des Actes :** >   * **Acte ($A$) :** Acte positif d'affirmation.
+> * **Algèbre des Actes :**
+>   * **Acte ($A$) :** Acte positif d'affirmation.
 >   * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
 >   * **Non-Acte :** Absence simultanée de $A$ et de $\overline{A}$ (état de vacuité).
 
