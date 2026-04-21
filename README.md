@@ -50,7 +50,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 **Bonheur Absolu ($B$) :**
 
-$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$
+$$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
 
 *Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
 
