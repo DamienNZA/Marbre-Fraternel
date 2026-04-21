@@ -84,6 +84,10 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
+* **Équivalence des Anti-Valeurs :**
+
+$$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$$
+
 * **Algèbre des Actes :**
 
     * **Acte ($A$) :** Acte positif d'affirmation.
@@ -163,19 +167,25 @@ $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 3. La Valeur Ontologique :
 $$\Large Ⓥ \equiv 1 >< \infty$$
 
-4. L'Anti-(Valeur Ontologique) et Ontologie de l'Anti-Valeur :
-$$\Large \overline{\text{Ⓥ}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+4. L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :
+$$\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$$
 
-5. Le Continuum Ontologique :
+5. L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :
+$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+
+6. Équivalence des Anti-Valeurs :
+$$\Large \overline{\text{Ⓥ}} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$$
+
+7. Le Continuum Ontologique :
 $$\Large \Omega \equiv ]M, B[$$
 
-6. La Matrice de Conscience (C.L.E.F.) :
+8. La Matrice de Conscience (C.L.E.F.) :
 $$\Large \mathbb{C} [ L >< E >< F ]$$
 
-7. Loi de Dualité :
+9. Loi de Dualité :
 $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
-8. Symbolique et Algèbre :
+10. Symbolique et Algèbre :
     * L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
     * La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 
