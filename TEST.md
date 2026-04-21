@@ -226,47 +226,34 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 
 ## 📜 VII. PROPRIÉTÉ ET LICENCE
 
-
 © 2026 **Damien NZEYIMANA**.
-
 
 * **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
 
-
 * **Équations et Formalismes Protégés :**
-
 
     1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
 
-
     2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
-
 
     3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
 
-
     4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
-
 
     5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
 
-
     6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
-
 
     7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
 
-
     8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-
 
     9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 
-
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 
-
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
+
 
 
 ---
