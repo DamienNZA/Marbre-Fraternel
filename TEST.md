@@ -13,7 +13,7 @@
 ### **PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR**
 
 *Note sur la terminologie :*
-*Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.*
+*Si ce texte emplie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.*
 
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
@@ -54,9 +54,9 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 * **Le Continuum Ontologique ($\mathcal{C}$) :**
-> Espace borné de l'éthique délimité par les valeurs extrêmes [M, B].
-> $$\Large \mathcal{C} \equiv [M, B]$$
-> *Nota : L'utilisation des crochets fermés indique que l'espace éthique est strictement délimité : il n'existe aucune valeur inférieure à M, ni aucune valeur supérieure à B.*
+> Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
+> $$\Large \mathcal{C} \equiv (M, B)$$
+> *Nota : L'utilisation des parenthèses indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
 * **L'Équation d'Harmonie Éthique ($\text{Ⓥ}$) :**
 > $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
@@ -128,7 +128,7 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
   3. L'Équation d'Harmonie : $\Large Ⓥ \equiv 1 >< \infty$
   4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
-  5. Le Continuum Ontologique : $\Large \mathcal{C} \equiv [M, B]$
+  5. Le Continuum Ontologique : $\Large \mathcal{C} \equiv (M, B)$
   6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
   8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
