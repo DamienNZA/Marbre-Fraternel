@@ -50,39 +50,39 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 **Bonheur Absolu ($B$) :**
 
-$$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
+$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$
 
 *Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
 
 **Malheur Absolu ($M$) :**
 
-$$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
+$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$
 
 *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
 
-$$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
+$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$
 
 * **Le Continuum Ontologique ($\Omega$) :**
 
 Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
 
-$$\Large \Omega \equiv ]M, B[$$
+$\Large \Omega \equiv ]M, B[$
 
 *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
 * **La Valeur Ontologique ($\text{Ⓥ}$) :**
 
-$$\Large \text{Ⓥ} \equiv 1 >< \infty$$
+$\Large \text{Ⓥ} \equiv 1 >< \infty$
 
 * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
 
-$$\Large \overline{Ⓥ} \equiv \infty >< 0$$
+$\Large \overline{Ⓥ} \equiv \infty >< 0$
 
 * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
 
-$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
 $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$
 
