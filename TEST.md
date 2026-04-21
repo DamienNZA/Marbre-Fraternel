@@ -238,21 +238,26 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 
     3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
 
-    4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+    4. L'Anti-(Valeur Ontologique) : $\Large \overline{Ⓥ} \equiv \infty >< 0$
 
-    5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
+    5. L'Ontologie de l'Anti-Valeur : $\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
-    6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
+    6. Harmonie de l'Anti-Éthique (Équivalence) : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$
 
-    7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
+    7. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
 
-    8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+    8. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
 
-    9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+    9. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
+
+    10. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+
+    11. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
+
 
 
 
