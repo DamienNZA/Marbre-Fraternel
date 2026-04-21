@@ -33,9 +33,9 @@
 >
 > * **Loi de Préservation atomique :**
 >
->     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
+>     * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
 >
->     * Le système est **upward compatible** (on peut instancier un DOM plus exigeant que le DOH) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieure au DOH).
+>     * Le système est **upward compatible** (on peut instancier un DOM plus exigeant que le DOH) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieure au DOH).
 >
 > * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
@@ -59,7 +59,7 @@
 >
 > * **Loi de Dualité Ontologique :**
 >
-> $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
+> > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 >
 > * **Le Continuum Ontologique ($\Omega$) :**
 >
@@ -83,17 +83,17 @@
 >
 > * **Algèbre des Actes :**
 >
->     * **Acte ($A$) :** Acte positif d'affirmation.
+>     * **Acte ($A$) :** Acte positif d'affirmation.
 >
->     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
+>     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
 >
->     * **Non-Acte :** Absence d'action positive ( de  $A$ ou  de $\overline{A}$ ).
+>     * **Non-Acte :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
 >
 > * **Distinctions Logiques :**
 >
->     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
+>     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
 >
->     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
+>     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
 
 > ## **𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F**
 >
@@ -119,7 +119,7 @@
 >
 > * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
 >
->     > « Plus je sais, plus je sais que je ne sais rien. »
+>     > « Plus je sais, plus je sais que je ne sais rien. »
 >
 > * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
 
@@ -135,7 +135,7 @@
 
 > ## **📏 VI. LIMITE**
 >
-> Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
+> Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente).
 >
 > * **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
 >
@@ -151,23 +151,23 @@
 >
 > * **Équations et Formalismes Protégés :**
 >
->   1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
+>     1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
 >
->   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
+>     2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
 >
->   3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
+>     3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
 >
->   4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+>     4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
 >
->   5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
+>     5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
 >
->   6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
+>     6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
 >
->   7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
+>     7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
 >
->   8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+>     8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
 >
->   9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+>     9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 >
 > * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 >
