@@ -56,7 +56,7 @@ $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
 
 **Malheur Absolu ($M$) :**
 
-$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$
+$$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 
 *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
