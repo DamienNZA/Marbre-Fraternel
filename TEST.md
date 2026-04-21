@@ -59,6 +59,9 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **L'Équation d'Anti-Harmonie Éthique ($\overline{\text{Ⓥ}}$) :**
 > $$\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$$
 
+* **L'Équation d'Harmonie Anti-Éthique ($\text{Harmonie}(\overline{\text{Ⓥ}})$) :**
+> $$\Large \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv 0 >< 1$$
+
 * **Algèbre des Actes :**
     * **Acte ($A$) :** Acte positif d'affirmation.
     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
@@ -123,10 +126,11 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
   3. L'Équation d'Harmonie : $\Large Ⓥ \equiv 1 >< \infty$
   4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$
-  5. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
-  6. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
-  7. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-  8. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+  5. L'Équation d'Harmonie Anti-Éthique : $\Large \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv 0 >< 1$
+  6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
+  7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
+  8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+  9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
 
