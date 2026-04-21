@@ -115,6 +115,7 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
   3. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   4. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
   5. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+  6. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
 
