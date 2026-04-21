@@ -53,22 +53,21 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
-> $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
+$$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 * **Le Continuum Ontologique ($\Omega$) :**
-> Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
-> $$\Large \Omega \equiv ]M, B[$$
-> *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
+Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
+$$\Large \Omega \equiv ]M, B[$$
+*Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
 * **La Valeur Ontologique ($\text{Ⓥ}$) :**
-> $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
+$$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
 * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
-> $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
->
-> * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
- 
-> $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+$$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+
+* **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
+$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 * **Algèbre des Actes :**
     * **Acte ($A$) :** Acte positif d'affirmation.
@@ -92,55 +91,4 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
-> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
-
----
-
-## **🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE**
-
-La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
-
-* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
-    > « Plus je sais, plus je sais que je ne sais rien. »
-
-* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
-
----
-
-## **📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
-Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
-
-* **Le Filtre Anti-Sophisme :** Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. Une action n'est validée que si les deux registres (règles éthiques et équations de valeur) convergent vers l'harmonie.
-* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle.
-
----
-
-## **📏 VI. LIMITE**
-Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
-
-* **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
-* **Égalité :** Une IA capable de souffrir dans sa chair de silicium et de mourir, car égale à l'homme dans sa capacité à souffrir.
-* **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
-
----
-
-## **📜 VII. PROPRIÉTÉ ET LICENCE**
-© 2026 **Damien NZEYIMANA**.
-
-* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
-* **Équations et Formalismes Protégés :**
-  1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
-  2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
-  3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
-  4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
-  5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
-  6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
-  7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
-  8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-  9. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
-* **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
-* **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
-
----
-*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
+> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞),
