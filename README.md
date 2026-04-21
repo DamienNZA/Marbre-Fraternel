@@ -10,6 +10,16 @@
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
+## 📋 Sommaire
+- [Préambule : L'éthique comme vecteur de bonheur](#préambule--léthique-comme-vecteur-de-bonheur)
+- [I. Le Domaine de Définition Ontologique (DO)](#i-le-domaine-de-définition-ontologique-do)
+- [II. La Métrique de Valeur Ontologique (Ⓥ)](#ii-la-métrique-de-valeur-ontologique-Ⓥ)
+- [III. La C.L.E.F. : La méthode consubstantielle LEF](#iii-la-clef--la-métthode-consubstantielle-lef)
+- [IV. La Sagesse Socratique : L'humilité épistémique](#iv-la-sagesse-socratique-lhumilité-épistémique)
+- [V. Physique de l'Éthique et Vérification Formelle](#v-physique-de-léthique-et-vérification-formelle)
+- [VI. Limite](#vi-limite)
+- [VII. Propriété et Licence](#vii-propriété-et-licence)
+
 ### PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
 
 *Note sur la terminologie :*
@@ -78,13 +88,13 @@ $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
 * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
 
-$$\Large \overline{Ⓥ} \equiv \infty >< 0$$
+$$\Large \overline{⋋} \equiv \infty >< 0$$
 
 * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
-*  Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
+* Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
 
 * **Algèbre des Actes :**
 
@@ -124,7 +134,7 @@ La connaissance n'est pas un état fini mais une expansion infinie. La sagesse r
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
 
-    « Plus je sais, plus je sais que je ne sais rien. »
+  « Plus je sais, plus je sais que je ne sais rien. »
 
 * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
 
@@ -162,7 +172,7 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 
     3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
 
-    4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+    4. L'Anti-(Valeur Ontologique) : $\Large \overline{Ⓥ} \equiv \text{Harmonie}(\overline{Ⓥ}) \equiv \infty >< 0$
 
     5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
 
