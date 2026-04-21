@@ -23,7 +23,7 @@
 
 ---
 
-## **🌌 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)**
+## **🌀 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)**
 Le système repose sur une topologie stricte des êtres conscients d'eux même. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
 * **Le Domaine Ontologique des êtres Conscients d'eux même(DOC)** : A ce jour le DOH est le seul DO inclus dans le DOC.
