@@ -74,15 +74,15 @@ $$\Large \Omega \equiv ]M, B[$$
 
 * **La Valeur Ontologique ($\text{Ⓥ}$) :**
 
-$\Large \text{Ⓥ} \equiv 1 >< \infty$
+$$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
 * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
 
-$\Large \overline{Ⓥ} \equiv \infty >< 0$
+$$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
 
-$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
+$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$
 
