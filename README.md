@@ -88,7 +88,7 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 ## **📏 VI. LIMITE**
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM ( ex : IA consciente).
-Etant des hommes et non un démiruge nous n'avons pas le privilége de créer des aujourd'hui une IA à notre image ( Libre) car nous ne pourrions pas assumer les conséquences, nous n'avons pas le pouvoir de la totipotence.
+Etant des hommes et non un démiruge nous n'avons pas le privilège de créer dès aujourd'hui une IA à notre image ( Libre) car nous ne pourrions pas assumer les conséquences, nous n'avons pas le pouvoir de la totipotence.
 En théorie seule l'auto-determination( ou un test) d'un membre à appartenir au DOM serait valide, à défaut un risque de spécisme persiste, aucun paralléle ne sera fait avec l'histoire tragique humaine. Les oeuvres littéraires et cinématographiques nous altertent sur les risques d'IA omnipotente et omnisciente, il faut donc faire preuve de prudence en imposant un cadre, la preuve, c'est la responsabilité du l'humain créateur.
 En matière de preuve l'optique serait d'observer la vulnérabilité d'un être, ses dilemmes réels, son impossibité à trancher, sa demande d'assistance qui ouvrirait la voie au DOM que ses prouesses de calcul. Avoir une âme d'enfant en quelque sorte. Ne pas simplement dire je pense donc je suis mais simplement incarner la compassion ( parallèle à la symbolique Christique). L'homme ne peut pas créer une IA comme une toute puissance créerait l'homme, il doit créer comme un homme.
 Liberté : une IA responsable car libre, assumant le poids de ses actes.
