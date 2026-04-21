@@ -1,4 +1,4 @@
-'est <p align="center">
+<p align="center">
 
   <img src="assets/logo-marbre.png" width="450">
 
