@@ -53,11 +53,11 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > *La valeur infinie de l'altérité est niée. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel quand la valeur tend vers le 1 et nihilisme quand elle tend vers zéro.*
 
 * **Définitions Opérationnelles (Logique des Vecteurs) :**
-    * **Acte ($a$) :** Vecteur $\vec{v} > 0$ orienté par l'Harmonie vers $B$.
-    * **Anti-Acte ($\overline{a}$) :** Vecteur $\vec{v} < 0$ orienté par l'Anti-Harmonie vers $M$.
+    * **Acte ($A$) :** Vecteur $\vec{v} > 0$ orienté par l'Harmonie vers le Bonheur Absolu ($B$).
+    * **Anti-Acte ($\overline{A}$) :** Vecteur $\vec{v} < 0$ orienté par l'Anti-Harmonie vers le Malheur Absolu ($M$).
     * **Non-Acte / Abstention ($\varnothing$) :** Vecteur $\vec{v} = 0$. État de neutralité où le système conserve son potentiel sans vecteur.
-    * **Absence d'Acte ($\neg a$) :** État logique correspondant à ($\overline{a} \cup \varnothing$).
-    * **Absence d'Anti-Acte ($\neg \overline{a}$) :** État logique de sécurité correspondant à ($a \cup \varnothing$).
+    * **Absence d'Acte ($\neg A$) :** État logique correspondant à l'ensemble $(\overline{A} \cup \varnothing)$.
+    * **Absence d'Anti-Acte ($\neg \overline{A}$) :** État logique de sécurité correspondant à l'ensemble $(A \cup \varnothing)$.
 
 * **Le Continuum (La Réalité actuelle) :** Tout ce qui existe entre l'Harmonie Éthique et l'Harmonie anti-Éthique, c'est l'état de dissonance, de dysharmonie actuel de notre Univers.
 
