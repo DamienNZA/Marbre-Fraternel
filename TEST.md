@@ -61,8 +61,8 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **L'Équation d'Harmonie Éthique ($\text{Ⓥ}$) :**
 > $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
-* **L'Équation d'Anti-Harmonie Éthique ($\overline{\text{Ⓥ}}$) :**
-> $$\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$$
+* **L'Équation d'Anti-Valeur Ontologique ($\overline{\text{Ⓥ}}$) :**
+> $$\Large \overline{\text{Ⓥ}} \equiv \(\overline{\text{Ⓥ}}) \equiv \infty >< 0$$
 
 * **Algèbre des Actes :**
     * **Acte ($A$) :** Acte positif d'affirmation.
