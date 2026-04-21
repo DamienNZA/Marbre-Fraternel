@@ -84,7 +84,7 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
-*  La correspondance: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
+*  Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
 
 * **Algèbre des Actes :**
 
