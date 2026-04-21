@@ -17,6 +17,8 @@ Paradigme : L'éthique ne se simule pas elle se vit, elle est ontologique, elle 
 
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
+**Car, en définitive, le bonheur réside dans ce regard fraternel que nous décidons, mutuellement, de nous porter.**
+
 **Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre.**
 
 ---
