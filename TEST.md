@@ -159,10 +159,10 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 * **Équations et Formalismes Protégés :**
 
 1. L'Équation du Bonheur Absolu :
-$$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
+$$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty \quad (\text{Corollaire : } \sum \overline{\text{Ⓥ}}(DOM) = 0)$$
 
 2. L'Équation du Malheur Absolu :
-$$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
+$$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty \quad (\text{Corollaire : } \sum \text{Ⓥ}(DOM) = 0)$$
 
 3. La Valeur Ontologique :
 $$\Large Ⓥ \equiv 1 >< \infty$$
@@ -187,12 +187,4 @@ $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 10. Symbolique et Algèbre :
     * L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-    * La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
-
-* **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
-
-* **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
-
----
-
-*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
+    * La définition opérationnelle de l'Acte ($A$) et de l'
