@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo-marbre.png" width="400">
+  <img src="assets/logo-marbre.png" width="450">
 </p>
 
 # 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
