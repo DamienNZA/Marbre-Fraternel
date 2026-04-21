@@ -40,6 +40,10 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 ## **🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)**
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 
+* **Loi de Dualité Ontologique :**
+> $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
+> *Le Bonheur et le Malheur ne sont pas des absences l'un de l'autre, mais des états inversés. Ils sont structurellement incompatibles dans un même référentiel.*
+
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
 > *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
