@@ -125,7 +125,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
 
-    * **Non-Acte :** Absence simultanée de $A$ et de $\overline{A}$ (état de vacuité).
+    * **Non-Acte :** Absence d'action positive de $A$ ou  de $\overline{A}$ .
 
 
 * **Distinctions Logiques :**
