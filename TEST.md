@@ -132,8 +132,8 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 * **Équations et Formalismes Protégés :**
   1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
-  3. L'Équation d'Harmonie : $\Large Ⓥ \equiv 1 >< \infty$
-  4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+  3. La Valeur Ontologique : $\Large Ⓥ \equiv 1 >< \infty$
+  4. L'Anti-(Valeur Ontologique) : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
   5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
   6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
