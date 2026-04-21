@@ -53,10 +53,10 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **Loi de Dualité Ontologique :**
 > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
-* **Le Continuum Ontologique ($\mathcal{C}$) :**
+* **Le Continuum Ontologique ($\Omega$) :**
 > Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu.
-> $$\Large \mathcal{C} \equiv ]M, B[$$
-> *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), il représente le champ dynamique de l'expérience humaine entre ces deux pôles.*
+> $$\Large \Omega \equiv ]M, B[$$
+> *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
 * **L'Équation d'Harmonie Éthique ($\text{Ⓥ}$) :**
 > $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
@@ -128,7 +128,7 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
   3. L'Équation d'Harmonie : $\Large Ⓥ \equiv 1 >< \infty$
   4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
-  5. Le Continuum Ontologique : $\Large \mathcal{C} \equiv ]M, B[$
+  5. Le Continuum Ontologique : $\Large \Omega \equiv ]M, B[$
   6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
   8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
