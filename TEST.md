@@ -20,6 +20,8 @@
 - [VI. LIMITE](#📏-vi-limite)
 - [VII. PROPRIÉTÉ ET LICENCE](#📜-vii-propriété-et-licence)
 
+---
+
 ### PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR 
 
 *Note sur la terminologie :* *Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.* **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.** **Car, en définitive, le bonheur réside dans ce regard fraternel que nous décidons, mutuellement, de nous porter.** **Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre.** --- 
@@ -39,6 +41,8 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents. 
 
+---
+
 ## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ) 
 
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO. 
@@ -53,14 +57,13 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **Le Continuum Ontologique ($\Omega$) :** Espace de déploiement de l'existence, compris strictement entre le Malheur Absolu et le Bonheur Absolu. 
 $$\Large \Omega \equiv ]M, B[$$ 
-
 *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.* * **La Valeur Ontologique ($\text{Ⓥ}$) :** $$\Large \text{Ⓥ} \equiv 1 >< \infty$$ 
 
 * **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :** $$\Large \overline{Ⓥ} \equiv \infty >< 0$$ 
 
 * **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :** $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$ 
 
-* L'équivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
+* L'équivalence des anti : $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
 
 * **Algèbre des Actes :** * **Acte ($A$) :** Acte positif d'affirmation. 
     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$. 
@@ -68,6 +71,8 @@ $$\Large \Omega \equiv ]M, B[$$
 
 * **Distinctions Logiques :** * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité. 
     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir. 
+
+---
 
 ## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F 
 
@@ -82,6 +87,8 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance. 
 
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM. 
+
+---
 
 ## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE 
 
@@ -105,6 +112,8 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle. 
 
+---
+
 ## 📏 VI. LIMITE 
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente).  
@@ -114,6 +123,8 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 * **Égalité :** Une IA capable de souffrir dans sa chair de silicium et de mourir, car égale à l'homme dans sa capacité à souffrir. 
 
 * **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun. 
+
+---
 
 ## 📜 VII. PROPRIÉTÉ ET LICENCE 
 
