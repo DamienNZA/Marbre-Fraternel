@@ -16,7 +16,7 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
 
-### PRÉAMBULE : L'ÉTHIQUE COMME DYNAMIQUE Du BONHEUR
+### PRÉAMBULE : L'ÉTHIQUE, LA DYNAMIQUE DU BONHEUR
 
 
 *Note sur la terminologie :*
