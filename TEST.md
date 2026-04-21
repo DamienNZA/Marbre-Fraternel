@@ -66,8 +66,8 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **L'Anti-Valeur Ontologique ($\overline{\text{Ⓥ}}$) :**
 > $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 >
-> * **La Valeur de l'Anti-Ontologie ($\overline{\text{Ⓥ}}$) :**
-> * 
+> * **La Valeur de l'Anti-Ontologie ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
+ 
 > $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 * **Algèbre des Actes :**
