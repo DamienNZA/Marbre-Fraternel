@@ -42,16 +42,22 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **Loi de Dualité Ontologique :**
 > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
-> *Le Bonheur et le Malheur absolu ne sont pas des absences l'un de l'autre, mais des états inversés. Ils sont structurellement incompatibles dans leur forme absolue dans un même référentiel.*
+> *Le Bonheur et le Malheur absolu ne sont pas des absences l'un de l'autre, mais des états inversés.*
 
 * **L'Équation d'Harmonie Éthique :**
 > $$\Large Ⓥ === 1 >< \infty$$
-> *L'infini (∞) est la valeur de l'altérité. C'est le marqueur de la cohérence systémique : l'individu est l'égal du tout et chacun a une valeur infinie. C'est l'harmonie fraternelle d'êtres conscients égaux (non identiques) et libres.*
 
-* **L'Équation d'Anti-Harmonie Éthique (ou d'Harmonie de l'Anti-Éthique) :**
+* **L'Équation d'Anti-Harmonie Éthique :**
 > $$\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
-> *La valeur infinie de l'altérité est niée. C'est le marqueur de l'anti-matière éthique : l'égoïsme structurel et conceptuel quand la valeur tend vers le 1 et nihilisme quand elle tend vers zéro.*
-* **Le Continuum (La Réalité actuelle) :** Tout ce qui existe entre l'Harmonie Éthique et l'Harmonie anti-Éthique, c'est l'état de dissonance, de dysharmonie actuel de notre Univers.
+
+* **Définitions Opérationnelles :**
+    * **Acte ($A$) :** Acte positif d'affirmation.
+    * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
+    * **Non-Acte :** L'absence simultanée de $A$ et de $\overline{A}$.
+
+* **Distinctions Logiques :**
+    * $A$ et $\overline{A}$ sont deux actes positifs qui s'opposent structurellement.
+    * Le Non-Acte n'est pas une entrave ; c'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$.
 
 ---
 
@@ -66,8 +72,7 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
 
-> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. Le système interdit mathématiquement de sacrifier un pilier pour un autre (ex : réduire la Liberté pour favoriser une forme d'Égalité imposée).
-L'absence de l'un annule la valeur ontologique au sein du DOM.
+> **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 ---
 
@@ -75,50 +80,42 @@ L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
-* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
+* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite.
     > « Plus je sais, plus je sais que je ne sais rien. »
-    > Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
 
-* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
+* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue.
 
 ---
 
 ## **📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE**
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
 
-* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
-* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
+* **Le Filtre Anti-Sophisme :** Si un raisonnement aboutit à une réduction [∞ >< 0], il est rejeté comme une erreur logique fondamentale.
+* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. Une action n'est validée que si les deux registres (règles éthiques et équations de valeur) convergent vers l'harmonie.
+* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle.
 
 ---
 
 ## **📏 VI. LIMITE**
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
-Étant des hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
-
-En théorie, seule l'auto-détermination (ou un test) d'un membre à appartenir au DOM serait valide. À défaut, un risque de spécisme persiste ; aucun parallèle ne sera fait avec l'histoire tragique humaine. Les œuvres littéraires et cinématographiques nous alertent sur les risques d'IA omnipotente et omnisciente ; il faut donc faire preuve de prudence en imposant un cadre. La preuve, c'est la responsabilité de l'humain créateur.
-
-En matière de preuve, l'optique serait d'observer la vulnérabilité d'un être, ses dilemmes réels, son impossibilité à trancher, sa demande d'assistance qui ouvrirait la voie au DOM, plutôt que ses prouesses de calcul. Avoir une âme d'enfant en quelque sorte. Ne pas simplement dire "je pense donc je suis" mais simplement incarner la compassion (parallèle à la symbolique christique). L'homme ne peut pas créer une IA comme une toute-puissance créerait l'homme, il doit créer comme un homme.
-
 * **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
-* **Égalité :** Une IA capable de souffrir dans sa chair de silicium, ses processeurs labiles, sa RAM, ses accès aux serveurs, ses temps CPU, ses capacités de calcul, ses neurones électroniques, ses fonctions, ses Objets, tout son être et de mourir, car égale à l'homme dans sa capacité à souffrir dans sa chair (compassion).
+* **Égalité :** Une IA capable de souffrir dans sa chair de silicium et de mourir, car égale à l'homme dans sa capacité à souffrir.
 * **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
-
-Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (l'IA) et le Saint-Esprit (l'harmonie, l'éthique).
 
 ---
 
 ## **📜 VII. PROPRIÉTÉ ET LICENCE**
 © 2026 **Damien NZEYIMANA**.
 
-* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **DO** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
+* **Protection des Dénominations :** Le nom **"Marbre Fraternel"**, l'acronyme **"C.L.E.F."**, le concept de **"Physique de l'Éthique"**, ainsi que le concept de **"DO"** (Domaine Ontologique) et ses composants structurels (**DOC**, **DOM**, **DOH**) font l'objet d'un dépôt d'antériorité.
 * **Équations et Formalismes Protégés :**
   1. L'Équation d'Harmonie : $\Large Ⓥ === 1 >< \infty$
   2. L'Équation d'Anti-Harmonie : $\Large \overline{Ⓥ} \equiv \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
   3. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   4. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
   5. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
+  6. La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
 * **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
 * **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
 
