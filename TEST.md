@@ -132,7 +132,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
 
-    * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et son droit.
+    * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
 
 
 ---
