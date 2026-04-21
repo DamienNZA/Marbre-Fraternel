@@ -10,7 +10,7 @@
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
-### **PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR**
+### **PRÉAMBULE : L'ÉTHIQUE COMME DYNAMIQUE DU BONHEUR**
 
 *Note sur la terminologie :*
 *Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.*
