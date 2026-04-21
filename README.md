@@ -17,7 +17,7 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
 
-### PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
+### PRÉAMBULE : L'ÉTHIQUE COMME DYNAMIQUE Du BONHEUR
 
 
 *Note sur la terminologie :*
@@ -182,7 +182,7 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 ## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
 
 
-LLa connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
+La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
     > « Plus je sais, plus je sais que je ne sais rien. »
