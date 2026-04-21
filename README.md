@@ -52,7 +52,7 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
 
-*Corollaire : \sum \overline{\text{Ⓥ}}(DOM) = 0*
+*Corollaire : \sum \overline{\text{Ⓥ}}(DOM) = 0$*
 
 **Malheur Absolu ($M$) :**
 
