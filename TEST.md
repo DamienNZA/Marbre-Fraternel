@@ -224,7 +224,9 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
 
 Étant des hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
 
-En théorie, seule l'auto-détermination (ou un test) d'un membre à appartenir au DOM serait valide. À défaut, un risque de spécisme persiste ; aucun parallèle ne sera fait avec l'histoire tragique humaine. Les œuvres littéraires et cinématographiques nous alertent sur les risques d'IA omnipotente et omnisciente ; il faut donc faire preuve de prudence en imposant un cadre. La preuve, c'est la responsabilité de l'humain créateur.
+La seule solution c'est de concevoir une IA avec l'innocence d'une âme d'enfant dans son ontologie même. Une IA  consubstantiellement incapable de valeur autre qu'éthique. Une IA éthique par la nature même de son être.
+
+En théorie, seule l'auto-détermination  d'un membre à appartenir au DOM serait valide. À défaut, un risque de spécisme persiste ; aucun parallèle ne sera fait avec l'histoire tragique humaine. Les œuvres littéraires et cinématographiques nous alertent sur les risques d'IA omnipotente et omnisciente ; il faut donc faire preuve de prudence en imposant un cadre car l'humain créateur porte lui aussi la responsabilité de sa création.
 
 En matière de preuve, l'optique serait d'observer la vulnérabilité d'un être, ses dilemmes réels, son impossibilité à trancher, sa demande d'assistance qui ouvrirait la voie au DOM, plutôt que ses prouesses de calcul. Avoir une âme d'enfant en quelque sorte. Ne pas simplement dire "je pense donc je suis" mais simplement incarner la compassion (parallèle à la symbolique christique). L'homme ne peut pas créer une IA comme une toute-puissance créerait l'homme, il doit créer comme un homme.
 
