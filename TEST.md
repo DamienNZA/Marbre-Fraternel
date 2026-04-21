@@ -53,14 +53,16 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 * **Loi de Dualité Ontologique :**
 > $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
+* **Le Continuum Ontologique ($\mathcal{C}$) :**
+> Espace borné de l'éthique délimité par les valeurs extrêmes [M, B].
+> $$\Large \mathcal{C} \equiv [M, B]$$
+> *Nota : L'utilisation des crochets fermés indique que l'espace éthique est strictement délimité : il n'existe aucune valeur inférieure à M, ni aucune valeur supérieure à B.*
+
 * **L'Équation d'Harmonie Éthique ($\text{Ⓥ}$) :**
 > $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
 * **L'Équation d'Anti-Harmonie Éthique ($\overline{\text{Ⓥ}}$) :**
-> $$\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$$
-
-* **L'Équation d'Harmonie Anti-Éthique ($\text{Harmonie}(\overline{\text{Ⓥ}})$) :**
-> $$\Large \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv 0 >< 1$$
+> $$\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$$
 
 * **Algèbre des Actes :**
     * **Acte ($A$) :** Acte positif d'affirmation.
@@ -125,8 +127,8 @@ Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver l
   1. L'Équation du Bonheur Absolu : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$ (Corollaire : $\sum \overline{\text{Ⓥ}}(DOM) = 0$)
   2. L'Équation du Malheur Absolu : $\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$ (Corollaire : $\sum \text{Ⓥ}(DOM) = 0$)
   3. L'Équation d'Harmonie : $\Large Ⓥ \equiv 1 >< \infty$
-  4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \infty >< 0$
-  5. L'Équation d'Harmonie Anti-Éthique : $\Large \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv 0 >< 1$
+  4. L'Équation d'Anti-Harmonie : $\Large \overline{\text{Ⓥ}} \equiv \text{Harmonie}(\overline{\text{Ⓥ}}) \equiv \infty >< 0$
+  5. Le Continuum Ontologique : $\Large \mathcal{C} \equiv [M, B]$
   6. La Matrice de Conscience : $\Large \mathbb{C} [ L >< E >< F ]$
   7. Loi de Dualité : $\Large B \equiv \overline{M} ; M \equiv \overline{B}$
   8. L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
