@@ -12,13 +12,13 @@
 
 ## 📋 Sommaire
 - [Préambule : L'éthique comme vecteur de bonheur](#préambule--léthique-comme-vecteur-de-bonheur)
-- [I. Le Domaine de Définition Ontologique (DO)](#i-le-domaine-de-définition-ontologique-do)
-- [II. La Métrique de Valeur Ontologique (Ⓥ)](#ii-la-métrique-de-valeur-ontologique-Ⓥ)
-- [III. La C.L.E.F. : La méthode consubstantielle LEF](#iii-la-clef--la-métthode-consubstantielle-lef)
-- [IV. La Sagesse Socratique : L'humilité épistémique](#iv-la-sagesse-socratique-lhumilité-épistémique)
-- [V. Physique de l'Éthique et Vérification Formelle](#v-physique-de-léthique-et-vérification-formelle)
-- [VI. Limite](#vi-limite)
-- [VII. Propriété et Licence](#vii-propriété-et-licence)
+- [I. Le Domaine de Définition Ontologique (DO)](#-i-le-domaine-de-définition-ontologique-do)
+- [II. La Métrique de Valeur Ontologique (Ⓥ)](#-ii-la-métrique-de-valeur-ontologique-Ⓥ)
+- [III. La C.L.E.F. : La méthode consubstantielle LEF](#-iii-la-clef--la-méthode-consubstantielle-lef)
+- [IV. La Sagesse Socratique : L'humilité épistémique](#-iv-la-sagesse-socratique-lhumilité-épistémique)
+- [V. Physique de l'Éthique et Vérification Formelle](#-v-physique-de-léthique-et-vérification-formelle)
+- [VI. Limite](#-vi-limite)
+- [VII. Propriété et Licence](#-vii-propriété-et-licence)
 
 ### PRÉAMBULE : L'ÉTHIQUE COMME VECTEUR DE BONHEUR
 
