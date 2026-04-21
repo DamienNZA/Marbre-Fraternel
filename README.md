@@ -58,7 +58,7 @@ $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
 
 $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 
-*Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
+*Corollaire :* \sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
 
