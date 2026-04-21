@@ -14,7 +14,7 @@
 
 *Note sur la terminologie :*
 
-*Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens.*
+*Si ce texte emploie des termes précis, des structures, des équations, des références au sacré et des images poétiques, c'est un choix volontaire. Trop souvent, l'éthique est perçue comme un concept abstrait, distant, voire inutile, car elle manque de prise sur le réel. En nommant les choses, en structurant nos concepts et en formalisant nos principes, nous transformons l'éthique en un outil tangible, un concept concret et praticable, qui nous ressemble, nous émeut, nous parle, directement applicable à nos dilemmes quotidiens. Cette approche mathématique est, par essence, symbolique et heuristique : elle modélise une quête de sens plutôt qu'elle ne cherche à décrire une réalité physique mesurable empiriquement.*
 
 **L'éthique ne se résume pas à une série de règles ou de contraintes. Elle est, par essence, la recherche consciente du Bonheur. Elle constitue le socle indispensable à l'épanouissement humain : elle permet le bonheur de celui qui l'incarne, par la justesse de ses actes, et celui de ceux avec qui il interagit, par la création d'un espace de confiance et de bienveillance. L'éthique est le vecteur du bonheur partagé.**
 
@@ -187,4 +187,12 @@ $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 10. Symbolique et Algèbre :
     * L'usage spécifique du symbole de couplage **" >< "** dans le cadre de la physique de l'éthique.
-    * La définition opérationnelle de l'Acte ($A$) et de l'
+    * La définition opérationnelle de l'Acte ($A$) et de l'Anti-Acte ($\overline{A}$).
+
+* **Licence :** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr) (Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions).
+
+* **Usage Commercial :** Toute exploitation commerciale, intégration dans des algorithmes propriétaires ou usage par des entités morales est strictement soumis à l'autorisation explicite de l'auteur.
+
+---
+
+*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »*
