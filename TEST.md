@@ -68,7 +68,6 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 * **Équations Absolues :**
 
-
 > **Bonheur Absolu ($B$) :**
 
 > $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
