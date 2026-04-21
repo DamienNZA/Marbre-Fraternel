@@ -44,10 +44,12 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 
 > **Bonheur Absolu ($B$) :**
 > $$\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$$
+> 
 > *Corollaire :* $\sum \overline{\text{Ⓥ}}(DOM) = 0$
 
 > **Malheur Absolu ($M$) :**
 > $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
+> 
 > *Corollaire :* $\sum \text{Ⓥ}(DOM) = 0$
 
 * **Loi de Dualité Ontologique :**
@@ -58,11 +60,14 @@ Le Marbre définit la valeur d'une entité ou d'un principe par une règle de po
 > $$\Large \Omega \equiv ]M, B[$$
 > *Nota : L'utilisation des crochets tournés vers l'extérieur indique un intervalle ouvert : le continuum exclut les états absolus (B et M), car il représente le champ dynamique de l'expérience entre ces deux pôles.*
 
-* **L'Équation d'Harmonie Éthique ($\text{Ⓥ}$) :**
+* **La Valeur Ontologique ($\text{Ⓥ}$) :**
 > $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
-* **L'Équation d'Anti-Valeur Ontologique ($\overline{\text{Ⓥ}}$) :**
+* **L'Anti-Valeur Ontologique ($\overline{\text{Ⓥ}}$) :**
 > $$\Large \overline{\text{Ⓥ}} \equiv \(\overline{\text{Ⓥ}}) \equiv \infty >< 0$$
+>
+> * **La Valeur de l'Anti-Ontologie ($\overline{\text{Ⓥ}}$) :**
+> $$\Large \overline{\}(\text{Ⓥ}) \equiv \infty >< 0$$
 
 * **Algèbre des Actes :**
     * **Acte ($A$) :** Acte positif d'affirmation.
