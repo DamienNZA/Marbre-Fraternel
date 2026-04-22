@@ -99,6 +99,11 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
     * **$B$ (Bonheur) :** État absolu d'harmonie Ontologique du Réel ($\mathbb{T}$).
     * **$M$ (Malheur) :** État absolu d'anti-harmonie Ontologique  ( strictement identique ($\equiv$)  à  l'harmonie de l'anti-Ontologie) du Réel ($\mathbb{T}$).
 
+* **1. Dualité de l'Absolu (États) :**
+  Deux Absolus exclusifs l'un de l'autre.
+  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
+  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique ($\equiv$) à l'harmonie de l'anti-ontologie.
+
 * **2. Dualité du Mouvement ( Action) :**
     Mise en mouvement du Monde sans notion de valeur ontologique, ce mouvement sera  sera pesée éthiquement ( Calcul)
     * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
@@ -118,10 +123,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 Cette section définit les forces en présence. C'est une lecture du monde comme un champ de vecteurs et d'états purs, indépendamment de toute valeur morale, afin de permettre la pesée éthique ultérieure.
 
-* **1. Dualité de l'Absolu (États) :**
-  Deux Absolus exclusifs l'un de l'autre.
-  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
-  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique ($\equiv$) à l'harmonie de l'anti-ontologie.
+
 
 * **2. Dualité des États (Absolu / Continuum) :**
   Deux états antithétiques et exclusifs l'un de l'autre.
