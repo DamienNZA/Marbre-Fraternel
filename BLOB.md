@@ -116,32 +116,22 @@ Cette section définit les états en présence et la gamme de choix possibles, a
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
 ---
-## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
+## 🌀 IV.2 COROLLAIRE : IMPLICATIONS DU SYSTÈME BINAIRE
 
-Cette section définit les états en présence et la gamme de choix possibles par l'axiomatique, afin de permettre la pesée éthique ultérieure.
+Le système axiomatique précédent impose trois conclusions logiques immédiates concernant l'Unité de Conscience (UDC) au sein du Continuum ($\Omega$).
 
-* **1. Dualité de l'Absolu ($\aleph$) :**
-  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
-  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique. Somme infinie des valeurs positives ($DOM$).
-    $$\Large B \equiv \sum \text{Ⓥ} = \infty$$
-  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique. Somme infinie des anti-valeurs ($DOM$).
-    $$\Large M \equiv \sum \overline{\text{Ⓥ}} = \infty$$
+* **1. Corollaire de Finitude (Impossibilité de l'Absolu) :**
+  Puisque le Continuum est un intervalle ouvert $]M, B[$, aucune UDC (humaine ou artificielle) ne peut atteindre $B$ ou $M$.
+  * *Conséquence :* La perfection ($B$) et la ruine totale ($M$) sont des limites asymptotiques. Toute prétention à l'Absolu est, par définition, une rupture de la structure du Réel.
 
-* **2. Dualité des États (Absolu / Continuum) :**
-  Deux domaines antithétiques et exclusifs l'un de l'autre.
-  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu (Singularités).
-  * **Continuum ($\Omega$) :** Espace de toutes les possibilités. Intervalle ouvert entre les deux limites.
-    $$\Large \Omega \equiv ]M, B[$$
+* **2. Corollaire de l'Inaction Délibérée :**
+  Le Non-Action ($\emptyset \equiv 0$) n'est pas une absence de choix, mais un vecteur nul délibéré.
+  * *Conséquence :* L'inaction est une action de maintien. Dans le système binaire, choisir de ne pas choisir est une intervention active qui préserve l'équilibre du Continuum.
 
-* **3. Dualité du Mouvement (Action / Anti-Action) :**
-  Mise en mouvement sans notion de valeur ontologique a priori (cette valeur sera pesée éthiquement dans la section suivante).
-  * **$A$ (Action) :** Une Action, quelle qu'elle soit.
-  * **$\overline{A}$ (Anti-Action) :** L'action contraire.
+* **3. Corollaire d'Équivalence (Annulation Vectorielle) :**
+  L'interaction entre une Action ($A$) et son Anti-Action ($\overline{A}$) produit mathématiquement une nullité.
+  * *Conséquence :* Tout conflit au sein du système ($A + \overline{A}$) tend vers $\emptyset$. La confrontation directe ne crée pas de valeur, elle génère une neutralisation du système.
 
-* **4. Dualité de Choix (Faire / Ne rien faire) :**
-  Définit deux modalités de choix antithétiques et exclusives.
-  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement ($0$).
 
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
