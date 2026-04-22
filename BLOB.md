@@ -39,7 +39,7 @@
 
 ## 🏛️ I. ARCHITECTURE CONCEPTUELLE
 
-L'architecture définit les entités fondamentales qui composent le système. Chaque entité est un pilier du Marbre Fraternel.
+L'architecture définit les entités fondamentales qui composent le système.
 
 | Symbole | Nom | Définition |
 | :--- | :--- | :--- |
@@ -62,21 +62,6 @@ Les opérateurs régissent la manière dont les entités interagissent. Ils déf
     * *Exemple :* $\Omega \approx \mathbb{T}$
 * **Impulsion ($\implies$) :** Opérateur de transition dynamique vers l'homéostasie.
 
-## 🏛️ I. LE RÉFÉRENTIEL ONTOLOGIQUE (RO)
-
-Le Référentiel est le socle axiomatique du système. Il définit la position de l'observateur face à l'immensité du Réel. Il sépare l'Absolu (indémontrable) du Domaine de l'Expérience (calculable).
-
-* **Le Domaine du Réel Transcendant (DRT) :**
-  $$\mathbb{T} \equiv_{\mathbb{T}} \{ \text{Réel Absolu / Axiome Source} \}$$
-  C'est la source pure, transcendantale. Elle ne se démontre pas, elle est. Toute connaissance n'est qu'une approximation de cette Vérité.
-
-* **La Relation de Perspective :**
-  $$\Omega \approx \mathbb{T}$$
-  Le Domaine Ontologique ($\Omega$) n'est jamais une copie parfaite du DRT. Il est une **approximation** nécessaire à l'existence. La sagesse du système réside dans cette reconnaissance : nous habitons une perspective, non l'absolu.
-
-* **L'Équation du Cadre :**
-  $$\text{Référentiel} \equiv_{\Omega} \text{Perspective} \otimes \mathbb{T}$$
-  Le Référentiel est l'outil qui permet de projeter la Vérité Transcendantale dans le champ dynamique de nos actions.
 
 ## 🌀 II. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
 
