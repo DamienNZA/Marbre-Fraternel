@@ -215,16 +215,15 @@ La connaissance n'est pas un état fini mais une expansion infinie. La sagesse r
 
 * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
----
 ## 🧠 VI. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$)
 
 La connaissance n'est pas un état fini mais une expansion infinie tendant vers $\mathbb{T}$. La sagesse réside dans l'acceptation de cette dynamique.
 
-* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse dans son $DO$, plus il prend conscience de l'immensité du champ des possibles ($\mathbb{T}$).
+* **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu, depuis son $DO$ (qui définit sa nature d'être), progresse vers la saisie de $\mathbb{T}$, plus il prend conscience de l'immensité du champ des possibles.
     > « Plus je sais, plus je sais que je ne sais rien. »
-    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité ($\mathbb{T}$) est un horizon qui recule à mesure qu'on l'approche. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, sur d'autres grains de sable du $DO$, escaladent leurs propres sommets. Le croisement de nos regards transforme notre ascension solitaire en une exploration commune (intrication $><$).
+    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité ($\mathbb{T}$) est un horizon qui recule à mesure qu'on l'approche. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, ancrés dans leur propre $DO$, escaladent leurs sommets vers $\mathbb{T}$. Le croisement de nos regards transforme notre ascension solitaire en une exploration commune (intrication $><$).
 
-* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude (la distance entre son $DO$ et $\mathbb{T}$) et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative par le lien d'intrication ($><$) des consciences.
+* **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude (la distance entre son état au sein du $DO$ et $\mathbb{T}$) et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative par le lien d'intrication ($><$) des consciences.
 
 ## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
