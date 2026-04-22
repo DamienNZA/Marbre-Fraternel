@@ -64,7 +64,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 
 
-## 🌀 III. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
+## 🌀 III. LE DOMAINE DE DÉFINITION ONTOLOGIQUE Ⓓ  (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
