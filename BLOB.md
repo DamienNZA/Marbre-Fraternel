@@ -93,7 +93,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
  ## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
 
-Cette section définit les Etats en présence et la gamme de Choix possible, afin de permettre la pesée éthique.
+Cette section définit les Etats en présence et la gamme de Choix possible, afin de permettre la Pesée éthique.
 
 * **1. Dualité de l'Absolu (États) :**
   Deux Absolus exclusifs l'un de l'autre :  $B \equiv \overline{M}$.
