@@ -69,29 +69,6 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
-0:   $\Large \bigcirc \kern-1.20em {\scriptstyle \tiny{DH}} $
-
-1:  $\Large \bigcirc \kern-1.05em {\scriptstyle \mathsf{DH}} $
-
-
-
-2:  $\huge \bigcirc \kern-1.05em {\scriptstyle \text{DH}} $
-
-3:  $\huge \bigcirc \kern-1.05em {\scriptstyle \mathsf{DH}} $
-
-4:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \mathsf{DH}} $
-
-
-5:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \text{DH}} $
-
-
-6:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \tiny{DH}} $
-
-
-7:  $\Large \bigcirc \kern-1.20em {\scriptstyle \tiny{DH}} $
-
-
-
 * **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC:  ⒹC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
 
