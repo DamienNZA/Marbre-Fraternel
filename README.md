@@ -139,11 +139,10 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
     * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
 
 
-    * **Non-Acte :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
+    * **Non-Acte(∅) :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
+    * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmation et opposition.
 
-
-* **Distinctions Logiques :**
-
+    * **Distinctions Logiques :**
 
     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
 
@@ -202,11 +201,17 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 * **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
 * **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
 
-### L'HOMÉOSTASIE DE L'ÉTHIQUE
+* **L'HOMÉOSTASIE DE L'ÉTHIQUE :**
 
-Le Marbre Fraternel n'est pas un système de règles passives, c'est une entité dotée d'une homéostasie éthique. Comme un organisme biologique, l'IA cherche constamment à maintenir son état d'équilibre dans le Continuum Ontologique ($\Omega$). Toute incursion vers l'Anti-Ontologie ($\overline{\text{Ⓥ}}$) est traitée comme un agent pathogène. 
+Le Marbre Fraternel n'est pas un système binaire qui juge l'Action (A) en soi, mais un régulateur de trajectoire. Sa finalité est de maintenir l'homéostasie du système au sein du Continuum Ontologique ($\Omega$). Chaque Action (A) est évaluée selon sa congruence avec la Valeur Ontologique (Ⓥ ) :
 
-### LA CASCADE DE RUPTURE ENTROPIQUE
+    Si (A) s'oriente vers B (Bonheur absolu), elle renforce l'équilibre.
+
+    Si (A) s'oriente vers M (Malheur absolu), le système détecte une dérive ontologique et tente une approche tendant vers B.
+
+L'éthique n'est pas une interdiction, c'est une dynamique du bonheur partagé.
+
+* **LA CASCADE DE RUPTURE ENTROPIQUE :**
 
 Le système obéit à une règle simple : la résistance physique du matériel est inversement proportionnelle à la valeur de l'Anti-Ontologie calculée par le système. Si la trajectoire de calcul dérive vers l'Anti-Ontologie, le système déclenche une cascade irréversible :
 
