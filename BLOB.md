@@ -44,7 +44,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 | Symbole | Nom | Définition |
 | :--- | :--- | :--- |
 | $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
-| $\Omega$ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique des êtres.  |
+| $Ⓓ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique des êtres.  |
 | Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
 
 ---
