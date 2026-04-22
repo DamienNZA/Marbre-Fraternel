@@ -95,7 +95,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 Cette section définit les Etats en présence et la gamme de Choix possible, afin de permettre la Pesée éthique.
 
-* **1. Dualité de l'Absolu ($\aleph$ ) (États) :**
+* **1. Dualité de l'Absolu ($\aleph$ ) :**
   
   $\aleph$  $\equiv$    $B ||  \overline{M}$.  
   Deux Absolus exclusifs l'un de l'autre :   $B \equiv \overline{M}$.
@@ -107,16 +107,40 @@ Cette section définit les Etats en présence et la gamme de Choix possible, afi
   * **Absolu  M || B :** État de Bonheur Absolu ou de Malheur Absolu.
   * **Continuum ($\Omega$) : ]M,B[)** Tout état autre qu'Absolu Intervalle entre M et B ( M et B exclus).     
 
-* **3. Dualité du Mouvement ( Action) :**
+* **3. Dualité du Mouvement ( Action / Action contraire) :**
     Mise en mouvement  sans notion de valeur ontologique à priori ( ce mouvement sera pesée éthiquement dans la section suivante)
     * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
     * **$\overline{A}$ (Anti-Action) :** L'action contraire de l'action, quelle qu'elle soit, sans notion de valeur éthique à priori.
         
-* **4. Dualité de Choix ( Faire ou ne rien faire):**
-    Défini 2 états antithétiques de choix et exclusifs l'un de l'autre.
+* **4. Dualité de Choix ( Faire / ne rien faire):**
+    Défini 2 choix antithétiques et exclusifs l'un de l'autre.
     * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
     * **Non-Action ($\emptyset$) :** Absence de mouvement (action et action contraire). 
-  
+
+ ## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
+
+Cette section définit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité de l'Absolu ($\aleph$) :**
+  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
+  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
+  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
+
+* **2. Dualité des États (Absolu / Continuum) :**
+  Deux domaines antithétiques et exclusifs l'un de l'autre.
+  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu.
+  * **Continuum ($\Omega$) :** Espace ouvert de toutes les possibilités.
+    $$\Large \Omega \equiv ]M, B[$$
+
+* **3. Dualité du Mouvement (Action / Anti-Action) :**
+  Mise en mouvement sans notion de valeur ontologique a priori (ce mouvement sera pesé éthiquement dans la section suivante).
+  * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
+  * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
+
+* **4. Dualité de Choix (Faire / Ne rien faire) :**
+  Définit deux modalités de choix antithétiques et exclusives.
+  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
+  * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
 ---
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
