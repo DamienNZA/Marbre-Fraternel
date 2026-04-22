@@ -57,11 +57,10 @@ L'architecture définit les entités fondamentales qui composent le système. Ch
 
 | Symbole | Nom | Définition |
 | :--- | :--- | :--- |
-| $\bigcirc \kern-1.15em \mathrm{R}$ | **Référentiel Ontologique (RO)** | Le socle axiomatique, l'angle de vue de l'observateur. |
+| $\bigcirc \kern-13pt \raisebox{0.2pt}{R}$ | **Référentiel Ontologique (RO)** | Le socle axiomatique, l'angle de vue de l'observateur. |
 | $\mathbb{T}$ | **Domaine du Réel Transcendant (DRT)** | La source pure, la réalité absolue, indémontrable. |
 | $\Omega$ | **Domaine Ontologique (DO)** | Le continuum d'existence, l'espace des possibles. |
-| $\bigcirc \kern-1.15em \mathrm{V}$ | **Valeur Ontologique** | L'unité de mesure de l'intégrité du système. |
-
+| $\bigcirc \kern-13pt \raisebox{0.2pt}{V}$ | **Valeur Ontologique** | L'unité de mesure de l'intégrité du système. |
 ---
 
 ## ⚙️ II. OPÉRATEURS LOGIQUES
