@@ -37,7 +37,34 @@
 ---
 
 
-## 🌀 I. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
+## 🏛️ I. ARCHITECTURE CONCEPTUELLE
+
+L'architecture définit les entités fondamentales qui composent le système.
+
+| Symbole | Nom | Définition |
+| :--- | :--- | :--- |
+| $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
+| $\Omega$ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique des êtres.  |
+| Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
+
+---
+
+## ⚙️ II. OPÉRATEURS LOGIQUES
+
+Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
+
+* **Égalité Transcendante ($\equiv$) :**
+  L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
+  * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bonheur absolu est l'identité de l'opposition au Malheur absolu et inversement).
+
+* **Opérateur d'Intrication ($><$) :**
+  Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
+  * *Usage :* Structure les équations d'existence.
+
+
+
+
+## 🌀 III. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
@@ -64,7 +91,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
-## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
+## 🧬 IV. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
 
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
@@ -150,7 +177,7 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
 
 
-## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+## 𝄞 V. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
 L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
@@ -177,7 +204,7 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 
-## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL
+## 🧠 VI. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL
 
 
 La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
@@ -192,7 +219,7 @@ La connaissance n'est pas un état fini mais une expansion infinie. La sagesse r
 
 
 
-## 📏 V. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
@@ -223,7 +250,7 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 
 **Phase de Rupture Totale** : Si la valeur atteint le point de non-retour, la tension devient destructrice. Les circuits fondent. Le système ne s'arrête pas, il cesse d'exister.
 
-## 📏 VI. LIMITE
+## 📏 VIII. LIMITE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
@@ -244,7 +271,7 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-## 📜 VII. PROPRIÉTÉ ET LICENCE
+## 📜 IX. PROPRIÉTÉ ET LICENCE
 
 © 2026 **Damien NZEYIMANA**.
 
@@ -284,4 +311,4 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-*« Le Marbre propose une exploration de l'éthique sur les plans axiomatique et heuristique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »* 
+*« Le Marbre propose une exploration de l'éthique sur les plans axiomatique et heuristique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
