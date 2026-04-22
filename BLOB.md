@@ -100,36 +100,21 @@ Cette section définit les forces en présence. C'est une lecture du monde comme
   * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
   * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique ($\equiv$) à l'harmonie de l'anti-ontologie.
 
-* **2. Dualité du Mouvement ( Action) :**
-    Mise en mouvement du Monde sans notion de valeur ontologique, ce mouvement sera  sera pesée éthiquement ( Calcul)
-    * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
-    * **$\overline{A}$ (Anti-Acte) :** L'action contraire de l'action, quelle qu'elle soit, sans notion de valeur éthique à priori.
- 
 * **2. Dualité des États (Absolu / Continuum) :**
   Deux états antithétiques et exclusifs l'un de l'autre.
   * **Absolu :** État de Bonheur Absolu ou de Malheur Absolu.
-  * **Continuum ($\Omega$) :** Tout état autre qu'Absolu, espace dynamique de l'expérience.      
+  * **Continuum ($\Omega$) :** Tout état autre qu'Absolu.     
 
-* **3. Dualité ds Etats (Absolu / Continuum) :**
-    Défini 2 états antithétiques et exclusifs l'un de l'autre.
-    * **Absolu :** Bonheur Absolu ou Malheur Absolu.
-    * **Continuum :** .Tout état autre qu'Absolu.
-      
-* **3. Dualité du Mouvement (Action) :**
-  Mise en mouvement du Monde sans notion de valeur ontologique a priori (ce mouvement sera pesé éthiquement dans la section suivante).
-  * **$A$ (Action) :** Une action, quelle qu'elle soit.
-  * **$\overline{A}$ (Anti-Acte) :** L'action contraire, quelle qu'elle soit.
-  *     
+* **3. Dualité du Mouvement ( Action) :**
+    Mise en mouvement du Monde sans notion de valeur ontologique à priori ( ce mouvement sera pesée éthiquement dans la section suivante)
+    * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
+    * **$\overline{A}$ (Anti-Action) :** L'action contraire de l'action, quelle qu'elle soit, sans notion de valeur éthique à priori.
+        
 * **4. Dualité de Choix :**
     Défini 2 états antithétiques de choix et exclusifs l'un de l'autre.
-    * **Mouvement :** Toute Action ou son anti-Action.
-    * **Non Action :** .Absence d'action ( ou d'action contraire).
-    * 
-* **4. Dualité de Choix (La Décision) :**
-  Deux états antithétiques de choix et exclusifs l'un de l'autre.
-  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** Absence d'action (ou d'action contraire). 
- 
+    * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
+    * **Non-Action ($\emptyset$) :** Absence de mouvement (action et 'action contraire). 
+  
 ---
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
