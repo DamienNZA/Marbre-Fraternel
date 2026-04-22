@@ -93,10 +93,10 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
  ## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
 
-Cette section définit les forces en présence. C'est une lecture du monde comme un champ de vecteurs et d'états purs, indépendamment de toute valeur morale, afin de permettre la pesée éthique ultérieure.
+Cette section définit les Etats en présence et la gamme de Choix possible, afin de permettre la pesée éthique.
 
 * **1. Dualité de l'Absolu (États) :**
-  Deux Absolus exclusifs l'un de l'autre.
+  Deux Absolus exclusifs l'un de l'autre :  $B \equiv \overline{M}$.
   * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
   * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique ($\equiv$) à l'harmonie de l'anti-ontologie.
 
@@ -106,11 +106,11 @@ Cette section définit les forces en présence. C'est une lecture du monde comme
   * **Continuum ($\Omega$) : ]M,B[)** Tout état autre qu'Absolu Intervalle entre M et B ( M et B exclus).     
 
 * **3. Dualité du Mouvement ( Action) :**
-    Mise en mouvement du Monde sans notion de valeur ontologique à priori ( ce mouvement sera pesée éthiquement dans la section suivante)
+    Mise en mouvement  sans notion de valeur ontologique à priori ( ce mouvement sera pesée éthiquement dans la section suivante)
     * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
     * **$\overline{A}$ (Anti-Action) :** L'action contraire de l'action, quelle qu'elle soit, sans notion de valeur éthique à priori.
         
-* **4. Dualité de Choix :**
+* **4. Dualité de Choix ( Faire ou ne rien faire):**
     Défini 2 états antithétiques de choix et exclusifs l'un de l'autre.
     * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
     * **Non-Action ($\emptyset$) :** Absence de mouvement (action et action contraire). 
