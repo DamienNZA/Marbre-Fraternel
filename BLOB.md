@@ -73,7 +73,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
 
-* **Le Domaine OntologiqueⒹ  Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+* **Le Domaine Ontologique Ⓓ  Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 
 
 * **Le Domaine Ontologique Ⓓ Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
