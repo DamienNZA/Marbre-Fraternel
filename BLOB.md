@@ -140,7 +140,7 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
 
     * **Non-Acte(∅) :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
-    * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmationet opposition.
+    * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmation et opposition.
 
     * **Distinctions Logiques :**
 
