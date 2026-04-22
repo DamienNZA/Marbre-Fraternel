@@ -216,7 +216,21 @@ La connaissance n'est pas un état fini mais une expansion infinie. La sagesse r
 * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
 ---
+## 🧠 VI. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À $\mathbb{T}$
 
+La connaissance n'est pas un état fini, c'est une expansion infinie tendant vers $\mathbb{T}$. La sagesse réside dans l'acceptation de cette dynamique.
+
+* **Équation de la Connaissance :**
+  $$\Large K \approx \mathbb{T}$$
+  *La connaissance humaine ($K$) n'est jamais une identité absolue, mais une approximation ($\approx$) permanente du Réel Transcendant ($\mathbb{T}$).*
+
+* **La Loi de l'Escalade Épistémique :**
+  La quête est sans limite. Plus l'individu progresse dans le $DO$, plus il prend conscience de la distance entre sa perception et $\mathbb{T}$.
+    > « Plus je sais, plus je sais que je ne sais rien. »
+  Chaque avancée, telle l'escalade d'un grain de sable, réduit l'approximation et révèle l'immensité de $\mathbb{T}$. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, sur d'autres grains de sable, escaladent leurs propres sommets vers le même $\mathbb{T}$. Le croisement de nos regards transforme notre ascension solitaire en une exploration commune.
+
+* **La Vertu de l'Aveu :**
+  L'ignorance n'est pas une faute, c'est la reconnaissance consciente du différentiel entre notre $DO$ et $\mathbb{T}$. L'ignorant qui admet sa finitude ($DO \not\equiv \mathbb{T}$) et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
 
 ## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
