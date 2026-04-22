@@ -80,6 +80,9 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 4:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \mathsf{DH}} $
 
+
+5:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \text{DH}} $
+
 * **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC:  ⒹC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
 
