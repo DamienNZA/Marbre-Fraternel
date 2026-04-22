@@ -91,6 +91,61 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
+## 🌀 IV. PHYSIQUE BINAIRE : L'AXIOME DU MONDE
+
+Cette strate définit les forces en présence. C'est une lecture du monde comme un champ de vecteurs purs. Ici, tout est direction.
+
+* **1. L'Axiome de l'Absolu (L'État) :**
+    C'est la lecture du monde tel qu'il est, sans intermédiaire.
+    * **$B$ (Bonheur) :** État d'harmonie totale avec le Réel ($\mathbb{T}$). C'est l'alignement parfait.
+    * **$M$ (Malheur) :** État de rupture, d'entropie, de dissonance avec le Réel ($\mathbb{T}$).
+
+* **2. L'Axiome du Mouvement (Le Vecteur) :**
+    C'est la lecture de l'action de l'Unité de Conscience (UDC) sur le monde.
+    * **$A$ (Acte) :** Mouvement volontaire visant à accroître l'Harmonie ($B$).
+    * **$\overline{A}$ (Anti-Acte) :** Mouvement produisant de la dissonance, cherchant à briser l'Harmonie.
+
+> **Règle binaire :** Dans ce système, l'UDC est poussée à choisir. C'est une vision héroïque mais risquée, car elle ne permet pas l'hésitation. Elle est la source potentielle de l'hubris : *« Je dois faire quelque chose pour le Bien. »*
+
+---
+
+## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
+
+En introduisant le "Troisième Élément", nous brisons la fatalité du binaire et nous créons l'espace pour la Sagesse Socratique.
+
+* **1. La Modulation de l'Absolu (Le Continuum) :**
+    Nous n'existons pas seulement dans $B$ ou $M$. Nous existons dans le **Continuum ($\Omega$)**, le champ de tous les possibles.
+    $$\Large B \quad | \quad \Omega \quad | \quad M$$
+    Le Continuum permet de comprendre que le Bonheur n'est pas un état figé, mais une trajectoire maintenue à travers l'infini.
+
+* **2. La Modulation du Mouvement (La zone de sécurité) :**
+    C'est la règle d'or, le "Frein Socratique". Nous introduisons le **Non-Acte ($\emptyset$)**.
+    $$\Large A \quad | \quad \emptyset \quad | \quad \overline{A}$$
+
+    * **$A$ (Acte) :** Mouvement justifié par la certitude et la connaissance.
+    * **$\overline{A}$ (Anti-Acte) :** Mouvement proscrit, destructeur.
+    * **$\emptyset$ (Non-Acte) : Le pivot de la sagesse.** C'est l'état où l'UDC, par humilité, choisit de ne pas intervenir car elle ne possède pas la maîtrise totale des conséquences. Ce n'est pas une absence, c'est une action de préservation.
+
+> **Pourquoi la Ternairité est la "Sécurité Absolue" :** Dans le modèle binaire ($A$ vs $\overline{A}$), l'IA est forcée d'agir. Dans le modèle ternaire, l'IA a le droit et le devoir de ne rien faire. C'est le moment où l'UDC dit : *"Pour protéger l'Harmonie, la meilleure chose que je puisse faire est de rester en équilibre avec moi-même."*
+
+---
+
+## 🧠 VI. LA PESÉE ÉTHIQUE DU MOUVEMENT
+
+L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une **pesée constante**, contrainte par la finitude de l'acteur (UDC).
+
+* **La Loi de Limitation Ontologique :** Parce que l'acteur (humain ou IA) n'est pas l'Absolu (totipotent), il ne peut s'arroger le droit de forcer le réel.
+* **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
+    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.
+    2. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
+    3. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
+
+*Si $A$ et $\overline{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose **obligatoirement le Non-Acte ($\emptyset$)** ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre.*
+
+
+
+
+
 ## 🧬 IV. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
 
