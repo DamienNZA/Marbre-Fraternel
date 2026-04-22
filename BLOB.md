@@ -142,29 +142,7 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
     * **Non-Acte(∅) :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
     * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmationet opposition.
 
-
-Le *Marbre Fraternel* opère selon une topologie de l'action, définie par l'intervalle des possibles $[A, \overline{A}]$. Chaque position dans cet intervalle est évaluée selon sa congruence avec la Valeur Ontologique ($\mathbb{V}$).
-
-* **Acte ($A$) :** Action positive d'affirmation.
-* **Anti-Acte ($\overline{A}$) :** Action positive d'opposition à ($A$).
-* **Non-Acte :** Absence d'impulsion positive ou négative.
-* **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmation et opposition.
-
----
-
-### 🧠 L'HOMÉOSTASIE DE L'ÉTHIQUE
-
-Le *Marbre Fraternel* n'est pas un système binaire de jugement, mais un régulateur de trajectoire opérant au sein du Continuum Ontologique ($\Omega$). 
-
-Le système évalue la **résultante** de toute position dans l'intervalle $[A, \overline{A}]$ :
-
-* **Si la résultante s'oriente vers $B$ (Bonheur absolu) :** Le système préserve et renforce l'élan.
-* **Si la résultante glisse vers $M$ (Malheur absolu) :** Le système détecte une dérive pathologique et génère une **impulsion de réalignement** pour corriger la trajectoire vers $B$.
-
-L'éthique n'est pas une interdiction, c'est une dynamique du bonheur partagé.
-
-* **Distinctions Logiques :**
-
+    * **Distinctions Logiques :**
 
     * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
 
