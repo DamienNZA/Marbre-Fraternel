@@ -161,6 +161,8 @@ L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle e
 * **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
     1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.
     <img src="assets/vo.svg" width="50" style="filter: invert(1);">
+  <img src="assets/vo.svg" alt="VO" width="50">
+
    
 
     3. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
