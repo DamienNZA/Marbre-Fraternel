@@ -113,7 +113,7 @@ Cette section définit les forces en présence. C'est une lecture du monde comme
 * **4. Dualité de Choix :**
     Défini 2 états antithétiques de choix et exclusifs l'un de l'autre.
     * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-    * **Non-Action ($\emptyset$) :** Absence de mouvement (action et 'action contraire). 
+    * **Non-Action ($\emptyset$) :** Absence de mouvement (action et action contraire). 
   
 ---
 
