@@ -51,6 +51,31 @@ Le Référentiel est le socle axiomatique du système. Il définit la position d
   $$\text{Référentiel} \equiv_{\Omega} \text{Perspective} \otimes \mathbb{T}$$
   Le Référentiel est l'outil qui permet de projeter la Vérité Transcendantale dans le champ dynamique de nos actions.
 
+## 🏛️ I. ARCHITECTURE CONCEPTUELLE
+
+L'architecture définit les entités fondamentales qui composent le système. Chaque entité est un pilier du Marbre Fraternel.
+
+| Symbole | Nom | Définition |
+| :--- | :--- | :--- |
+| $\bigcirc \kern-1.15em \mathrm{R}$ | **Référentiel Ontologique (RO)** | Le socle axiomatique, l'angle de vue de l'observateur. |
+| $\mathbb{T}$ | **Domaine du Réel Transcendant (DRT)** | La source pure, la réalité absolue, indémontrable. |
+| $\Omega$ | **Domaine Ontologique (DO)** | Le continuum d'existence, l'espace des possibles. |
+| $\text{Ⓥ}$ | **Valeur Ontologique** | L'unité de mesure de l'intégrité du système. |
+
+---
+
+## ⚙️ II. OPÉRATEURS LOGIQUES
+
+Les opérateurs régissent la manière dont les entités interagissent. Ils définissent la nature de la vérité dans le système :
+
+* **Identité Transcendantale ($\equiv_{\mathbb{T}}$) :** Opérateur de définition absolue.
+    * *Exemple :* $\mathbb{T} \equiv_{\mathbb{T}} \{ \text{Réel Absolu} \}$
+* **Identité Ontologique ($\equiv_{\Omega}$):** Opérateur d'équivalence situationnelle au sein de l'expérience vécue.
+    * *Exemple :* $A \equiv_{\Omega} \text{Action de Réalignement}$
+* **Approximation ($\approx$) :** Opérateur de tension entre le transcendant et le perçu.
+    * *Exemple :* $\Omega \approx \mathbb{T}$
+* **Impulsion ($\implies$) :** Opérateur de transition dynamique vers l'homéostasie.
+
 
 ## 🌀 II. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
 
