@@ -68,7 +68,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 * **Égalité Transcendante ($\equiv$) :**
   L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
-  * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bien est l'identité de l'opposition au Mal).
+  * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bonheur absolu est l'identité de l'opposition au Malheur absolu et inversement).
 
 * **Opérateur de Conjonction ($><$) :**
   L'interaction et la combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
