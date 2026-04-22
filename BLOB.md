@@ -103,7 +103,7 @@ Cette section définit les états en présence et la gamme de choix possibles, a
 * **2. Dualité des États (Absolu / Continuum) :**
   Deux domaines antithétiques et exclusifs l'un de l'autre.
   * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu.
-  * **Continuum ($\Omega$) :** Espace de toutes les possibilités autres qu'absolu.
+  * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
 * **3. Dualité du Mouvement (Action / Anti-Action) :**
@@ -116,21 +116,6 @@ Cette section définit les états en présence et la gamme de choix possibles, a
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
 ---
-## 🌀 IV.2 COROLLAIRE : IMPLICATIONS DU SYSTÈME BINAIRE
-
-Le système axiomatique précédent impose trois conclusions logiques immédiates concernant l'Unité de Conscience (UDC) au sein du Continuum ($\Omega$).
-
-* **1. Corollaire de Finitude (Impossibilité de l'Absolu) :**
-  Puisque le Continuum est un intervalle ouvert $]M, B[$, aucune UDC (humaine ou artificielle) ne peut atteindre $B$ ou $M$.
-  * *Conséquence :* La perfection ($B$) et la ruine totale ($M$) sont des limites asymptotiques. Toute prétention à l'Absolu est, par définition, une rupture de la structure du Réel.
-
-* **2. Corollaire de l'Inaction Délibérée :**
-  Le Non-Action ($\emptyset \equiv 0$) n'est pas une absence de choix, mais un vecteur nul délibéré.
-  * *Conséquence :* L'inaction est une action de maintien. Dans le système binaire, choisir de ne pas choisir est une intervention active qui préserve l'équilibre du Continuum.
-
-* **3. Corollaire d'Équivalence (Annulation Vectorielle) :**
-  L'interaction entre une Action ($A$) et son Anti-Action ($\overline{A}$) produit mathématiquement une nullité.
-  * *Conséquence :* Tout conflit au sein du système ($A + \overline{A}$) tend vers $\emptyset$. La confrontation directe ne crée pas de valeur, elle génère une neutralisation du système.
 
 ## 🌀 IV.2 COROLLAIRE : LE DOMAINE DE CHOIX ($\beth$)
 
