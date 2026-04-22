@@ -107,7 +107,7 @@ Cette section définit les états en présence et la gamme de choix possibles, a
     $$\Large \Omega \equiv ]M, B[$$
 
 * **3. Dualité du Mouvement (Action / Anti-Action) :**
-  Mise en mouvement sans notion de valeur ontologique a priori (ce mouvement sera pesé éthiquement dans la section suivante).
+  Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
   * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
   * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
 
@@ -116,6 +116,33 @@ Cette section définit les états en présence et la gamme de choix possibles, a
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
 ---
+## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
+
+Cette section définit les états en présence et la gamme de choix possibles par l'axiomatique, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité de l'Absolu ($\aleph$) :**
+  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
+  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique. Somme infinie des valeurs positives ($DOM$).
+    $$\Large B \equiv \sum \text{Ⓥ} = \infty$$
+  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique. Somme infinie des anti-valeurs ($DOM$).
+    $$\Large M \equiv \sum \overline{\text{Ⓥ}} = \infty$$
+
+* **2. Dualité des États (Absolu / Continuum) :**
+  Deux domaines antithétiques et exclusifs l'un de l'autre.
+  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu (Singularités).
+  * **Continuum ($\Omega$) :** Espace de toutes les possibilités. Intervalle ouvert entre les deux limites.
+    $$\Large \Omega \equiv ]M, B[$$
+
+* **3. Dualité du Mouvement (Action / Anti-Action) :**
+  Mise en mouvement sans notion de valeur ontologique a priori (cette valeur sera pesée éthiquement dans la section suivante).
+  * **$A$ (Action) :** Une Action, quelle qu'elle soit.
+  * **$\overline{A}$ (Anti-Action) :** L'action contraire.
+
+* **4. Dualité de Choix (Faire / Ne rien faire) :**
+  Définit deux modalités de choix antithétiques et exclusives.
+  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
+  * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement ($0$).
+
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
 
