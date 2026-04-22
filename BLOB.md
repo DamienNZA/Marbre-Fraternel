@@ -51,38 +51,19 @@ L'architecture définit les entités fondamentales qui composent le système.
 
 ## ⚙️ II. OPÉRATEURS LOGIQUES
 
-Les opérateurs régissent la manière dont les entités interagissent. Ils définissent la nature de la vérité dans le système :
-
-* **Identité Transcendantale ($\equiv_{\mathbb{T}}$) :** Opérateur de définition absolue.
-    * *Exemple :* $\mathbb{T} \equiv_{\mathbb{T}} \{ \text{Réel Absolu} \}$
-* **Identité Ontologique ($\equiv_{\Omega}$):** Opérateur d'équivalence situationnelle au sein de l'expérience vécue.
-    * *Exemple :* $A \equiv_{\Omega} \text{Action de Réalignement}$
-* **Approximation ($\approx$) :** Opérateur de tension entre le transcendant et le perçu.
-    * *Exemple :* $\Omega \approx \mathbb{T}$
-* **Impulsion ($\implies$) :** Opérateur de transition dynamique vers l'homéostasie.
-
-## 🏛️ I. ARCHITECTURE CONCEPTUELLE
-
-L'architecture définit les entités fondamentales qui composent le système.
-
-| Symbole | Nom | Définition |
-| :--- | :--- | :--- |
-| $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel absolu, dont notre perception n'est qu'une approximation. |
-| DO | **Domaine Ontologique** | L'espace de déploiement de l'existence et des êtres. |
-| Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO. |
-
----
-
-## ⚙️ II. OPÉRATEURS LOGIQUES
-
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
-* **Le Triple Égal ($\equiv$) :** Opérateur d'identité. Il lie une entité à une nature ou une valeur définie.
-    * **$\equiv_{\mathbb{T}}$ (Identité Transcendantale) :** Identité absolue, immuable (ex: $\mathbb{T} \equiv_{\mathbb{T}} \text{Réel Absolu}$).
-    * **$\equiv_{\Omega}$ (Identité Ontologique) :** Équivalence de structure ou de fonction au sein du DO (ex: $E_1 \equiv_{\Omega} E_2$).
+* **Égalité Transcendante ($\equiv$) :**
+  L'identité absolue. Elle lie une entité à sa nature profonde et immuable. 
+  * *Usage :* $\mathbb{T} \equiv \text{Réel Absolu}$
 
-* **L'Opérateur de Conjonction ($><$) :** Opérateur d'interaction et de combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
-    * *Usage :* Utilisé pour structurer les équations complexes (ex: la formule C.L.E.F).
+* **Opérateur de Conjonction ($><$) :**
+  L'interaction et la combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
+  * *Usage :* Utilisé pour structurer les équations complexes (ex: la formule C.L.E.F).
+
+
+
+
 
 
 ## 🌀 III. LE DOMAINE DE DÉFINITION ONTOLOGIQUE (DO)
