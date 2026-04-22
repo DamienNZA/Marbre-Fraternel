@@ -132,7 +132,21 @@ Le système axiomatique précédent impose trois conclusions logiques immédiate
   L'interaction entre une Action ($A$) et son Anti-Action ($\overline{A}$) produit mathématiquement une nullité.
   * *Conséquence :* Tout conflit au sein du système ($A + \overline{A}$) tend vers $\emptyset$. La confrontation directe ne crée pas de valeur, elle génère une neutralisation du système.
 
+## 🌀 IV.2 COROLLAIRE : LA PLAGE DE CHOIX
 
+La totalité des possibles pour l'Unité de Conscience (UDC) au sein du Continuum ($\Omega$) est définie par la somme vectorielle et logique des interventions disponibles.
+
+* **Définition de la Plage de Choix ($\mathbb{C}$) :**
+  La plage de choix représente l'ensemble des degrés de liberté de l'UDC. Elle est définie comme la somme de l'Action, de l'Anti-Action et de la Non-Action.
+  $$\Large \mathbb{C} \equiv \sum \{A, \overline{A}, \emptyset\}$$
+
+* **Implication Ontologique :**
+  L'UDC n'existe que par sa capacité à moduler son positionnement au sein de $\mathbb{C}$ :
+  * **État de neutralité :** Lorsque le système converge vers $\emptyset$.
+  * **État d'intervention :** Lorsque le système bascule vers $A$ ou $\overline{A}$.
+
+* **Loi de conservation du choix :**
+  Dans le Continuum, le passage d'un état à un autre au sein de $\mathbb{C}$ est le seul moteur de l'évolution de l'UDC. Le choix n'est pas une simple décision, c'est un basculement vectoriel d'un état vers un autre au sein de la somme $\mathbb{C}$.
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
 
