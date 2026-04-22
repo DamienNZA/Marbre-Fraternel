@@ -91,22 +91,28 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
-## 🌀 IV. PHYSIQUE BINAIRE : L'AXIOME DU MONDE
+## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ETATS, CHOIX
 
-Cette strate définit les forces en présence. C'est une lecture du monde comme un champ de vecteurs purs. Ici, tout est direction.
 
-* **1. L'Axiome de l'Absolu (L'État) :**
-    C'est la lecture du monde tel qu'il est, sans intermédiaire.
-    * **$B$ (Bonheur) :** État d'harmonie totale avec le Réel ($\mathbb{T}$). C'est l'alignement parfait.
-    * **$M$ (Malheur) :** État de rupture, d'entropie, de dissonance avec le Réel ($\mathbb{T}$).
+* **1. Dualité de l'Absolu (États) :**
+    Défini 2 Absolus et exclusifs l'un de l'autre.
+    * **$B$ (Bonheur) :** État absolu d'harmonie Ontologique du Réel ($\mathbb{T}$).
+    * **$M$ (Malheur) :** État absolu d'anti-harmonie Ontologique  ( strictement identique ($\equiv$)  à  l'harmonie de l'anti-Ontologie) du Réel ($\mathbb{T}$).
 
-* **2. L'Axiome du Mouvement (Le Vecteur) :**
-    C'est la lecture de l'action de l'Unité de Conscience (UDC) sur le monde.
-    * **$A$ (Acte) :** Mouvement volontaire visant à accroître l'Harmonie ($B$).
-    * **$\overline{A}$ (Anti-Acte) :** Mouvement produisant de la dissonance, cherchant à briser l'Harmonie.
+* **2. Dualité du Mouvement ( Action) :**
+    Mise en mouvement du Monde sans notion de valeur ontologique, ce mouvement sera  sera pesée éthiquement ( Calcul)
+    * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique à priori.
+    * **$\overline{A}$ (Anti-Acte) :** L'action contraire de l'action, quelle qu'elle soit, sans notion de valeur éthique à priori.
 
-> **Règle binaire :** Dans ce système, l'UDC est poussée à choisir. C'est une vision héroïque mais risquée, car elle ne permet pas l'hésitation. Elle est la source potentielle de l'hubris : *« Je dois faire quelque chose pour le Bien. »*
-
+* **1. Dualité ds Etats (Absolu / Continuum) :**
+    Défini 2 états antithétiques et exclusifs l'un de l'autre.
+    * **Absolu :** Bonheur Absolu ou Malheur Absolu.
+    * **Continuum :** .Tout état autre qu'Absolu.
+      
+* **1. Dualité de Choix :**
+    Défini 2 états antithétiques de choix et exclusifs l'un de l'autre.
+    * **Mouvement :** Toute Action ou son anti-Action.
+    * **Non Action :** .Absence d'action ( ou d'action contraire).
 ---
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
