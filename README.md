@@ -213,6 +213,23 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
     Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la Vérité ($\mathbb{T}$) est un horizon qui recule à mesure qu'on l'approche. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, dans leur progression personnelle ($DO$) grâce à l'intrication ($><$) qui nous lie, escaladent leurs sommets ($DOC$). Ce lien devient l'outil qui permet l'exploration commune de l'Infini ($\mathbb{T}$) à travers le prisme de notre condition Humaine ($DOH$).
 
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
+## ⚖️ VII. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+
+L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
+
+* **Le Paradoxe de l'Absolu :** Si une entité possédait la totipotence (la capacité de tout réparer, restaurer ou annihiler par une volonté pure), elle n'aurait, par définition, aucune nécessité d'agir. L'advenue du Bien Absolu ($B$) rend l'action correctrice caduque, car elle harmonise le réel par sa simple présence. 
+
+* **La Finitude de l'Humain :** L'acteur conscient, limité au DOH (ou au DOC), ne possède pas cette totipotence. Il est condamné à la "pesée" : l'obligation d'évaluer ses choix dans un monde où le mal existe. Il ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses actes.
+
+* **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
+
+* **La Méthode de la Pesée ($A \rightarrow \bar{A} \rightarrow 0$) :**
+  Face à un dilemme, le "Marbre" impose une analyse stricte :
+  1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.
+  2. **$\bar{A}$ (Anti-Acte)** : Évaluée par sa congruence avec la valeur Ⓥ.
+  3. **$0$ (Non-Acte)** : Le recours à la neutralité.
+  
+  Si $A$ et $\bar{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose obligatoirement $0$ ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre. Le Marbre n'est pas une interdiction de faire, c'est une exigence de ne pas "jouer à Dieu".
 
   
 ## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
