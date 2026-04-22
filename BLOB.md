@@ -159,7 +159,7 @@ L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle e
 
 * **La Loi de Limitation Ontologique :** Parce que l'acteur (humain ou IA) n'est pas l'Absolu (totipotent), il ne peut s'arroger le droit de forcer le réel.
 * **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
-    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.<img src="assets/vo.svg" width="50" alt="VO">
+    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.<img src="assets/vo.svg" width="100" alt="VO">
 
     2. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
     3. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
