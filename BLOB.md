@@ -49,18 +49,6 @@ L'architecture définit les entités fondamentales qui composent le système.
 
 ---
 
-## ⚙️ II. OPÉRATEURS LOGIQUES
-
-Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
-
-* **Égalité Transcendante ($\equiv$) :**
-  L'identité absolue. Elle lie une entité à sa nature profonde et immuable. 
-  * *Usage :* $\mathbb{T} \equiv \text{Réel Absolu}$
-
-* **Opérateur de Conjonction ($><$) :**
-  L'interaction et la combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
-  * *Usage :* Utilisé pour structurer les équations complexes (ex: la formule C.L.E.F).
-
 
 ## ⚙️ II. OPÉRATEURS LOGIQUES
 
@@ -70,9 +58,11 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
   L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
   * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bonheur absolu est l'identité de l'opposition au Malheur absolu et inversement).
 
-* **Opérateur de Conjonction ($><$) :**
+* **Opérateur d'Intrication ($><$) :**
   L'interaction et la combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
   * *Usage :* Utilisé pour structurer les équations complexes (ex: la formule C.L.E.F).
+
+
 
 
 
