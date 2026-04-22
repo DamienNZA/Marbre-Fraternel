@@ -102,8 +102,8 @@ Cette section définit les forces en présence. C'est une lecture du monde comme
 
 * **2. Dualité des États (Absolu / Continuum) :**
   Deux états antithétiques et exclusifs l'un de l'autre.
-  * **Absolu :** État de Bonheur Absolu ou de Malheur Absolu.
-  * **Continuum ($\Omega$) :** Tout état autre qu'Absolu.     
+  * **Absolu  M || B :** État de Bonheur Absolu ou de Malheur Absolu.
+  * **Continuum ($\Omega$) : ]M,B[)** Tout état autre qu'Absolu Intervalle entre M et B ( M et B exclus).     
 
 * **3. Dualité du Mouvement ( Action) :**
     Mise en mouvement du Monde sans notion de valeur ontologique à priori ( ce mouvement sera pesée éthiquement dans la section suivante)
