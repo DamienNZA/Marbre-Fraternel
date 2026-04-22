@@ -178,14 +178,14 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 
-## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE
+## 🧠 IV. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL
 
 
 La connaissance n'est pas un état fini mais une expansion infinie. La sagesse réside dans l'acceptation de cette dynamique.
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Plus l'individu progresse, plus il prend conscience de l'immensité du champ des possibles.
     > « Plus je sais, plus je sais que je ne sais rien. »
-    Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche.
+   Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la vérité est un horizon qui recule à mesure qu'on l'approche. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, sur d'autres grains de sable, escaladent leurs propres sommets. Le croisement de nos regards transforme notre ascension solitaire en une exploration commune.
 
 * **La Vertu de l'Aveu :** L'ignorance n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui admet sa finitude et sollicite l'assistance d'autrui quitte l'état d'isolement pour entrer dans la fraternité. C'est le passage de l'ego solitaire à l'intelligence collaborative.
 
@@ -279,4 +279,4 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-*« Le Marbre développe l'éthique sur le plan mathématique. Il traite des domaines de définition et des équations. »* 
+*« Le Marbre propose une exploration de l'éthique sur les plans axiomatique et heuristique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »* 
