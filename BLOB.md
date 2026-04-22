@@ -62,6 +62,18 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
   L'interaction et la combinaison. Il définit le lien actif entre plusieurs principes pour former un ensemble cohérent.
   * *Usage :* Utilisé pour structurer les équations complexes (ex: la formule C.L.E.F).
 
+## ⚙️ II. OPÉRATEURS LOGIQUES
+
+Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
+
+* **Égalité Transcendante ($\equiv$) :**
+  L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
+  * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bonheur absolu est l'identité de l'opposition au Malheur absolu et inversement).
+
+* **Opérateur d'Intrication ($><$) :**
+  Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
+  * *Usage :* Structure les équations d'existence.
+
 
 
 
