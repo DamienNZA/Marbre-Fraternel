@@ -95,8 +95,8 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 
 Cette section définit les Etats en présence et la gamme de Choix possible, afin de permettre la Pesée éthique.
 
-* **1. Dualité de l'Absolu (États) :**
-  Deux Absolus exclusifs l'un de l'autre :  $B \equiv \overline{M}$.
+* **1. Dualité de l'Absolu ($\aleph$  $\equiv$    $B \equiv \overline{M}$. ) (États) :**
+  Deux Absolus exclusifs l'un de l'autre :   $B \equiv \overline{M}$.
   * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
   * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique ($\equiv$) à l'harmonie de l'anti-ontologie.
 
