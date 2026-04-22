@@ -87,7 +87,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 6:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \tiny{DH}} $
 
 
-7:  $\Large \bigcirc \kern-1.05em {\scriptstyle \tiny{DH}} $
+7:  $\Large \bigcirc \kern-1.10em {\scriptstyle \tiny{DH}} $
 
 8:  $\huge \bigcirc \kern-1.05em {\scriptstyle \tiny{DH}} $
 
