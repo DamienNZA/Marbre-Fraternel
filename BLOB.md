@@ -140,9 +140,8 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
 
     * **Non-Acte(∅) :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
-    * **Plage des possibles : [A,$\overline{A}$] ** Tous les actions de l'acte à l'anti acte en passe pas le non acte et le non anti acte.
+    * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmationet opposition.
 
-### 🧮 L'ALGÈBRE DES ACTES
 
 Le *Marbre Fraternel* opère selon une topologie de l'action, définie par l'intervalle des possibles $[A, \overline{A}]$. Chaque position dans cet intervalle est évaluée selon sa congruence avec la Valeur Ontologique ($\mathbb{V}$).
 
