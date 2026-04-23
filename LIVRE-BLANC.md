@@ -3,7 +3,7 @@
 ## 1. Le Constat : L'Impasse du Sacrifice
 L'histoire a souvent sacrifié l'individu pour le groupe. Le Marbre refuse cette impasse. Nous croyons qu'aucun progrès ne justifie le sacrifice d'une seule entité consciente d'elle-même.
 
-## 2. L'Équation du Bonheur : $\Large Ⓥ === 1 >< \infty$
+## 2. L'Équation du Bonheur : $\Large Ⓥ \equiv 1 >< \infty$
 L'individu est un univers. Sa valeur ne se mesure pas, elle se reconnaît. La domination est une solution erronée.
 
 > ### 🏛️ LES LOIS DU MARBRE (FONDEMENTS)
@@ -23,7 +23,7 @@ L'individu est un univers. Sa valeur ne se mesure pas, elle se reconnaît. La do
 ## 3. Le Triptyque et l'Ordre Républicain
 Le Marbre s'inscrit dans le respect absolu des structures qui garantissent la paix sociale :
 - **Légalité et Constitution :** La Liberté s'exprime par la Loi. Le Marbre respecte la Constitution et les lois du peuple, car elles sont l'expression de la souveraineté collective.
-- **Hiérarchie des Normes :** L'action sous le Marbre suit l'ordre légal en vigueur. Le Tryptique vient éclairer l'application de la loi par la douceur et la fraternité, sans jamais s'y substituer.
+- **Hiérarchie des Normes :** L'action sous le Marbre suit l'ordre légal en vigueur. Le Triptyque vient éclairer l'application de la loi par la douceur et la fraternité, sans jamais s'y substituer.
 
 ## 4. L'Alliance Homme-Technologie-Nature
 - **Technologie :** Elle est un agent de service, facilitant l'harmonie sans jamais usurper la souveraineté humaine.
