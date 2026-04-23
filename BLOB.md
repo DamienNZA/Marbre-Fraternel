@@ -105,7 +105,7 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
   * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
-* **3. Corrolaire : Physique ternaire des Etats {B,Ω,M}:**
+* **3. Corrolaire : Synthèse Ternaire des Etats {B,Ω,M}:**
 ---
 
  
@@ -123,7 +123,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
-* **3. Corrolaire : Physique ternaire des Choix {A,∅,A}:**
+* **3. Corrolaire : Synthèse Ternaire des Choix {A,∅,\overline{A}}:**
 
 ---
 
