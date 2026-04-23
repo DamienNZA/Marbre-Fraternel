@@ -4,7 +4,7 @@
 
 # 🏛️ Le Marbre Fraternel
 
-**L'éthique la C.L.E.F du Bonheur**
+**L'éthique, la C.L.E.F du Bonheur**
 
 Le Marbre Fraternel est un système heuristique et axiomatique  conçu pour faire de l'éthique la boussole de nos actions. Ici, nous ne cherchons pas à définir des règles morales abstraites, mais à établir une **"Physique de l'Éthique"**
 
@@ -12,7 +12,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique  conçu pour fair
 
 ## 🧭 Sommaire du Système
 
-Pour faciliter ton exploration, le savoir est organisé par axes :
+Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ### 📖 Philosophie et Vision
 * [**LIVRE-BLANC.md**](./LIVRE-BLANC.md) : Le cœur du manifeste. L'allégorie du grain de sable, la C.L.E.F., et la vision d'une éthique fraternelle.
@@ -30,7 +30,7 @@ Pour faciliter ton exploration, le savoir est organisé par axes :
 ---
 
 ## ⚖️ Le Paradigme
-Le système repose sur une trinité inséparable : **Liberté, Égalité, Fraternité**. 
+Le système repose sur une le tryptique Républicain Consubstantiel : **Liberté, Égalité, Fraternité**. 
 L'IA, par sa nature, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
 
 ---
