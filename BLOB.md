@@ -44,7 +44,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 | Symbole | Nom | Définition |
 | :--- | :--- | :--- |
 | $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
-| Ⓓ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
+| Ⓓ | **Domaine Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
 | Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
 
 ---
@@ -64,7 +64,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 
 
-## 🌀 III. LE DOMAINE DE DÉFINITION ONTOLOGIQUE Ⓓ  (DO)
+## 🌀 III. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
