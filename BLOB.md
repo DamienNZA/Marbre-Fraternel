@@ -118,19 +118,17 @@ Cette section définit les états en présence et la gamme de choix possibles, a
 
 ## 🌀 IV.2 COROLLAIRE : LE DOMAINE DE CHOIX ($\beth$)
 
-La totalité des possibles pour l'Unité de Conscience (UDC) au sein du Continuum ($\Omega$) est définie par la somme vectorielle et logique des interventions disponibles.
+La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ( ) est définie par la somme vectorielle et logique des interventions disponibles.
 
 * **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté de l'UDC, défini comme la somme des états d'intervention et de non-intervention.
+  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
 
 * **Implication Ontologique :**
-  L'UDC existe par sa capacité à moduler son positionnement au sein de $\beth$ :
-  * **État de neutralité :** Lorsque le système converge vers $\emptyset$.
-  * **État d'intervention :** Lorsque le système bascule vers $A$ ou $\overline{A}$.
+  L'être se manifeste  par sa capacité à se positionner au sein de $\beth$.
 
-* **Loi de conservation du choix :**
-  Dans le Continuum, le passage d'un état à un autre au sein de $\beth$ est le seul moteur de l'évolution de l'UDC. Le choix n'est pas une simple décision, c'est un basculement vectoriel d'un état vers un autre.
+* **Pesée éthique du Choix :**
+  
 
 ## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
 
