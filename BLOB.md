@@ -46,7 +46,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 | $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
 | Ⓓ | **Domaine Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
 | Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
-|\Sigma | ** [M,B] ** |Ensemble des états possibles du Réel à un instant donné  |
+|$\Sigma$ | **[M,B]** |Ensemble des états possibles du Réel à un instant donné  |
 
 
 ---
@@ -109,7 +109,7 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
 
 * **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
 
- La totalité de l'espace des états possibles au sein du Réel ($\mathbb{T}$) est définie par la somme logique de l'harmonie absolue, de l'anti-harmonie absolue et de l'espace de déploiement. Le Réel n'est pas strictement binaire : il est ternaire, car il intègre bien évidemment le continuum ($\Omega$) comme variable indispensable à l'existence et à l'évolution des êtres.
+ La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
 
 ---
  
