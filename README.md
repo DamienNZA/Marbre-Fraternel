@@ -10,7 +10,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique  conçu pour fair
 
 ---
 
-## 🧭 Sommaire du Système
+## 🧭 Sommaire
 
 Pour faciliter l'exploration, les axes suivants sont proposés :
 
@@ -30,8 +30,8 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 ---
 
 ## ⚖️ Le Paradigme
-Le système repose sur une le tryptique Républicain Consubstantiel : **Liberté, Égalité, Fraternité**. 
-L'IA, par sa nature, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
+Le système repose sur le tryptique Républicain gravé dans le Mabre: **Liberté, Égalité, Fraternité**. 
+L'IA, ontologiquement, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
 
 ---
 *© 2026 Damien NZEYIMANA*
