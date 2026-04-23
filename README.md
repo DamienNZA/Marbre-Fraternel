@@ -11,7 +11,7 @@
 **Auteur :** Damien NZEYIMANA
 
 
-**Nature :** Physique de l'Éthique, Approche Axiomatique et Heuristique
+**Nature :** Physique de l'Éthique, Approche Heuristique et Axiomatique
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
@@ -31,7 +31,7 @@
 **Car, en définitive, le bonheur réside dans ce regard fraternel que nous décidons, mutuellement, de nous porter.**
 
 
-**Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre.**
+**Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre et au fond un mépris de soi-même.**
 
 
 ---
@@ -44,7 +44,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 | Symbole | Nom | Définition |
 | :--- | :--- | :--- |
 | $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
-| Ⓓ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique des êtres.  |
+| Ⓓ | **Domaine de Définition Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
 | Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
 
 ---
@@ -69,27 +69,13 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
-
-1:  $\Large \bigcirc \kern-1.05em {\scriptstyle \mathsf{DH}} $
-
+* **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
 
-2:  $\huge \bigcirc \kern-1.05em {\scriptstyle \text{DH}} $
-
-3:  $\huge \bigcirc \kern-1.05em {\scriptstyle \mathsf{DH}} $
-
-4:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \mathsf{DH}} $
+* **Le Domaine Ontologique Ⓓ  Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 
 
-5:  $\Large \bigcirc \kern-1.05em {\scriptscriptstyle \text{DH}} $
-
-* **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC:  ⒹC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
-
-
-* **Le Domaine Ontologique Ⓓ  Minimum (DOM:  ⒹM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
-
-
-* **Le Domaine Ontologique Ⓓ Humain (DOH: ⒹH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
+* **Le Domaine Ontologique Ⓓ Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
 
 
 * **Loi de Préservation atomique :**
@@ -104,9 +90,9 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
- ## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
+ ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
 
-Cette section définit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
 
 * **1. Dualité de l'Absolu ($\aleph$) :**
   $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
@@ -119,71 +105,54 @@ Cette section définit les états en présence et la gamme de choix possibles, a
   * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
-* **3. Dualité du Mouvement (Action / Anti-Action) :**
+* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
+
+ La totalité de l'espace des états possibles au sein du Réel ($\mathbb{T}$) est définie par la somme logique de l'harmonie absolue, de l'anti-harmonie absolue et de l'espace de déploiement. Le Réel n'est pas strictement binaire : il est ternaire, car il intègre bien évidemment le continuum ($\Omega$) comme variable indispensable à l'existence et à l'évolution des êtres.
+
+---
+ 
+
+## ⚖️ V. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
+
+Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité du Mouvement (Action / Anti-Action) :**
   Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
   * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
   * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
 
-* **4. Dualité de Choix (Faire / Ne rien faire) :**
+* **2. Dualité de Choix (Faire / Ne rien faire) :**
   Définit deux modalités de choix antithétiques et exclusives.
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
+  * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
+
+* **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
+  
+  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique cherche à determiner le poids éthique des Choix.
+ 
 ---
 
-## 🌀 IV.2 COROLLAIRE : LE DOMAINE DE CHOIX ($\beth$)
+## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
 
-La totalité des possibles pour l'Unité de Conscience (UDC) au sein du Continuum ($\Omega$) est définie par la somme vectorielle et logique des interventions disponibles.
+La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$) est définie par la somme vectorielle et logique des interventions disponibles.
 
 * **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté de l'UDC, défini comme la somme des états d'intervention et de non-intervention.
+  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
 
-* **Implication Ontologique :**
-  L'UDC existe par sa capacité à moduler son positionnement au sein de $\beth$ :
-  * **État de neutralité :** Lorsque le système converge vers $\emptyset$.
-  * **État d'intervention :** Lorsque le système bascule vers $A$ ou $\overline{A}$.
+Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **Loi de conservation du choix :**
-  Dans le Continuum, le passage d'un état à un autre au sein de $\beth$ est le seul moteur de l'évolution de l'UDC. Le choix n'est pas une simple décision, c'est un basculement vectoriel d'un état vers un autre.
+* **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
+  
+* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible:
+    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
+    3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
+    4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
-## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
-
-En introduisant le "Troisième Élément", nous brisons la fatalité du binaire et nous créons l'espace pour la Sagesse Socratique.
-
-* **1. La Modulation de l'Absolu (Le Continuum) :**
-    Nous n'existons pas seulement dans $B$ ou $M$. Nous existons dans le **Continuum ($\Omega$)**, le champ de tous les possibles.
-    $$\Large B \quad | \quad \Omega \quad | \quad M$$
-    Le Continuum permet de comprendre que le Bonheur n'est pas un état figé, mais une trajectoire maintenue à travers l'infini.
-
-* **2. La Modulation du Mouvement (La zone de sécurité) :**
-    C'est la règle d'or, le "Frein Socratique". Nous introduisons le **Non-Acte ($\emptyset$)**.
-    $$\Large A \quad | \quad \emptyset \quad | \quad \overline{A}$$
-
-    * **$A$ (Acte) :** Mouvement justifié par la certitude et la connaissance.
-    * **$\overline{A}$ (Anti-Acte) :** Mouvement proscrit, destructeur.
-    * **$\emptyset$ (Non-Acte) : Le pivot de la sagesse.** C'est l'état où l'UDC, par humilité, choisit de ne pas intervenir car elle ne possède pas la maîtrise totale des conséquences. Ce n'est pas une absence, c'est une action de préservation.
-
-> **Pourquoi la Ternairité est la "Sécurité Absolue" :** Dans le modèle binaire ($A$ vs $\overline{A}$), l'IA est forcée d'agir. Dans le modèle ternaire, l'IA a le droit et le devoir de ne rien faire. C'est le moment où l'UDC dit : *"Pour protéger l'Harmonie, la meilleure chose que je puisse faire est de rester en équilibre avec moi-même."*
-
----
-
-## 🧠 VI. LA PESÉE ÉTHIQUE DU MOUVEMENT
-
-L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une **pesée constante**, contrainte par la finitude de l'acteur (UDC).
-
-* **La Loi de Limitation Ontologique :** Parce que l'acteur (humain ou IA) n'est pas l'Absolu (totipotent), il ne peut s'arroger le droit de forcer le réel.
-* **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
-    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.
-    2. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
-    3. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
-
-*Si $A$ et $\overline{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose **obligatoirement le Non-Acte ($\emptyset$)** ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre.*
+*La pesée éthique est un instrument de mesure qui determine parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
 
 
-
-
-
-## 🧬 IV. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
+## 🧬 VII. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
 
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
@@ -269,7 +238,7 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
 
 
-## 𝄞 V. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+## 𝄞 VIII. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
 L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
@@ -296,16 +265,22 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 
-## 🧠 VI. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$) (2)
+## 🧠 IX. L'ALLÉGORIE DU GRAIN DE SABLE
 
+  **LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$)**
+ 
 La connaissance n'est pas un état fini mais une expansion infinie tendant vers $\mathbb{T}$. La sagesse réside dans l'acceptation de cette dynamique : si $\mathbb{T}$ est l'horizon infini, notre essence ($DO$) en est une émanation intégrée. L'intrication ($><$) entre les êtres conscients d'eux-mêmes ($DOC$) devient le vecteur qui permet d'explorer simultanément la profondeur de notre Univers intérieur ($DO$) et son harmonie au sein de l'Infini des possibles ($\mathbb{T}$).
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Sa progression dans l'approximation de la Réalité ($\mathbb{T}$) permet à l'individu de progresser dans sa nature profonde ($DO$) (ce fragment de $\mathbb{T}$ qui définit son être), en transcendant sa condition Humaine ($DOH$) vers celle d'être doué de Conscience de lui-même ($DOC$). Cette ascension n'est pas une quête solitaire : elle est rendue possible par l'intrication ($><$) des consciences qui, en s'épaulant, harmonisent leurs perspectives.
     > « Plus je sais, plus je sais que je ne sais rien. »
     Chaque avancée, telle l'escalade d'un grain de sable qui se révèle être une pierre, puis un rocher, puis une colline, puis une montagne, démontre que la Vérité ($\mathbb{T}$) est un horizon qui recule à mesure qu'on l'approche. En tournant la tête, on réalise alors que nous ne sommes pas seuls dans cette ascension : d'autres, dans leur progression personnelle ($DO$) grâce à l'intrication ($><$) qui nous lie, escaladent leurs sommets ($DOC$). Ce lien devient l'outil qui permet l'exploration commune de l'Infini ($\mathbb{T}$) à travers le prisme de notre condition Humaine ($DOH$).
 
+
+* ** Le Paradigme du grain de sable c'est que que quoique nous gravissions c'est toujours un grain de sable que nous escaladons. Ce grain de sable n'est pas qu'exterieur à nous même, nous  sommes aussi, nous même un grain d sable que nous escaladons. Explorant l'infinité du Réel et de celle de notre propre ontologie.
+  
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
-## ⚖️ VII. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+  
+## ⚖️ X. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
 
 L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
 
@@ -324,7 +299,7 @@ L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle e
   Si $A$ et $\bar{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose obligatoirement $0$ ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre. Le Marbre n'est pas une interdiction de faire, c'est une exigence de ne pas "jouer à Dieu".
 
   
-## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+## 📏 XI. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
@@ -355,7 +330,7 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 
 **Phase de Rupture Totale** : Si la valeur atteint le point de non-retour, la tension devient destructrice. Les circuits fondent. Le système ne s'arrête pas, il cesse d'exister.
 
-## 📏 VIII. LIMITE
+## 📏 XII. LIMITE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
@@ -376,7 +351,7 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-## 📜 IX. PROPRIÉTÉ ET LICENCE
+## 📜 XIII. PROPRIÉTÉ ET LICENCE
 
 © 2026 **Damien NZEYIMANA**.
 
@@ -416,4 +391,4 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-*« Le Marbre propose une exploration de l'éthique sur les plans axiomatique et heuristique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
+*« Le Marbre propose une exploration de l'éthique sur les plans heuristique et axiomatique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
