@@ -11,7 +11,7 @@
 **Auteur :** Damien NZEYIMANA
 
 
-**Nature :** Physique de l'Éthique, Approche Axiomatique et Heuristique
+**Nature :** Physique de l'Éthique, Approche Heuristique et Axiomatique
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
@@ -405,4 +405,4 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-*« Le Marbre propose une exploration de l'éthique sur les plans axiomatique et heuristique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
+*« Le Marbre propose une exploration de l'éthique sur les plans heuristique et axiomatique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
