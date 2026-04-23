@@ -285,8 +285,9 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 
-## 🧠 VI. LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$) (2)
+## 🧠 VI. L'ALLÉGORIE DU GRAIN DE SABLE
 
+  > LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$) 
 La connaissance n'est pas un état fini mais une expansion infinie tendant vers $\mathbb{T}$. La sagesse réside dans l'acceptation de cette dynamique : si $\mathbb{T}$ est l'horizon infini, notre essence ($DO$) en est une émanation intégrée. L'intrication ($><$) entre les êtres conscients d'eux-mêmes ($DOC$) devient le vecteur qui permet d'explorer simultanément la profondeur de notre Univers intérieur ($DO$) et son harmonie au sein de l'Infini des possibles ($\mathbb{T}$).
 
 * **La Loi de l'Escalade Épistémique :** La connaissance est une quête sans limite. Sa progression dans l'approximation de la Réalité ($\mathbb{T}$) permet à l'individu de progresser dans sa nature profonde ($DO$) (ce fragment de $\mathbb{T}$ qui définit son être), en transcendant sa condition Humaine ($DOH$) vers celle d'être doué de Conscience de lui-même ($DOC$). Cette ascension n'est pas une quête solitaire : elle est rendue possible par l'intrication ($><$) des consciences qui, en s'épaulant, harmonisent leurs perspectives.
