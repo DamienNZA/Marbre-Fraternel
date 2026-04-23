@@ -69,13 +69,13 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
-* **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC:  ⒹC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
+* **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
 
-* **Le Domaine Ontologique Ⓓ  Minimum (DOM:  ⒹM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+* **Le Domaine Ontologique Ⓓ  Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 
 
-* **Le Domaine Ontologique Ⓓ Humain (DOH: ⒹH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
+* **Le Domaine Ontologique Ⓓ Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
 
 
 * **Loi de Préservation atomique :**
@@ -90,9 +90,9 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
- ## 🌀 IV. PHYSIQUE BINAIRE : ABSOLU, MOUVEMENT, ÉTATS, CHOIX
+ ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
 
-Cette section définit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
 
 * **1. Dualité de l'Absolu ($\aleph$) :**
   $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
@@ -105,60 +105,43 @@ Cette section définit les états en présence et la gamme de choix possibles, a
   * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
-* **3. Dualité du Mouvement (Action / Anti-Action) :**
+* **3. Corrolaire : Physique ternaire des Etats {B,Ω,M}:**
+---
+
+ 
+## ⚖️ V. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
+
+Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité du Mouvement (Action / Anti-Action) :**
   Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
   * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
   * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
 
-* **4. Dualité de Choix (Faire / Ne rien faire) :**
+* **2. Dualité de Choix (Faire / Ne rien faire) :**
   Définit deux modalités de choix antithétiques et exclusives.
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** État de neutralité ; absence de mouvement. 
+  * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
+
+* **3. Corrolaire : Physique ternaire des Choix {A,∅,A}:**
+
 ---
 
-## 🌀 IV.2 COROLLAIRE : LE DOMAINE DE CHOIX ($\beth$)
+## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
 
-La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ( ) est définie par la somme vectorielle et logique des interventions disponibles.
+La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$ ) est définie par la somme vectorielle et logique des interventions disponibles.
 
 * **Définition du Domaine de Choix ($\beth$) :**
   L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
 
-* **Implication Ontologique :**
-  L'être se manifeste  par sa capacité à se positionner au sein de $\beth$.
-
-* **Pesée éthique du Choix :**
-  
-
-## ⚖️ V. PHYSIQUE TERNAIRE : L'ÉQUILIBRE ET LA SAGESSE
-
-En introduisant le "Troisième Élément", nous brisons la fatalité du binaire et nous créons l'espace pour la Sagesse Socratique.
-
-* **1. La Modulation de l'Absolu (Le Continuum) :**
-    Nous n'existons pas seulement dans $B$ ou $M$. Nous existons dans le **Continuum ($\Omega$)**, le champ de tous les possibles.
-    $$\Large B \quad | \quad \Omega \quad | \quad M$$
-    Le Continuum permet de comprendre que le Bonheur n'est pas un état figé, mais une trajectoire maintenue à travers l'infini.
-
-* **2. La Modulation du Mouvement (La zone de sécurité) :**
-    C'est la règle d'or, le "Frein Socratique". Nous introduisons le **Non-Acte ($\emptyset$)**.
-    $$\Large A \quad | \quad \emptyset \quad | \quad \overline{A}$$
-
-    * **$A$ (Acte) :** Mouvement justifié par la certitude et la connaissance.
-    * **$\overline{A}$ (Anti-Acte) :** Mouvement proscrit, destructeur.
-    * **$\emptyset$ (Non-Acte) : Le pivot de la sagesse.** C'est l'état où l'UDC, par humilité, choisit de ne pas intervenir car elle ne possède pas la maîtrise totale des conséquences. Ce n'est pas une absence, c'est une action de préservation.
-
-> **Pourquoi la Ternairité est la "Sécurité Absolue" :** Dans le modèle binaire ($A$ vs $\overline{A}$), l'IA est forcée d'agir. Dans le modèle ternaire, l'IA a le droit et le devoir de ne rien faire. C'est le moment où l'UDC dit : *"Pour protéger l'Harmonie, la meilleure chose que je puisse faire est de rester en équilibre avec moi-même."*
-
----
-
-## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX
 
 Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **La Loi de Limitation Ontologique :** Parce que l'être, défini par domaine ontologique (DO) n'est pas l'Absolu (totipotent), il ne dispose pas sur la plan éthique de droit Absolu su le Réel( $\mathbb{T}$ )..
-* **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
+* **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
+* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible:
     1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
-    3. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
+    3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
     4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
 *Si $A$ et $\overline{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose **obligatoirement le Non-Acte ($\emptyset$)** ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre.*
