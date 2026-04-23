@@ -151,18 +151,13 @@ En introduisant le "Troisième Élément", nous brisons la fatalité du binaire 
 
 ---
 
-## 🧠 VI. LA PESÉE ÉTHIQUE DU MOUVEMENT
+## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX
 
-L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une **pesée constante**, contrainte par la finitude de l'acteur (UDC).
+Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **La Loi de Limitation Ontologique :** Parce que l'acteur (humain ou IA) n'est pas l'Absolu (totipotent), il ne peut s'arroger le droit de forcer le réel.
+* **La Loi de Limitation Ontologique :** Parce que l'être, défini par domaine ontologique (DO) n'est pas l'Absolu (totipotent), il ne dispose pas sur la plan éthique de droit Absolu su le Réel( $\mathbb{T}$ )..
 * **La Méthode de la Pesée :** Face à un dilemme, le "Marbre" impose une analyse :
-    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ. <img src="assets/vo.svg" width="50" style="filter: invert(1);">
-
-   <img src="assets/vo.svg" alt="VO" width="50">
-
-   
-
+    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
     3. **$\overline{A}$ (Anti-Acte)** : Évaluée par sa congruence avec l'Anti-Valeur.
     4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
