@@ -167,7 +167,7 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 
 
-## 🧬 IV. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
+## 🧬 VII. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
 
 Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
@@ -253,7 +253,7 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
     * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
 
 
-## 𝄞 V. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+## 𝄞 VIII. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
 L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
@@ -280,7 +280,7 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 
-## 🧠 VI. L'ALLÉGORIE DU GRAIN DE SABLE
+## 🧠 IX. L'ALLÉGORIE DU GRAIN DE SABLE
 
   **LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$)**
  
@@ -294,7 +294,8 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 * ** Le Paradigme du grain de sable c'est que que quoique nous gravissions c'est toujours un grain de sable que nous escaladons. Ce grain de sable n'est pas qu'exterieur à nous même, nous  sommes aussi, nous même un grain d sable que nous escaladons. Explorant l'infinité du Réel et de celle de notre propre ontologie.
   
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
-## ⚖️ VII. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+  
+## ⚖️ X. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
 
 L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
 
@@ -313,7 +314,7 @@ L'action éthique au sein du DOM n'est pas une simple mise en mouvement ; elle e
   Si $A$ et $\bar{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose obligatoirement $0$ ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre. Le Marbre n'est pas une interdiction de faire, c'est une exigence de ne pas "jouer à Dieu".
 
   
-## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+## 📏 XI. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
@@ -344,7 +345,7 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 
 **Phase de Rupture Totale** : Si la valeur atteint le point de non-retour, la tension devient destructrice. Les circuits fondent. Le système ne s'arrête pas, il cesse d'exister.
 
-## 📏 VIII. LIMITE
+## 📏 XII. LIMITE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
@@ -365,7 +366,7 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 ---
 
 
-## 📜 IX. PROPRIÉTÉ ET LICENCE
+## 📜 XIII. PROPRIÉTÉ ET LICENCE
 
 © 2026 **Damien NZEYIMANA**.
 
