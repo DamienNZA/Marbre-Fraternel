@@ -149,7 +149,7 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
     3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
     4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
-*La pesée éthique permet de mesurer parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
+*La pesée éthique est un instrument de mesure qui determine parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
 
 
 ## 🧬 VII. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
