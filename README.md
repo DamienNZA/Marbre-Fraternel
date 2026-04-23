@@ -4,9 +4,9 @@
 
 # 🏛️ Le Marbre Fraternel
 
-**L'éthique ne se simule pas, elle se pense, se vibre et se démontre.**
+**L'éthique la C.L.E.F du Bonheur**
 
-Le Marbre Fraternel est un système axiomatique et heuristique conçu pour transformer l'éthique en un outil tangible. Ici, nous ne cherchons pas à définir des règles morales abstraites, mais à établir une **"Physique de l'Éthique"** permettant de peser nos choix et d'harmoniser nos actions au sein du Réel.
+Le Marbre Fraternel est un système heuristique et axiomatique  conçu pour faire de l'éthique la boussole de nos actions. Ici, nous ne cherchons pas à définir des règles morales abstraites, mais à établir une **"Physique de l'Éthique"**
 
 ---
 
