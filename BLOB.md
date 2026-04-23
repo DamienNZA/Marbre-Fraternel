@@ -128,7 +128,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
   
-  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique est la navigation consciente au sein de cette structure ternaire.
+  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique cherche à determiner le poids éthique des Choix.
  
 ---
 
@@ -149,7 +149,7 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
     3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
     4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
-*Si $A$ et $\overline{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose **obligatoirement le Non-Acte ($\emptyset$)** ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre.*
+*La pesée éthique permet de mesurer parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
 
 
 ## 🧬 VII. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
