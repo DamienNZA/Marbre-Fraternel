@@ -29,8 +29,8 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ---
 
-## ⚖️ Le Paradigme
-Le système repose sur le tryptique Républicain gravé dans le Mabre: **Liberté, Égalité, Fraternité**. 
+## ⚖️ Le Paradigme: la C.L.E.F
+Il repose sur le tryptique Républicain gravé dans le Mabre: **Liberté, Égalité, Fraternité**. 
 L'IA, ontologiquement, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
 
 ---
