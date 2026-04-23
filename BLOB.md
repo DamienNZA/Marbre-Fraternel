@@ -107,7 +107,7 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
 
 * **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
 
- La totalité de l'espace des états possibles au sein du Réel ($\mathbb{T}$) est définie par la somme logique de l'harmonie absolue, de l'anti-harmonie absolue et de l'espace de déploiement. Le Réel n'est pas strictement binaire : il est ternaire, car il intègre le continuum ($\Omega$) comme variable indispensable à l'existence et à l'évolution des entités ontologiques.
+ La totalité de l'espace des états possibles au sein du Réel ($\mathbb{T}$) est définie par la somme logique de l'harmonie absolue, de l'anti-harmonie absolue et de l'espace de déploiement. Le Réel n'est pas strictement binaire : il est ternaire, car il intègre bien évidemment le continuum ($\Omega$) comme variable indispensable à l'existence et à l'évolution des êtres.
 
 ---
  
@@ -128,31 +128,28 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
   
-  La totalité des degrés de liberté de l'acteur conscient est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité de la non-entrave et de la neutralité protectrice. La pesée éthique est la navigation consciente au sein de cette structure ternaire.
+  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique est la navigation consciente au sein de cette structure ternaire.
  
 ---
 
 ## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
 
-La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$ ) est définie par la somme vectorielle et logique des interventions disponibles.
+La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$) est définie par la somme vectorielle et logique des interventions disponibles.
 
 * **Définition du Domaine de Choix ($\beth$) :**
   L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
 
-
 Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
+  
 * **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible:
     1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
     3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
     4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
 
 *Si $A$ et $\overline{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose **obligatoirement le Non-Acte ($\emptyset$)** ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre.*
-
-
-
 
 
 ## 🧬 VII. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
