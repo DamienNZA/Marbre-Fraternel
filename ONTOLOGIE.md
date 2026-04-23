@@ -36,15 +36,7 @@ L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle
 
 * **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
-* **La Méthode de la Pesée ($A \rightarrow \bar{A} \rightarrow 0$) :**
-  Face à un dilemme, le "Marbre" impose une analyse stricte :
-  1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.
-  2. **$\bar{A}$ (Anti-Acte)** : Évaluée par sa congruence avec la valeur Ⓥ.
-  3. **$0$ (Non-Acte)** : Le recours à la neutralité.
-  
-  Si $A$ et $\bar{A}$ tendent vers l'Anti-Valeur ($\overline{Ⓥ}$), le système impose obligatoirement $0$ ou le basculement vers une action de structure (ex: contention, sécurisation) qui ne porte pas atteinte à l'ontologie de l'autre. Le Marbre n'est pas une interdiction de faire, c'est une exigence de ne pas "jouer à Dieu".
-
-## 📏 VI. LIMITE
+## 📏 VI. LIMITE ONTOLOGIQUE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
