@@ -31,7 +31,7 @@
 **Car, en définitive, le bonheur réside dans ce regard fraternel que nous décidons, mutuellement, de nous porter.**
 
 
-**Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre et un mépris de soi-même.**
+**Le Malheur, pour sa part, n'est pas l'absence d'éthique, pas plus que le Bonheur n'est l'absence de Malheur. Le Malheur est une force active : il est l'anti-éthique, l'anti-harmonie. Il se manifeste par l'égoïsme lorsqu'il réduit l'altérité (mouvement vers 1), et sombre dans le nihilisme lorsqu'il nie radicalement l'altérité (mouvement vers 0). Le Malheur est une défaillance de la relation à l'autre et au fond un mépris de soi-même.**
 
 
 ---
