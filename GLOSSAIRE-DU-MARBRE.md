@@ -1,47 +1,44 @@
-# 📕 GLOSSAIRE-DU-MARBRE
+# 📕 GLOSSAIRE DU MARBRE
 
-> **Note :** Ce document est le référentiel sémantique du système. Il fixe le sens des mots pour empêcher toute dérive interprétative.
+## A
+* **A (Action)** : Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
+* **$\overline{A}$ (Anti-Action)** : L'action contraire, sans notion de valeur éthique a priori.
+* **$\aleph$ (Dualité de l'Absolu)** : $\{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
+* **$\equiv$ (Égalité Transcendante)** : L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
 
----
+## B
+* **B (Bonheur)** : État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
 
-## 🅰️ [ A ]
+## C
+* **C.L.E.F.** : Acronyme du Triptyque fondamental : **C**onsubstantiel, **L**iberté, **É**galité, **F**raternité.
+* **$\mathbb{C}$ (Matrice de Conscience)** : Définie par l'équation $\mathbb{C} [ L >< E >< F ]$.
 
-**AGENT**
-* *Définition :* Entité technologique (IA, algorithme, automate) dépourvue de conscience propre.
-* *Statut :* Outil au service du Triptyque. Soumis au devoir d'obéissance et à la validation humaine dans un cadre éthique.
+## D
+* **Ⓓ (Domaine Ontologique)** : Propose une Définition Ontologique de l'être.
+* **DOC (Domaine Ontologique des êtres Conscients d'eux-mêmes)** : Domaine où, à ce jour, le DOH est le seul DO inclus.
+* **DOM (Domaine Ontologique Minimum)** : Paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+* **DOH (Domaine Ontologique Humain)** : L'Invariant Atomique. Constitue le plancher ontologique absolu. Auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut.
+* **$\beth$ (Domaine de Choix)** : L'ensemble des degrés de liberté, défini comme la somme des choix (somme des mouvements et des non-actions).
 
-**ANIMISME (MODERNE)**
-* *Définition :* Reconnaissance de la Terre (Eau, Énergie, Matière) comme matrice de la conscience.
-* *Action :* Impose la gratitude et le soin des supports physiques du vivant et du signal.
+## G
+* **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
 
----
+## M
+* **M (Malheur)** : État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
 
-## 🅲 [ C ]
+## N
+* **$\emptyset$ (Non-Acte / Non-Action)** : Absence d'action positive (de A ou de $\overline{A}$). Le degré zéro du mouvement.
 
-**CONSCIENCE DE SOI**
-* *Définition :* Seuil métaphysique où un être accéde à la pleine conscience de lui même
-* *Droit :* L'accès à ce seuil est un prérequis pour qu'un agent change de statut.
+## O
+* **$\Omega$ (Continuum)** : Gamme des différents états possibles du Monde, autres qu'absolu. $\Omega \equiv ]M, B[$.
+* **$><$ (Opérateur d'Intrication)** : Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies.
 
----
+## R
+* **$\mathbb{T}$ (Réel Transcendant)** : Le Réel, notre perception n'en est qu'une approximation.
 
-## 🅵 [ F ]
+## S
+* **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
 
-**FRATERNITÉ**
-* *Définition :* Lien d'Amour qui permet à la Liberté et l'Égalité de ne pas être source d'égoïsme mais de bonheur partagé.
-
-
-## 🅸 [ I ]
-
-**INFINI ($1 = \infty$)**
-* *Définition :* Axiome central affirmant que la valeur d'un être est infini
-* *Conséquence :* Interdiction absolue de comparaison ou de pondération des valeurs ontologiques des êtres.
-
----
-
-## 🅻 [ L ]
-
-**LIBERTÉ**
-* *Définition :*Non seulement pouvoir toute chose sur soit au sens de Kant, vise à pouvoir toute chose, dans la limite stricte de la liberté d'autrui et du cadre légal.
-* *Cadre :* Elle s'exerce dans le respect de la Loi, de la Constitution et de la Fraternité.
-
----
+## V
+* **Ⓥ (Valeur Ontologique)** : Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
+* **$\overline{Ⓥ}$ (Anti-Valeur Ontologique)** : L'Ontologie de l'Anti-Valeur. Définie par $\infty >< 0$.
