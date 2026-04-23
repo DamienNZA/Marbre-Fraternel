@@ -105,10 +105,13 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
   * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
-* **3. Corrolaire : Physiqu Ternaire des Etats {B,Ω,M}:**
----
+* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
 
+ La totalité de l'espace des états possibles au sein du Réel ($\mathbb{T}$) est définie par la somme logique de l'harmonie absolue, de l'anti-harmonie absolue et de l'espace de déploiement. Le Réel n'est pas strictement binaire : il est ternaire, car il intègre le continuum ($\Omega$) comme variable indispensable à l'existence et à l'évolution des entités ontologiques.
+
+---
  
+
 ## ⚖️ V. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
 
 Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
@@ -124,7 +127,9 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
-
+  
+  La totalité des degrés de liberté de l'acteur conscient est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité de la non-entrave et de la neutralité protectrice. La pesée éthique est la navigation consciente au sein de cette structure ternaire.
+ 
 ---
 
 ## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
