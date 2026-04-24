@@ -15,7 +15,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 
 ---
 
-## 🌀 II. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
+## 🌀 II. TOPOLOGIE DES DOMAINES  Ⓓ  (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
