@@ -47,3 +47,12 @@ Toute opération doit être validée par le triptyque : ℂ [ L >< E >< F ]
 ## VII. PROPRIÉTÉ INTELLECTUELLE
 * Auteur : Damien NZEYIMANA.
 * Licence : CC BY-NC-SA 4.0. Toute utilisation doit respecter l'intégrité des concepts (DO, B, M, C.L.E.F., Acte [A], Anti-Acte [$\overline{A}$]).
+
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
+
+
