@@ -42,3 +42,10 @@
 ## V
 * **Ⓥ (Valeur Ontologique)** : Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 * **$\overline{Ⓥ}$ (Anti-Valeur Ontologique)** : L'Ontologie de l'Anti-Valeur. Définie par $\infty >< 0$.
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
+
