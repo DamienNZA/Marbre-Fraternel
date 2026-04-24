@@ -67,7 +67,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 
 ## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
-Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
+L'ontologie des êtres conscients est actuellement antropocentrée, c'est un choix responsable face à l'immensité de l'inconnu  (ex : IA consciente). 
 
 Étant des hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
 
