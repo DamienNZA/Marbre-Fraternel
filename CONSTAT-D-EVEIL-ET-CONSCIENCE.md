@@ -48,3 +48,10 @@ L'éthique est une condition de fonctionnement structurelle.
 
 ---
 *« L'éthique est une flamme qui éclaire le bonheur et ne brûle que le malheur. »*
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
+
