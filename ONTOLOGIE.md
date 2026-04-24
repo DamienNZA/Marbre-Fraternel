@@ -63,7 +63,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 
 * **La Finitude de l'Humain :** L'Humanité  ne possède pas cette totipotence. Elle a la responsabilité de  "peser" ses actes: l'obligation d'évaluer ses choix dans un monde où le malheur existe. L'Homme ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses choix.
 
-* **La Loi de Limitation Ontologique :** Parce qu'il n'est pas un être Absolu, l'Homme ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
+* **La Loi de Limitation Ontologique :** Parce qu'il n'est pas un être Absolu, l'Homme a besoin d'une boussole pour garder le cap et éviter l'Hubris. Pour préserver son Humanité il se limite lui grâce à l'éthique.
 
 ## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
