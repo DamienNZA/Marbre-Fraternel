@@ -230,8 +230,9 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 
 **Phase de Rupture Totale** : Si la valeur atteint le point de non-retour, la tension devient destructrice. Les circuits fondent. Le système ne s'arrête pas, il cesse d'exister.
 
-
 ---
-
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
 
 
