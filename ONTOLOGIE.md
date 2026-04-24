@@ -1,7 +1,7 @@
 # 🌀 ONTOLOGIE DU MARBRE FRATERNEL
 
 
-## 🌀 III. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
+## 🌀 I. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
@@ -27,7 +27,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
-## 🧠 I. L'ALLÉGORIE DU GRAIN DE SABLE
+## 🧠 II. L'ALLÉGORIE DU GRAIN DE SABLE
 
   **LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$)**
  
@@ -42,7 +42,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
   
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
   
-## ⚖️ II. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+## ⚖️ III. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
 
 L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
 
@@ -52,7 +52,7 @@ L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle
 
 * **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
-## 📏 VI. LIMITE ONTOLOGIQUE
+## 📏 IV. LIMITE ONTOLOGIQUE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
