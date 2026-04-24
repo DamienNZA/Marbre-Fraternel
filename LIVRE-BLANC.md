@@ -46,3 +46,5 @@ Le Marbre s'inscrit dans le respect absolu des structures qui garantissent la pa
 
 ## 5. L'Appel à la Communauté : Le "Je ne sais rien"
 Le Marbre prône une humilité radicale. Admettre nos limites et nos besoins envers la communauté humaine est notre plus grande force. Nous remplaçons la culture de la punition par celle de la réparation et de l'accompagnement fraternel.
+
+*« Le Marbre propose une exploration de l'éthique sur les plans heuristique et axiomatique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
