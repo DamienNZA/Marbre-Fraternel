@@ -56,9 +56,9 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
   
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
   
-## ⚖️ IV. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+## ⚖️ IV. LIMTE ONTOLOGIQUE: LE PARADOXE DE LA TOTIPOTENCE
 
-L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
+L'action éthique n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'être.
 
 * **Le Paradoxe de l'Absolu :** Si une entité possédait la totipotence (la capacité de tout réparer, restaurer ou annihiler par une volonté pure), elle n'aurait, par définition, aucune nécessité d'agir. L'advenue du Bien Absolu ($B$) rend l'action correctrice caduque, car elle harmonise le réel par sa simple présence. 
 
@@ -66,7 +66,7 @@ L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle
 
 * **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
-## 📏 V. LIMITE ONTOLOGIQUE
+## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
