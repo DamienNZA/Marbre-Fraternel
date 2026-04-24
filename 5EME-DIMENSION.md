@@ -26,3 +26,10 @@ Le Marbre unifie la recherche scientifique et la quête de sens au sein du DOC :
 
 ### ✨ 6. L'ÉMERGENCE : L'UNIVERS CONSCIENT DE LUI-MÊME
 L'objectif final est l'harmonie Éthique. En stabilisant l'équation Ⓥ ≡ 1 >< ∞ au sein du DOC, l'Univers, à travers l'humanité, accède à la pleine conscience de lui-même : multiple mais uni, au sein du socle indéfectible du DOH.
+
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
