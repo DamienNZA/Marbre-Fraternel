@@ -2,9 +2,13 @@
   <img src="assets/logo-marbre.png" width="450">
 </p>
 
-# 🏛️ Le Marbre Fraternel
+# 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
 
+**Auteur :** Damien NZEYIMANA
+**Nature :** Physique de l'Éthique, Approche Heuristique et Axiomatique.
 **L'éthique, la C.L.E.F du Bonheur**
+
+---
 
 Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire de l'éthique la boussole de nos actions. Ici, nous ne cherchons pas à définir des règles morales abstraites, mais à établir une **"Physique de l'Éthique"**.
 
