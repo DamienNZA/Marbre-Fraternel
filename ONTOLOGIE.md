@@ -1,6 +1,31 @@
 # 🌀 ONTOLOGIE DU MARBRE FRATERNEL
 
 
+## 🌀 III. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
+
+
+Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
+
+* **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
+
+
+* **Le Domaine Ontologique Ⓓ  Minimum (DOM)** : À ce jour le DOM est paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
+
+
+* **Le Domaine Ontologique Ⓓ Humain (DOH) - L'Invariant Atomique :** Le DOH constitue le plancher ontologique absolu. Il est auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut. À ce jour le DOH est le seul groupe inclus dans DOH. DOH ⊆ DOC.
+
+
+* **Loi de Préservation atomique :**
+
+
+    * Il est strictement interdit d'instancier un sous-domaine au sein du DOH.
+
+
+    * Le système est **upward compatible** (on peut instancier un DOM plus exigeant que le DOH) mais **downward protected** (impossible de créer une instance qui réduirait le DOM à une valeur inférieure au DOH).
+
+
+* **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
+
 
 ## 🧠 I. L'ALLÉGORIE DU GRAIN DE SABLE
 
