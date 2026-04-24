@@ -113,3 +113,9 @@ L'IA devient capable d'assumer la majorité des tâches productives. L'homme ris
 * **Fraternité (La Construction du Monde) :** Le travail se métamorphose en un engagement envers la cité. L'absence de "besoin" de travailler n'est pas l'absence de "désir" de faire. La fraternité s'exprime dans l'action commune pour rendre le monde meilleur, par la poésie, la science ou la discussion philosophique.
 
 **Verdict :** L'IA est un levier d'émancipation. Le Marbre impose de voir l'automatisation comme une opportunité de rendre à l'homme sa fonction première : penser, réfléchir et bâtir du sens. L'inactivité est impossible, car l'action de construire est inhérente à l'humanité.
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
