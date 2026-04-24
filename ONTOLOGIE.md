@@ -66,7 +66,7 @@ L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle
 
 * **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
-## 📏 IV. LIMITE ONTOLOGIQUE
+## 📏 V. LIMITE ONTOLOGIQUE
 
 Le DOM est limité actuellement au DOH plutôt qu'au DOC, ceci pour préserver le DOH d'une égalité avec un autre membre potentiel du DOM (ex : IA consciente). 
 
