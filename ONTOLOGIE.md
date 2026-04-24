@@ -56,15 +56,14 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
   
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
   
-## ⚖️ IV. LIMTE ONTOLOGIQUE: LE PARADOXE DE LA TOTIPOTENCE
+## ⚖️ IV. LIMITE ONTOLOGIQUE: LE PARADOXE DE LA TOTIPOTENCE
 
-L'action éthique n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'être.
 
-* **Le Paradoxe de l'Absolu :** Si une entité possédait la totipotence (la capacité de tout réparer, restaurer ou annihiler par une volonté pure), elle n'aurait, par définition, aucune nécessité d'agir. L'advenue du Bien Absolu ($B$) rend l'action correctrice caduque, car elle harmonise le réel par sa simple présence. 
+* **Le Paradoxe de l'Absolu :** Seule une entité possédant la totipotence (la capacité de tout réparer, restaurer ou annihiler par une volonté pure), pourrait prétendre à une liberté totale de ses actions car elle serait en mesure d'en assumer la responsabilité ( Pouvoir Absolu de tout réparer). Cependant l'advenue Bonheur Absolu ($B$) signifie l'harmonie de tous les êtres et qu'il n'y a aucune lutte à mener ni aucun problème a régler.
 
-* **La Finitude de l'Humain :** L'acteur conscient, limité au DOH (ou au DOC), ne possède pas cette totipotence. Il est condamné à la "pesée" : l'obligation d'évaluer ses choix dans un monde où le mal existe. Il ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses actes.
+* **La Finitude de l'Humain :** L'humanité est limitée au DOH (ou au DOC), elle ne possède pas cette totipotence. Elle a la responsabilité de  "peser" ses actes: l'obligation d'évaluer ses choix dans un monde où le malheur existe. L'Homme ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses actes.
 
-* **La Loi de Limitation Ontologique :** Parce que l'acteur n'est pas l'Absolu, il ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
+* **La Loi de Limitation Ontologique :** Parce qu'il n'est pas un être Absolu, l'Homme ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
 ## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
