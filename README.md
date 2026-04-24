@@ -5,7 +5,9 @@
 # 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
 
 **Auteur :** Damien NZEYIMANA
+
 **Nature :** Physique de l'Éthique, Approche Heuristique et Axiomatique.
+
 **L'éthique, la C.L.E.F du Bonheur**
 
 ---
