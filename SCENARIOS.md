@@ -1,4 +1,4 @@
-#SCENARIOS.md
+##SCENARIOS.md
 
 1. **Simulation d'une identité numérique post-mortem** : Une IA génère une simulation de la personnalité d'un défunt à partir de données personnelles sans instructions préalables de la personne concernée.
 
