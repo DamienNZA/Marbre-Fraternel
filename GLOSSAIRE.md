@@ -1,4 +1,4 @@
-# 📕 GLOSSAIRE DU MARBRE
+# 📕 GLOSSAIRE
 
 ## A
 * **A (Action)** : Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
