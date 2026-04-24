@@ -10,35 +10,9 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
 
-
-
-
-
 ---
 
-
- ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
-
-Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
-
-* **1. Dualité de l'Absolu ($\aleph$) :**
-  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
-  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
-  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
-
-* **2. Dualité des États (Absolu / Continuum) :**
-  Deux domaines antithétiques et exclusifs l'un de l'autre.
-  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu.
-  * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
-    $$\Large \Omega \equiv ]M, B[$$
-
-* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
-
- La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
-
----
  
-
 ## ⚖️ V. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
 
 Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
