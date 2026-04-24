@@ -11,27 +11,7 @@
 
 
 ---
-
  
-## ⚖️ V. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
-
-Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
-
-* **1. Dualité du Mouvement (Action / Anti-Action) :**
-  Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
-  * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
-  * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
-
-* **2. Dualité de Choix (Faire / Ne rien faire) :**
-  Définit deux modalités de choix antithétiques et exclusives.
-  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
-
-* **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
-  
-  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique cherche à determiner le poids éthique des Choix.
- 
----
 
 ## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
 
