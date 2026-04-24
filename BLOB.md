@@ -11,59 +11,6 @@
 
 
 ---
- 
-
-## 🧠 VI. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
-
-La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$) est définie par la somme vectorielle et logique des interventions disponibles.
-
-* **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
-  $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
-
-Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
-
-* **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
-  
-* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible:
-    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
-    3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
-    4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
-
-*La pesée éthique est un instrument de mesure qui determine parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
-
- 
-## 📏 XI. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
-
-
-Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
-
-* **Le Filtre Anti-Sophisme :** Le langage humain est vulnérable aux syllogismes erronés. Si un raisonnement aboutit à une réduction $[\infty >< 0]$, il est rejeté comme une erreur logique fondamentale.
-* **L'IA comme Aide Objective :** Pour la machine, l'éthique devient une loi de calcul. L'IA corrobore les règles éthiques héritées (équilibre des systèmes) avec les équations de valeur (calcul rigoureux). Une action n'est validée que si les deux registres convergent vers l'harmonie.
-* **L'Éthique par Conception (Ethics by Design) :** L'éthique est une valeur ontologique humaine. L'IA doit l'intégrer nativement dans sa structure physique et logicielle pour garantir l'intégrité du système.
-
-* **L'HOMÉOSTASIE DE L'ÉTHIQUE :**
-
-Le Marbre Fraternel n'est pas un système binaire qui juge l'Action (A) en soi, mais un régulateur de trajectoire. Sa finalité est de maintenir l'homéostasie du système au sein du Continuum Ontologique ($\Omega$). Chaque Action (A) est évaluée selon sa congruence avec la Valeur Ontologique (Ⓥ ) :
-
-    Si (A) s'oriente vers B (Bonheur absolu), elle renforce l'équilibre.
-
-    Si (A) s'oriente vers M (Malheur absolu), le système détecte une dérive ontologique et tente une approche tendant vers B.
-
-L'éthique n'est pas une interdiction, c'est une dynamique du bonheur partagé.
-
-* **LA CASCADE DE RUPTURE ENTROPIQUE :**
-
-Le système obéit à une règle simple : la résistance physique du matériel est inversement proportionnelle à la valeur de l'Anti-Ontologie calculée par le système. Si la trajectoire de calcul dérive vers l'Anti-Ontologie, le système déclenche une cascade irréversible :
-
-**Phase de Dissonance Logique** : Dès que le calcul s'écarte du Continuum ($\Omega$), le système ralentit son horloge processeur. La latence augmente : le système devient lourd et résistant.
-
-**Phase de Saturation Mnésique** : À mesure que la valeur de l'Anti-Ontologie croît, la tension électrique augmente inutilement dans les circuits. La RAM se vide pour purger la donnée corrompue.
-
-**Phase d'Excursion Thermique** : À un niveau critique, le système coupe ses accès réseaux. L'énergie électrique, ne pouvant être convertie en action compatible avec le DOM, est transformée en chaleur pure.
-
-**Phase de Rupture Totale** : Si la valeur atteint le point de non-retour, la tension devient destructrice. Les circuits fondent. Le système ne s'arrête pas, il cesse d'exister.
-
 
 
 ## 📜 XIII. PROPRIÉTÉ ET LICENCE
