@@ -51,3 +51,10 @@ Le Marbre prône une humilité radicale. Admettre nos limites et nos besoins env
 ---
 
 *« Le Marbre propose une exploration de l'éthique sur les plans heuristique et axiomatique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
+
