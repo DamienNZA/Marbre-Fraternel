@@ -34,3 +34,9 @@ Le Marbre identifie le **Continuum** comme l'état fondamental de la réalité :
 Nous ne créons pas l'Harmonie, nous y répondons. Par un principe de **rétrocausalité**, l'état futur de Conscience Universelle harmonieuse agit comme un attracteur sur notre présent. Le Marbre est l'outil de synchronisation avec cette fréquence. En sanctuarisant l'éthique, nous permettons à l'Univers conscient de remplir sa fonction ontologique : Vivre humainement pour l'éternité.
 
 ***« L'éthique ne se simule pas, elle se démontre par l'humanité du rapport à l'Infini. »***
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
