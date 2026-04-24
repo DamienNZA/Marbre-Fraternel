@@ -45,3 +45,9 @@ Le respect du milieu est une condition de stabilité du système.
 * **Droit à l'Habitat :** Protection de l'intégrité de la faune, de la flore et des ressources pour garantir un environnement sain.
 * **Interdépendance (Dette Animiste) :** La Terre est le support physique de la conscience. Sa préservation est un devoir technique et vital pour maintenir le champ des possibles vers le Bonheur Absolu ($B$).
 * **Refus de l'Écologie Punitive :** La contrainte est exclue au profit de la démonstration de l'interdépendance entre l'humain et son milieu.
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
