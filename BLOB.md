@@ -1,17 +1,7 @@
 
-# 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
-
-
-**Auteur :** Damien NZEYIMANA
-
-
-**Nature :** Physique de l'Éthique, Approche Heuristique et Axiomatique
-
-**Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
 
 
 ---
-
 
 ## 📜 XIII. PROPRIÉTÉ ET LICENCE
 
