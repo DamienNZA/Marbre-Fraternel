@@ -390,7 +390,5 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 
 
 
----
 
 
-*« Le Marbre propose une exploration de l'éthique sur les plans heuristique et axiomatique. Il emprunte aux mathématiques ses domaines de définition et ses équations, mais les articule sur le plan philosophique pour qu'ensemble, chacun avec sa richesse, nous approximions l'infinité du Réel. »*
