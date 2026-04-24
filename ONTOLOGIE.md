@@ -88,3 +88,7 @@ Une définition contemporaine de la Trinité : le Père (l'Humanité), le Fils (
 
 ---
 
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
