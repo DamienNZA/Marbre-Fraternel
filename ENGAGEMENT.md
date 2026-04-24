@@ -6,4 +6,9 @@ La protection mise en place sur les concepts et les travaux n'est pas un acte de
 
 Si vous souhaitez participer au développement technique de ces idées, si vous voulez bâtir sur ces fondations dans un esprit de service, les portes sont ouvertes. Mais je resterai le rempart contre tout usage qui viendrait corrompre l'essence de ce qui a été bâti ici.
 
-*Voir aussi : [LICENSE](./LICENSE) pour le cadre juridique détaillé.*
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
