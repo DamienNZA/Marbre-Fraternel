@@ -15,4 +15,4 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ### 📚 Références et Cadre Légal
 * [**GLOSSAIRE.md**](./GLOSSAIRE.md) : Définitions des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).
-* [**LICENSE.md**](./LICENSE.md) : Cadre juridique, droits d'usage et conditions de protection du Marbre.
+* [**LICENSE**](./LICENSE) : Cadre juridique, droits d'usage et conditions de protection du Marbre.
