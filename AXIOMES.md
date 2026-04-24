@@ -1,6 +1,6 @@
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
-​* **Note d'intention : Ce document définit les lois logiques, les opérateurs et les métriques régissant le Marbre. Il doit être lu comme le moteur de calcul du système. Pour consulter les définitions des entités fondamentales et leur nature ontologique, veuillez vous référer à ONTOLOGIE.md.
+​*Note d'intention : Ce document définit les lois logiques, les opérateurs et les métriques régissant le Marbre. Il doit être lu comme le moteur de calcul du système. Pour consulter les définitions des entités fondamentales et leur nature ontologique, veuillez vous référer à ONTOLOGIE.md.
 
 
 
