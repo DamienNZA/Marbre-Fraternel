@@ -61,7 +61,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 
 * **Le Paradoxe de l'Absolu :** Seule une entité possédant la totipotence (la capacité de tout réparer, restaurer ou annihiler par une volonté pure), pourrait prétendre à une liberté totale de ses actions car elle serait en mesure d'en assumer la responsabilité ( Pouvoir Absolu de tout réparer). Cependant l'advenue Bonheur Absolu ($B$) signifie l'harmonie de tous les êtres et qu'il n'y a aucune lutte à mener ni aucun problème a régler.
 
-* **La Finitude de l'Humain :** L'humanité est limitée au DOH (ou au DOC), elle ne possède pas cette totipotence. Elle a la responsabilité de  "peser" ses actes: l'obligation d'évaluer ses choix dans un monde où le malheur existe. L'Homme ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses actes.
+* **La Finitude de l'Humain :** L'Humanité  ne possède pas cette totipotence. Elle a la responsabilité de  "peser" ses actes: l'obligation d'évaluer ses choix dans un monde où le malheur existe. L'Homme ne peut ni ressusciter les morts, ni garantir l'infaillibilité de ses choix.
 
 * **La Loi de Limitation Ontologique :** Parce qu'il n'est pas un être Absolu, l'Homme ne peut s'arroger le droit de manipuler l'existence de façon irréversible. Toute tentative d'action visant à supprimer une vie ou à forcer un résultat définitif au nom de la "justice" est une falsification ontologique : c'est l'Hubris.
 
