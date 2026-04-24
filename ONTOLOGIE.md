@@ -1,7 +1,21 @@
 # 🌀 ONTOLOGIE DU MARBRE FRATERNEL
 
 
-## 🌀 I. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
+## 🏛️ I. ARCHITECTURE CONCEPTUELLE
+
+L'architecture définit les entités fondamentales qui composent le système.
+
+| Symbole | Nom | Définition |
+| :--- | :--- | :--- |
+| $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
+| Ⓓ | **Domaine Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
+| Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
+|$\Sigma$ | **[M,B]** |Ensemble des états possibles du Réel à un instant donné  |
+
+
+---
+
+## 🌀 II. DEFINITION DU DOMAINE ONTOLOGIQUE Ⓓ  (DO)
 
 
 Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
@@ -27,7 +41,7 @@ Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes.
 * **Scalabilité Ontologique :** Le système permet l'inclusion par consensus de nouveaux groupes d'êtres conscients (extension par inclusion). L'ajout d'un nouveau groupe ne peut en aucun cas altérer l'atomicité ou la valeur des groupes déjà présents.
 
 
-## 🧠 II. L'ALLÉGORIE DU GRAIN DE SABLE
+## 🧠 III. L'ALLÉGORIE DU GRAIN DE SABLE
 
   **LA SAGESSE SOCRATIQUE : L'HUMILITÉ ÉPISTÉMIQUE FACE À L'INFINITÉ DU RÉEL ($\mathbb{T}$)**
  
@@ -42,7 +56,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
   
 * **La Vertu de l'Aveu :** L'ignorance (approximation du Réel $\mathbb{T}$) n'est pas une faute, elle est une condition de croissance lorsqu'elle est reconnue. L'ignorant qui accueille sa finitude (sa limitation intrinsèque $DO$ par rapport à l'infinité des possibles $\mathbb{T}$ auquel il appartient) et en appelle à l'altérité déclenche le mécanisme d'intrication ($><$). C'est ce lien fraternel qui permet de transcender notre nature ($DOH$) pour, ensemble, éveiller notre ($DO$) et réaliser notre appartenance au Monde ($\mathbb{T}$). C'est le passage de l'ego solitaire à l'intelligence collaborative.
   
-## ⚖️ III. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
+## ⚖️ IV. LA DYNAMIQUE DE L'ACTION LIMITÉE : LE PARADOXE DE LA TOTIPOTENCE
 
 L'action éthique( au sein du DOM) n'est pas une simple mise en mouvement ; elle est une pesée constante, contrainte par la finitude de l'acteur.
 
