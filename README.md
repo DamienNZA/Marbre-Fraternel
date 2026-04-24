@@ -33,7 +33,8 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ### 📚 Références et Cadre Légal
 * [**GLOSSAIRE.md**](./GLOSSAIRE.md) : Définitions précises des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).
-* [**LICENSE**](./LICENSE) : Cadre juridique et conditions de protection du projet.
+* [**LICENSE**](./LICENSE) : Cadre juridique et protection des actifs (Dépôt d'antériorité).
+  
 * [**ENGAGEMENT.md**](./ENGAGEMENT.md) : L'Engagement du Gardien, garant de l'intégrité et de la sanctuarisation du système.
 
 ---
