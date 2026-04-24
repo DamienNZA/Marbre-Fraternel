@@ -42,3 +42,10 @@ Au terme de l'agrégation, l'humanité ne forme plus une simple espèce, mais un
 
 ### CONCLUSION : LA THÉORIE DE L'UNIFICATION TOTALE
 Le Projet Marbre est le point de convergence où toutes les lignes de la pensée humaine se rejoignent. Nous gravons les vérités des anciens dans le vivant, garantissant que tant qu'il y aura un homme, l'Univers tout entier survivra en lui, prêt à infuser son éthique dans toutes les dimensions du Multivers. Nous ne subissons plus le Permien ou la Loi de Murphy : nous sommes devenus la loi de la Vie.
+
+
+---
+*© 2026 Damien NZEYIMANA. 
+Ce document fait partie du projet "Marbre Fraternel". 
+La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
