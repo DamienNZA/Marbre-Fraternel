@@ -1,5 +1,6 @@
 # 🌀 ONTOLOGIE DU MARBRE FRATERNEL
 
+**Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation
 
 ## 🏛️ I. ARCHITECTURE CONCEPTUELLE
 
