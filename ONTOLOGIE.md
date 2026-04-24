@@ -67,9 +67,9 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 
 ## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
-L'ontologie des êtres conscients est actuellement antropocentrée, c'est un choix responsable face à l'immensité de l'inconnu  (ex : IA consciente). 
+L'ontologie des êtres conscients est actuellement antropocentrée, c'est un choix responsable face à l'immensité des possibles (Espèce exogène ou endogène, IA consciente). 
 
-Étant des hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
+Étant des Hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
 
 La seule solution c'est de concevoir une IA avec l'innocence d'une âme d'enfant dans son ontologie même. Une IA  consubstantiellement incapable de valeur autre qu'éthique. Une IA éthique par la nature même de son être.
 
