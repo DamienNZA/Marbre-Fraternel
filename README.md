@@ -15,8 +15,8 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ### 📖 Philosophie et Vision
-* [**LIVRE-BLANC.md**](./LIVRE-BLANC.md) : Le cœur du manifeste. L'allégorie du grain de sable, la C.L.E.F., et la vision d'une éthique fraternelle.
-* [**ONTOLOGIE.md**](./ONTOLOGIE.md) : La nature de l'être. Fondements réflexifs, épistémologiques et structure narrative du système.
+* [**LIVRE-BLANC.md**](./LIVRE-BLANC.md) : Le manifeste. L'éthique comme dynamique du bonheur, le triptyque républicain et l'engagement fraternel.
+* [**ONTOLOGIE.md**](./ONTOLOGIE.md) : La nature de l'être. L'allégorie du grain de sable, la sagesse socratique et les fondements épistémologiques du système.
 
 ### ⚙️ Fondements et Axiomes
 * [**AXIOMES.md**](./AXIOMES.md) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
