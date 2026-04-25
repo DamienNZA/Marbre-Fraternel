@@ -83,7 +83,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
   
-  La totalité des degrés de liberté des êtres conscients d'eux même est définie par cette tripartition. Le choix ne se limite pas à l'opposition conflictuelle entre l'Acte ($A$) et l'Anti-Acte ($\overline{A}$), mais intègre la Non-Action ($\emptyset$) comme condition de possibilité . La pesée éthique cherche à determiner le poids éthique des Choix.
+* **4. Corrolaire : Combinaison des Choix :**
  
 ---
 
