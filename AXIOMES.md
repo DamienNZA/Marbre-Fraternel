@@ -131,7 +131,7 @@ Le marbre doit proposer des alternatives ( au sein de beta) si elles existent.
 
 ## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
-\Large VO \equiv \infty
+$\Large VO \equiv \infty$
 
 La valeur ontologique est par nature égale à'infini.
 
