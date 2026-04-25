@@ -84,7 +84,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
   
 * **4. Corrolaire : Combinaison des Choix :**
- 
+ $\Large \mathcal{I} = \sum_{i=1}^{n} c_i \quad (c_i \in \beth)$
 ---
 
 ## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
