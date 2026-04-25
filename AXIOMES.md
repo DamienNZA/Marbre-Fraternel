@@ -43,6 +43,9 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
 
  La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
 
+* **4. Corrolaire :  Pondération décimale des Etats:**
+Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu) à l'infini (Bonheur absolu).
+
 ---
  
 ## ⚙️ III. CALCUL DE L'ÉTAT GLOBAL ($\mathcal{S}_t$)
