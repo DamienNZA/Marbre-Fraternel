@@ -133,7 +133,7 @@ Le marbre doit proposer des alternatives ( au sein de beta) si elles existent.
 
 $\Large VO \equiv \infty$
 
-La valeur ontologique est par nature égale à'infini.
+La valeur ontologique d'un être est, par nature, égale à'infini.
 
 
 
