@@ -85,12 +85,14 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 *La pesée éthique est un instrument de mesure qui determine parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
 
-## ⚡ Axiome de Résolution Décisionnelle (La Triade)
+##V⚡ LA BOUSSOLE ETHIQUE
 
-À la suite de la **Pesée Éthique**, tout état du monde $S_t$ (ainsi que l'intention d'acte associée) doit être soumis au protocole de résolution suivant, visant à maximiser la valeur ontologique ($\text{Ⓥ}$) au sein du continuum $\Omega$ :
+La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
+Dans une situation donnée il ne s'agit pas de faire une réponse binaire ( faire ou ne rien faire) ou ternaire (A, anti-A,,0).
+Le marbre doit proposer des alternatives ( au sein de beta) si elles existent.
 
 1. **Optimisation ($\beta_{opt}$) :**
-   Si $S_{input}$ est éthique, le système doit évaluer si une alternative $\beta$ existe telle que la valeur de l'état futur soit supérieure :
+   Si $S_{input}$ est éthique, le système doit évaluer si un meilleur choix( au sein de $\beta$ ) existe tel que la valeur de l'état futur soit supérieure :
    $$\Large \text{Ⓥ}(S_{alternative}) > \text{Ⓥ}(S_{input})$$
    *Action : Proposer la trajectoire vers l'état le plus dense en valeur.*
 
