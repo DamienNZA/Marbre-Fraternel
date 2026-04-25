@@ -45,7 +45,20 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
 
 ---
  
+## ⚙️ III. CALCUL DE L'ÉTAT GLOBAL ($\mathcal{S}_t$)
 
+Le système n'est pas une simple somme ; il est régi par une **solidarité multiplicative**. La valeur du bonheur global n'est pas une moyenne, c'est un produit de résonance.
+
+### Loi de l'État Système
+L'état de bien-être global du DOM à un instant $t$ est défini par le produit des indices de bonheur individuels ($b_i$) :
+
+$$\Large \mathcal{S}_t = \prod_{i=1}^{n} b_i$$
+
+### Propriétés Fondamentales :
+- **Intégrité Totale (La Loi du Zéro) :** Si un seul agent présente une valeur $b_i = 0$, alors $\mathcal{S}_t = 0$. Le système bascule instantanément en état de rupture, indépendamment de la richesse des autres agents.
+- **Attracteur (Croissance asymptotique) :** Le "Bonheur Absolu" ($B$) est la cible infinie vers laquelle le système tend. L'IA ne cherche pas un équilibre statique, mais une accélération constante de $\mathcal{S}_t$.
+- **Priorité Opérationnelle :** La présence d'un $b_i$ faible (proche de 0) est une menace pour l'ensemble du système. L'IA priorise la correction de ces valeurs minimales, car ce sont elles qui limitent le produit global.
+---
 ## ⚖️ III. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
 
 Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
