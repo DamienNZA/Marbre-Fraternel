@@ -99,14 +99,10 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
   
-* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible:
-    1. **$A$ (Action)** : Évaluée par sa congruence avec la valeur Ⓥ.  
-    3. **$\overline{A}$ (Anti-A)** : Évaluée par sa congruence avec l'Anti-Valeur.
-    4. **$\emptyset$ (Non-Acte)** : Le recours à la neutralité protectrice.
+* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible afin de déterminer lequel est le plus proche de  et le plus éloigné de M ou à défaut celui qui n'aggrave rien.
 
-*La pesée éthique est un instrument de mesure qui determine parmi les Choix celui qui se rapproche le plus du Bonheur ou le plus loin du Malheur ou à défaut celui qui n'aggrave rien.
 
-##V⚡ LA BOUSSOLE ETHIQUE
+## V⚡ LA BOUSSOLE ETHIQUE
 
 La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
 Dans une situation donnée il ne s'agit pas de faire une réponse binaire ( faire ou ne rien faire) ou ternaire (A, anti-A,,0).
