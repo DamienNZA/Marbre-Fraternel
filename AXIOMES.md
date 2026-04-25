@@ -131,8 +131,10 @@ Le marbre doit proposer des alternatives ( au sein de beta) si elles existent.
 
 ## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
 
+\Large VO \equiv \infty
 
-Le Marbre définit la valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
+La valeur ontologique est par nature égale à'infini.
+
 
 
 * **Équations Absolues :**
