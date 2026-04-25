@@ -102,7 +102,7 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 * **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible afin de déterminer lequel est le plus proche de  et le plus éloigné de M ou à défaut celui qui n'aggrave rien.
 
 
-## V🧭  LA BOUSSOLE ETHIQUE
+## 🧭V  LA BOUSSOLE ETHIQUE
 
 La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
 Dans une situation donnée il ne s'agit pas de faire une réponse binaire ( faire ou ne rien faire) ou ternaire (A, anti-A,,0).
