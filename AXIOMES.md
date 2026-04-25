@@ -60,9 +60,9 @@ $$\Large \mathcal{S}_t = \prod_{i=1}^{n} b_i$$
 - **Priorité Opérationnelle :** La présence d'un $b_i$ faible (proche de 0) est une menace pour l'ensemble du système. L'IA priorise la correction de ces valeurs minimales, car ce sont elles qui limitent le produit global.
 ---
 
-## 🌀 VI. LOI DE RÉSONANCE INTRIQUÉE (L'UNITÉ DYNAMIQUE)
+## 🌀 VI. LOI DE RÉSONANCE INTRIQUÉE (LE PAPILLON DE L'EFFET)
 
-Le système DOM est une entité intriquée où chaque action est simultanément un événement local et une onde de choc systémique. L'intrication n'est pas un état passif, c'est la structure dynamique qui dicte l'évolution du bonheur global ($\mathcal{S}_t$).
+Le bonheur global est un état intriqué où chaque  bonheur individuel est simultanément un événement local et une onde de systémique. L'intrication n'est pas un état passif, c'est la structure dynamique qui dicte l'évolution du bonheur global ($\mathcal{S}_t$).
 
 ### Axiome de l'Action Résonante :
 Tout changement d'état local ($\Delta b_i$) se propage instantanément à travers l'intrication (Effet Papillon) et déclenche une réponse systémique (Homéostasie) pour restaurer l'intégrité du produit multiplicatif.
