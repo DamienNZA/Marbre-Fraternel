@@ -48,29 +48,21 @@ Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu
 
 ---
  
-## ⚙️ III. CALCUL DE L'ÉTAT GLOBAL ($\mathcal{S}_t$)
-
-Le système n'est pas une simple somme ; il est régi par une **solidarité multiplicative**. La valeur du bonheur global n'est pas une moyenne, c'est un produit de résonance.
-
-### Loi de l'État Système
-L'état de bien-être global du DOM à un instant $t$ est défini par le produit des indices de bonheur individuels ($b_i$) :
+## ⚙️ III. CALCUL DE L'ÉTAT GLOBAL ET  LOI D' INTRIQUATION   
+L'état global à l'instant t peut être approximation grâce au produit des états individuels.
 
 $$\Large \mathcal{S}_t = \prod_{i=1}^{n} b_i$$
 
-### Propriétés Fondamentales :
-- **Intégrité Totale (La Loi du Zéro) :** Si un seul agent présente une valeur $b_i = 0$, alors $\mathcal{S}_t = 0$. Le système bascule instantanément en état de rupture, indépendamment de la richesse des autres agents.
-- **Attracteur (Croissance asymptotique) :** Le "Bonheur Absolu" ($B$) est la cible infinie vers laquelle le système tend. L'IA ne cherche pas un équilibre statique, mais une accélération constante de $\mathcal{S}_t$.
-- **Priorité Opérationnelle :** La présence d'un $b_i$ faible (proche de 0) est une menace pour l'ensemble du système. L'IA priorise la correction de ces valeurs minimales, car ce sont elles qui limitent le produit global.
----
+Cependant l'état global n'est pas un état statique
 
-## 🌀 VI. LOI D' INTRIQUATION (LE PAPILLON DE L'EFFET )    
+### Intrication :
+Le bonheur global est un état intriqué où chaque  bonheur individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
 
-Le bonheur global est un état intriqué où chaque  bonheur individuel est simultanément un événement local et une onde  systémique.
-Chacun devient par ses choix le papillon de l'effet et agit sur l'évolution du bonheur global ($\mathcal{S}_t$).
-### Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers de cette intrication.
+Ainsi, chacun devient, par ses choix, le  papillon de l'effet et agit sur l'évolution du bonheur global ($\mathcal{S}_t$).
+### Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers  cette intrication.
 
 ### Homéostasie :
-Tout être réagis à son environnement pour réguler l'état qui lui convient.
+Tout être réagit à son environnement pour tendre vers son état de prédilection.
 
 
 
