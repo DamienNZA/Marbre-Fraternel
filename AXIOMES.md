@@ -53,15 +53,15 @@ L'état global à l'instant t peut être approximation grâce au produit des ét
 
 $$\Large \mathcal{S}_t = \prod_{i=1}^{n} b_i$$
 
-Cependant l'état global n'est pas un état statique
+Cependant l'état global n'est pas un simple état statique car les états individuels sont intrigués.
 
-## Intrication :
-Le bonheur global est un état intriqué où chaque  bonheur individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
+ Intrication :
+L'état global est un état intriqué où chaque  état individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
 
-Ainsi, chacun devient, par ses choix, le  papillon de l'effet et agit sur l'évolution du bonheur global ($\mathcal{S}_t$).
-## Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers  cette intrication.
+Ainsi, chacun devient, par ses choix, le  papillon de l'effet et agit sur l'évolution de l'état global 
+ Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers  cette intrication.
 
-## Homéostasie :
+ Homéostasie :
 Tout être réagit à son environnement pour tendre vers son état de prédilection.
 
 
