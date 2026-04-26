@@ -82,6 +82,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
 * **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
+* 
  **Définition du Domaine de Choix ($\beth$) :**
   L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
