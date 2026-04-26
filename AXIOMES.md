@@ -25,11 +25,10 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
     
 * **Valorisation :  $1 >< \infty$:**
  
-* **Dévalorisation :(equiv \infty >< 0$$ $) :**
+* **Dévalorisation :$equiv \infty >< 0 $ :**
   
 
- ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
-
+ ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
 Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
 
 * **1. Dualité de l'Absolu ($\aleph$) :**
