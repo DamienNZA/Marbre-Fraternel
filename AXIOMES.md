@@ -25,7 +25,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
     
 * **Valorisation :  $1 >< \infty$:**
  
-* **Dévalorisation :$\infty >< 0 $:**
+* **Dévalorisation :$ \infty >< 0$:**
   
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
