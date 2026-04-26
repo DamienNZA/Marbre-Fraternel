@@ -32,6 +32,7 @@ C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<
 * **Dévalorisation : $\infty >< 0$:**
  
   Phénomène inverse de négation de la valeur infinie d'un être ou d'un principe fondamental.
+Source d'égoïsme quand la valeur tend vers 1 et de nihilité quand elle tend vers 0.  
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
 Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
