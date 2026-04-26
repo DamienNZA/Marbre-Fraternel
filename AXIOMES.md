@@ -82,7 +82,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
 * **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
-* 
+  
  **Définition du Domaine de Choix ($\beth$) :**
   L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
@@ -101,9 +101,9 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 ## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX
 
-Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
+Determiner si un choix es éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible afin de déterminer lequel est le plus proche de  et le plus éloigné de M ou à défaut celui qui n'aggrave rien.
+* **La Méthode de la Pesée :** 
 
 
 ## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
