@@ -83,9 +83,11 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 
 * **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
   
-* **4. Corrolaire : Combinaison des Choix :**
- $|\beth_{\infty}| = |\beth|^n$
+* **4. Corrolaire : Combinaison des Choix :
+ $|\beth_{\infty}| = |\beth|^n$ :**
 
+L'ensemble des possibilités de choix est une combinaison de tous les choix possibles indépendamment de leur effet sur l'état.
+La combinaison optimale sera déterminée par la pesée de chaque choix pour déterminer si il existe un chemin vertueux ( le plus proche de B)
 
 $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
