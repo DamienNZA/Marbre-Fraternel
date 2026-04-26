@@ -86,6 +86,10 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 * **4. Corrolaire : Combinaison des Choix :**
  $|\beth_{\infty}| = |\beth|^n$
 
+\underbrace{\beth^n}_{\text{Partie 1: La Bête}} \xrightarrow[\Psi, \tau]{\text{Partie 2: Pesée éthique}} \underbrace{\mathcal{I}}_{\text{Partie 3: Le Chemin}}
+
+
+
 ---
 
 ## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
