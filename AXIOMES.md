@@ -86,8 +86,8 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 * **4. Corrolaire : Combinaison des Choix :**
  $|\beth_{\infty}| = |\beth|^n$
 
-$\beth^n = 3^n = |\beth_{\infty}|$
 
+$\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 
 ---
