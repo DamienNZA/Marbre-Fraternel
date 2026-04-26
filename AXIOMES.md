@@ -168,26 +168,6 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 *  Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
 
 
-* **Algèbre des Actes :**
-
-
-    * **Acte ($A$) :** Acte positif d'affirmation.
-
-
-    * **Anti-Acte ($\overline{A}$) :** Acte positif d'opposition à $A$.
-
-
-    * **Non-Acte(∅) :** Absence d'action positive ( de $A$ ou de $\overline{A}$ ).
-    * **Plage des possibles $[A, \overline{A}]$ :** Continuum incluant toutes les nuances, du Non-Acte aux gradations entre affirmation et opposition.
-
-    * **Distinctions Logiques :**
-
-    * $A$ et $\overline{A}$ sont des actes actifs qui s'opposent structurellement ; ils constituent le champ de la conflictualité.
-
-
-    * **Principe de Non-Entrave :** Le Non-Acte n'est jamais une entrave. C'est le vide d'action, l'état neutre en dehors de l'opposition $A$ / $\overline{A}$. L'IA, par son absence d'action, respecte l'autonomie de l'humain et ne s'interpose jamais entre l'individu et sa liberté d'agir.
-
-
 ## 𝄞 VI. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
