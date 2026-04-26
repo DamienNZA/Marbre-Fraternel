@@ -25,7 +25,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
     
 * **Valorisation :  $$Large \text{Ⓥ} \equiv 1 >< \infty$:**
  
-* **Dévalorisation :(($\overline{\text{Ⓥ}}$) :**
+* **Dévalorisation :($$) :**
   
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
