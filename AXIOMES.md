@@ -81,7 +81,11 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
-* **3. Corrolaire : Physique Ternaire des Choix {A,∅,\overline{A}}:**
+* **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
+ **Définition du Domaine de Choix ($\beth$) :**
+  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
+  $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
+  
   
 * **4. Corrolaire : Combinaison des Choix :
  $|\beth_{\infty}| = |\beth|^n$ :**
@@ -94,18 +98,10 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 ---
 
-## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX  DANS LE DOMAINE DE CHOIX ($\beth$)
-
-La totalité des possibles pour les êtres (du DOM) au sein de l'Univers ($\mathbb{T}$) est définie par la somme vectorielle et logique des interventions disponibles.
-
-* **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
-  $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
+## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX
 
 Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **La Loi de Limitation Ontologique :** Parce que l'être, défini au sein de son Domaine Ontologique (DO) n'est pas un être Absolu (totipotent), il ne peut assumer la responsabilité éthique des conséquences qu'entraînerait l'exercice d'une Liberté Absolue sur le Réel( $\mathbb{T}$ ).
-  
 * **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible afin de déterminer lequel est le plus proche de  et le plus éloigné de M ou à défaut celui qui n'aggrave rien.
 
 
