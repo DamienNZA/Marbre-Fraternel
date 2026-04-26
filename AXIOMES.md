@@ -22,7 +22,11 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 * **Opérateur d'Intrication ($><$) :**
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
   * *Usage :* Structure les équations d'existence.
-
+    
+* **Valorisation :  $$Large \text{Ⓥ} \equiv 1 >< \infty$:**
+ 
+* **Dévalorisation :(($\overline{\text{Ⓥ}}$) :**
+  
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
 
