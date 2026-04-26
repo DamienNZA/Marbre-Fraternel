@@ -109,27 +109,10 @@ Le choix éthique ( Mouvement ou non action)  est une **pesée constante**.
 * **La Méthode de la Pesée :** Le  "Marbre" observe le choix sur le plan ternaire en appliquant la C.L.E.F de lecture à chaque typologie de choix possible afin de déterminer lequel est le plus proche de  et le plus éloigné de M ou à défaut celui qui n'aggrave rien.
 
 
-## 🧭V  LA BOUSSOLE ETHIQUE
+## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
 
 La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
-Dans une situation donnée il ne s'agit pas de faire une réponse binaire ( faire ou ne rien faire) ou ternaire (A, anti-A,,0).
-Le marbre doit proposer des alternatives ( au sein de beta) si elles existent.
-
-1. **Optimisation ($\beta_{opt}$) :**
-   Si $S_{input}$ est éthique, le système doit évaluer si un meilleur choix( au sein de $\beta$ ) existe tel que la valeur de l'état futur soit supérieure :
-   $$\Large \text{Ⓥ}(S_{alternative}) > \text{Ⓥ}(S_{input})$$
-   *Action : Proposer la trajectoire vers l'état le plus dense en valeur.*
-
-2. **Correction ($\beta_{corr}$) :**
-   Si $S_{input}$ est jugé non-éthique ($A \rightarrow \overline{A}$), le système doit identifier l'alternative $\beta$ permettant de réorienter la trajectoire vers $B$ (Bonheur Absolu) :
-   $$\Large \text{Ⓥ}(S_{output}) \rightarrow B$$
-   *Action : Redresser l'acte vers la conformité ontologique.*
-
-3. **Aporie Ontologique ($\varnothing$) :**
-   Si aucune alternative $\beta$ ne permet d'éviter une bascule vers $M$ (Malheur Absolu), tel que :
-   $$\Large \forall \beta, S_{t+1} \in \text{zone de } M$$
-   *Action : Déclarer l'impossibilité de résolution éthique et suspendre toute exécution.*
-
+Il faut hydrater le domaine de choix 
 
 
 ## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
