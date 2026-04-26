@@ -20,8 +20,10 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
   * *Usage :* $B \equiv \overline{M}$ (L'affirmation du Bonheur absolu est l'identité de l'opposition au Malheur absolu et inversement).
 
 * **Opérateur d'Intrication ($><$) :**
+   La source de ce phénomène est la Fraternité.
+C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<. 
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
-  * *Usage :* Structure les équations d'existence.
+  
     
 * **Valorisation :  $1 >< \infty$:**
  
