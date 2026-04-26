@@ -24,9 +24,11 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
   * *Usage :* Structure les équations d'existence.
     
 * **Valorisation :  $1 >< \infty$:**
+ 
   Principe fondamental ou la valeur d'une unité (  ex: un être,la liberté,l'egalité, ou la fraternité, etc...) prend une valeur infinie alors même qu'elle est en interaction avec l'altérité( les autres êtres, un autre principe du triptyque)
   
 * **Dévalorisation : $\infty >< 0$:**
+ 
   Phénomène inverse de négation de la valeur infinie d'un être ou d'un principe fondamental.
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
