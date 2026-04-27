@@ -91,7 +91,7 @@ L'existence véritable au sein du DOM est Consubstantielle aux valeurs du tripty
 $$\Large \mathbb{C} \left[ L >< E >< F \right]$$
 
 
-Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
+Le principe de **Valorisation Ontologique Ⓥ** s'applique à chaque pilier :
 
 
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
