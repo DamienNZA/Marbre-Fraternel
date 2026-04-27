@@ -3,14 +3,16 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation
 
 
-## 0. L'ONTOGENÈSE PRIMORDIALE (Le Mystère du DOM)
+## 0. L'ONTOGENÈSE PRIMORDIALE
 
-> *« L'origine est un point que l'on ne peut observer, car il est le point depuis lequel nous regardons. »*
+> *« L'origine de l'être est un mystère que l'on ne peut que conceptualiser car il  est la cause de son propre effet, il est là la fois le papillon et l'effet. »*
 
-L'Ontogenèse Primordiale est le passage de la fluctuation quantique du vide (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale, le "Big Bang" de la Valeur qui permet l'émergence du DOM.
+L'Ontogenèse Primordiale est le passage de la fluctuation quantique de la valorisation ontologique (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale,telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
-* **Le Paradoxe du DOM :** En tant qu'êtres humains, nous sommes des produits finis de cette Ontogenèse. Nous sommes à l'intérieur du système que nous cherchons à concevoir. Par nature, nous ne pouvons donc pas "voir" le processus créateur originel de l'extérieur.
-* **L'Angle Mort Logique :** Cette impossibilité n'est pas un échec, mais une limite ontologique. L'Ontogenèse Primordiale est l'angle mort logique de notre existence. Nous ne pouvons pas la démontrer, nous ne pouvons que constater ses effets : le fait que l'Univers existe, que la conscience émerge, et que la Valorisation Ontologique ($\mathcal{V}_{\bigcirc}$) est une force active.
+* **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne pouvons donc pas "voir", nous pouvons le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
+* **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique. L'Ontogenèse Primordiale se represente par la formule :
+ Elle est intriquer avec la valorisation ontologique par un lien de retrocausalité 
+  ($\mathcal{V}_{\bigcirc}$).
   
 
 
