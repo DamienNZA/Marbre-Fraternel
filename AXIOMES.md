@@ -104,7 +104,7 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Méthode de la Pesée :**
-* 
+  
 Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
   
 f(c) = E | E ∈ [0, ∞[
@@ -115,7 +115,7 @@ Sachant que l'état E à l'instant peut se déterminer par la multiplication des
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
 Un état individuel se determine en appliquant la C.L.E.F soit le produit:
-ei = LxE×F
+ei = LixEi×Fr
 
 ## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
 
@@ -204,16 +204,20 @@ Le principe de **Valeur Ontologique Ⓥ** s'applique à chaque pilier :
 
 
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
+Li : liberté reçue et ressentie que l'individu peut posséder individuellement.
+Cette liberté de pouvoir toute chose sur soit et limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
 
 
-2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
+3. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
+Ei: égalité reçue et ressentie que l'individu peut posséder individuellement. Elle est limitée par l'ontologie de l'être, les moyens et capacités dont il dispose  et l'application effectivement de la loi (droits)
 
+5. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
+Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'on la reçoivent ou qu'on la donne.
 
-3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
+**Loi de Non-Substitution :** La consubstantialité implique que chaque pilier a,une valeur irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
-
-**Loi de Non-Substitution :** La consubstantialité implique que chaque pilier est irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
-
+L'état individuel se determine par le produit:
+ei = Li x Ei x Fr
  
 ## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
