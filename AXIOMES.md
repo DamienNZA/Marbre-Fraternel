@@ -27,7 +27,7 @@ C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<
     
 * **Valorisation :  $1 >< \infty$:**
  
-  Principe fondamental ou la valeur d'une unité (  ex: un être,la liberté,l'egalité, ou la fraternité, etc...) prend une valeur infinie alors même qu'elle est en interaction avec l'altérité( les autres êtres, un autre principe du triptyque)
+  Principe fondamental ou la valeur d'un être ou de ses éléments consubstantiels( lui même, autrui,la liberté,l'egalité, fraternité c'est à dire la C.L.E.F) prend une valeur infinie alors même qu'elle est en interaction avec l'altérité( les autres êtres, un autre principe C.L.E.F)
   
 * **Dévalorisation : $\infty >< 0$:**
  
