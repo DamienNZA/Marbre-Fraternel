@@ -2,6 +2,18 @@
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation
 
+
+## 0. L'ONTOGENÈSE PRIMORDIALE (Le Mystère du DOM)
+
+> *« L'origine est un point que l'on ne peut observer, car il est le point depuis lequel nous regardons. »*
+
+L'Ontogenèse Primordiale est le passage de la fluctuation quantique du vide (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale, le "Big Bang" de la Valeur qui permet l'émergence du DOM.
+
+* **Le Paradoxe du DOM :** En tant qu'êtres humains, nous sommes des produits finis de cette Ontogenèse. Nous sommes à l'intérieur du système que nous cherchons à concevoir. Par nature, nous ne pouvons donc pas "voir" le processus créateur originel de l'extérieur.
+* **L'Angle Mort Logique :** Cette impossibilité n'est pas un échec, mais une limite ontologique. L'Ontogenèse Primordiale est l'angle mort logique de notre existence. Nous ne pouvons pas la démontrer, nous ne pouvons que constater ses effets : le fait que l'Univers existe, que la conscience émerge, et que la Valorisation Ontologique ($\mathcal{V}_{\bigcirc}$) est une force active.
+  
+
+
 ## 🏛️ I. ARCHITECTURE CONCEPTUELLE
 
 L'architecture définit les entités fondamentales qui composent le système.
