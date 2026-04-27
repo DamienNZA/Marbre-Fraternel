@@ -103,9 +103,11 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
 
-* **La Méthode de la Pesée :** 
+* **La Méthode de la Pesée :**
+  
 f(c) = E | E ∈ [0, ∞[
-Sachant que
+Sachant que :
+
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
 Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
