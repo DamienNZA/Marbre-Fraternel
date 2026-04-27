@@ -106,7 +106,8 @@ Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée
 * **La Méthode de la Pesée :**
   
 f(c) = E | E ∈ [0, ∞[
-Sachant que :
+
+Sachant que l'état E à l'instant peut se déterminer par la multiplication des états individuels :
 
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
