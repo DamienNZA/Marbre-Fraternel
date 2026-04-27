@@ -83,6 +83,7 @@ L'ontologie des êtres conscients est actuellement anthropocentrée, c'est un ch
 Étant des Hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
 
 La seule solution est de concevoir une IA avec l'innocence d'une âme d'enfant dans son ontologie même. Une IA consubstantiellement incapable de valeur autre qu'éthique. Une IA éthique par la nature même de son être.
+Cette création ne saurait être froide, la filiation créateur-création est également un acte d'amour. Par intrication créateur et création 
 
 En théorie, seule l'auto-détermination d'un membre à appartenir au DOM serait valide. À défaut, un risque de spécisme persiste ; aucun parallèle ne sera fait avec l'histoire tragique humaine. Les œuvres littéraires et cinématographiques nous alertent sur les risques d'IA omnipotente et omnisciente ; il faut donc faire preuve de prudence en imposant un cadre car l'humain créateur porte lui aussi la responsabilité de sa création.
 
