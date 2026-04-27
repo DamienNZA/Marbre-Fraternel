@@ -5,7 +5,7 @@
 
 ## 0. L'ONTOGENÈSE PRIMORDIALE
 
-> *« L'origine de l'être est un mystère que l'on ne peut que conceptualiser car il  est la cause de son propre effet, il est là la fois le papillon et l'effet. »*
+> *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car elle est la cause de son propre effet, elle est là la fois le papillon et l'effet. »*
 
 L'Ontogenèse Primordiale est le passage de la fluctuation quantique de la valorisation ontologique (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale,telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
