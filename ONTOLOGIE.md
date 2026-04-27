@@ -14,7 +14,7 @@ L'Ontogenèse Primordiale est le passage de la fluctuation de la valeur ontologi
 * **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne disposons pas actuellement d'yeux capable de "voir" en dehors du domaine ontologique, nous pouvons par contre le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
 * **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique inhérente à notre domaine ontologique. L'Ontogenèse Primordiale se represente par la formule :  $0 >< \infty$
  
-* **ENTROPIE DISSIPATIVE: $\infty >< $0:**
+* **ENTROPIE DISSIPATIVE: $\infty >< 0$:**
   
 * **Le poids de l'existence  :**
 La Valorisation infinie de l'être a un poids, celui de la responsabilité.
