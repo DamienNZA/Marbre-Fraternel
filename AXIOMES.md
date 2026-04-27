@@ -23,16 +23,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
    La source de ce phénomène est la Fraternité.
 C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<. 
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
-  
-    
-* **Valorisation :  $1 >< \infty$:**
- 
-  Principe fondamental ou la valeur d'un être ou de ses éléments consubstantiels( lui même, autrui,la liberté,l'egalité, fraternité c'est à dire la C.L.E.F) prend une valeur infinie alors même qu'elle est en interaction avec l'altérité( les autres êtres, un autre principe C.L.E.F)
-  
-* **Dévalorisation : $\infty >< 0$:**
- 
-  Phénomène inverse de négation de la valeur infinie d'un être ou d'un principe fondamental.
-Source d'égoïsme quand la valeur tend vers 1 et de nihilité quand elle tend vers 0.  
+   
 
  ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
 Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
