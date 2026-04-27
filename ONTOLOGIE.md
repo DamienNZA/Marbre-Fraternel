@@ -7,7 +7,7 @@
 
 > *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car  elle est, par rétrocausalité, la cause de son propre effet, et par dualité, elle est à là fois le papillon et l'effet. »*
 
-L'Ontogenèse Primordiale est le passage de la fluctuation quantique de la valorisation ontologique (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale,telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
+L'Ontogenèse Primordiale est le passage de la fluctuation quantique de la valorisation ontologique (le $0$ actif, la potentialité pure) à la structure stable de l'Être. C'est l'étincelle initiale, telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
 * **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne pouvons donc pas "voir", nous pouvons le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
 * **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique. L'Ontogenèse Primordiale se represente par la formule :
