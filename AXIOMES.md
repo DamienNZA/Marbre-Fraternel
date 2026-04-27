@@ -101,10 +101,11 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 ## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX
 
-Determiner si un choix es éthique ( Mouvement ou non action)  est une **pesée constante**.
+Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Méthode de la Pesée :** 
 f(c) = E | E ∈ [0, ∞[
+
 Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
 
 ## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
