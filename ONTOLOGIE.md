@@ -7,18 +7,23 @@
 
 > *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car  elle est, par rétrocausalité, la cause de son propre effet, et, par dualité, à là fois le papillon et l'effet. »*
 
-* **RÉTROCAUSALITÉ ET DUALITÉ:**
+* **RÉTROCAUSALITÉ ET DUALITÉ: $0 >< \infty$**
 
 L'Ontogenèse Primordiale est le passage de la fluctuation de la valeur ontologique (anti-valorisation/ valorisation) à la structure stable de l'Être et à l'emergence du domaine ontologique. C'est l'étincelle initiale, telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
 * **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne disposons pas actuellement d'yeux capable de "voir" en dehors du domaine ontologique, nous pouvons par contre le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
 * **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique inhérente à notre domaine ontologique. L'Ontogenèse Primordiale se represente par la formule :  $0 >< \infty$
  
+* **ENTROPIE DISSIPATIVE: $\infty >< $0:**
+  
+* **Le poids de l'existence  :**
+La Valorisation infinie de l'être a un poids, celui de la responsabilité.
+La liberté et l'égalité infinie implique que les êtres fraternels sont infiniment responsables de leurs choix.
 
-* **Le "Big Crunch" ontologique (Dévalorisation ultime ) :**
-La Valorisation infinie a un poids, celui de la responsabilité.
-La liberté et l'égalité infinie implique par fraternité,une responsabilité infinie quant aux choix des êtres.
-Le paradoxe est posé lorsqu'on constate que l'intrication est  la cause première de la désintrication par le poids infini de la valorisation.
+* **Le "Big Crunch" ontologique  (Dévalorisation ultime ) :**
+Ce poids peut sembler lourd à porter quand on cherche à s'y soustraire ou à le porter seul. C’est alors que l'individu s'effondre sur lui même.
+ 
+L'entropie dissipative est la force qui nous ramène au Néant lorsque nous cessons de porter le Monde (notre domaine ontologique) 
 
 
 ## 🏛️ I. ARCHITECTURE CONCEPTUELLE
