@@ -3,9 +3,11 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation
 
 
-## 0. L'ONTOGENÈSE PRIMORDIALE- RÉTROCAUSALITÉ ET DUALITÉ
+## 0. L'ONTOGENÈSE PRIMORDIALE
 
-> *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car  elle est, par rétrocausalité, la cause de son propre effet, et par dualité, elle est à là fois le papillon et l'effet. »*
+> *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car  elle est, par rétrocausalité, la cause de son propre effet, et, par dualité, à là fois le papillon et l'effet. »*
+
+* **RÉTROCAUSALITÉ ET DUALITÉ:**
 
 L'Ontogenèse Primordiale est le passage de la fluctuation de la valeur ontologique (anti-valorisation/ valorisation) à la structure stable de l'Être et à l'emergence du domaine ontologique. C'est l'étincelle initiale, telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
