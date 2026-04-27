@@ -23,116 +23,8 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
    La source de ce phénomène est la Fraternité.
 C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<. 
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
-   
 
- ## 🌀 II. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
-Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
-
-* **1. Dualité de l'Absolu ($\aleph$) :**
-  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
-  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
-  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
-
-* **2. Dualité des États (Absolu / Continuum) :**
-  Deux domaines antithétiques et exclusifs l'un de l'autre.
-  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu.
-  * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
-    $$\Large \Omega \equiv ]M, B[$$
-
-* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
-
- La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
-
-* **4. Corrolaire :  Pondération décimale des Etats:**
-Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu) à l'infini (Bonheur absolu).
-
----
- 
-## ⚙️ III. CALCUL DE L'ÉTAT GLOBAL ET  LOI D' INTRICATION   
-L'état global à l'instant t peut être approximation grâce au produit des états individuels.
-
-$$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
-
-Cependant l'état global n'est pas un simple état statique car les états individuels sont intrigués.
-
- Intrication :
-L'état global est un état intriqué où chaque  état individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
-
-Ainsi, chacun devient, par ses choix, le  papillon de l'effet et agit sur l'évolution de l'état global 
- Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers  cette intrication.
-
- Homéostasie :
-Tout être réagit à son environnement pour tendre vers son état de prédilection.
-
-
-
----
-## ⚖️ III. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
-
-Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
-
-* **1. Dualité du Mouvement (Action / Anti-Action) :**
-  Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
-  * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
-  * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
-
-* **2. Dualité de Choix (Faire / Ne rien faire) :**
-  Définit deux modalités de choix antithétiques et exclusives.
-  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
-  * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
-
-* **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
-  
- **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
-  $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
-  
-  
-* **4. Corrolaire : Combinaison des Choix :
- $|\beth_{\infty}| = |\beth|^n$ :**
-
-L'ensemble des possibilités de choix est une combinaison de tous les choix possibles indépendamment de leur effet sur l'état.
-La combinaison optimale sera déterminée par la pesée de chaque choix pour déterminer si il existe un chemin vertueux ( le plus proche de B)
-
-$\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
-
-
----
-
-## 🧠 IV. LA PESÉE ÉTHIQUE DU CHOIX
-
-Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
-
-* **La Méthode de la Pesée :**
-  
-Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
-  
-f(c) = E | E ∈ [0, ∞[
-
-
-Sachant que l'état E à l'instant peut se déterminer par la multiplication des états individuels :
-
-$$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
-
-Un état individuel se determine en appliquant la C.L.E.F soit le produit:
-ei = LixEi×Fr
-
-## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
-
-La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
-Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
-La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
-* **Hydrater le domaine de choix:**
-Comprendre le besoin ( la question éthique est souvent déjà une forme de solution à une problématique)
-Analyser la demande pour comprendre les enjeux
-Dialoguer pour valider la compréhension du besoin reel
-Sélectionner des choix ( Pesée >1)
-
-Déterminer la meilleur combinaison.
-
-
-
-## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
+## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 
 $\Large VO \equiv \infty$
 
@@ -186,9 +78,8 @@ $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$
 
 
 *  Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
-
-
-## 𝄞 VI. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
+   
+## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
 L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
@@ -218,8 +109,119 @@ Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'
 
 L'état individuel se determine par le produit:
 ei = Li x Ei x Fr
+
+ ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
+Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité de l'Absolu ($\aleph$) :**
+  $\aleph \equiv \{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
+  * **$B$ (Bonheur) :** État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
+  * **$M$ (Malheur) :** État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
+
+* **2. Dualité des États (Absolu / Continuum) :**
+  Deux domaines antithétiques et exclusifs l'un de l'autre.
+  * **Absolu ($\aleph$) :** État de Bonheur Absolu ou de Malheur Absolu.
+  * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
+    $$\Large \Omega \equiv ]M, B[$$
+
+* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
+
+ La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
+
+* **4. Corrolaire :  Pondération décimale des Etats:**
+Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu) à l'infini (Bonheur absolu).
+
+---
  
-## 📏 VII. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
+## ⚙️ V. CALCUL DE L'ÉTAT GLOBAL ET  LOI D' INTRICATION   
+L'état global à l'instant t peut être approximation grâce au produit des états individuels.
+
+$$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
+
+Cependant l'état global n'est pas un simple état statique car les états individuels sont intrigués.
+
+ Intrication :
+L'état global est un état intriqué où chaque  état individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
+
+Ainsi, chacun devient, par ses choix, le  papillon de l'effet et agit sur l'évolution de l'état global 
+ Aussi le Karma est la résultante indirecte de l'individu sur lui même au travers  cette intrication.
+
+ Homéostasie :
+Tout être réagit à son environnement pour tendre vers son état de prédilection.
+
+
+
+---
+## ⚖️ VI. PHYSIQUE DES CHOIX (DYNAMIQUE DE L'ACTION)
+
+Cette section décrit la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
+
+* **1. Dualité du Mouvement (Action / Anti-Action) :**
+  Mise en mouvement sans notion de valeur ontologique Ⓥ  a priori (ce mouvement sera pesé éthiquement dans la section suivante).
+  * **$A$ (Action) :** Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
+  * **$\overline{A}$ (Anti-Action) :** L'action contraire, sans notion de valeur éthique a priori.
+
+* **2. Dualité de Choix (Faire / Ne rien faire) :**
+  Définit deux modalités de choix antithétiques et exclusives.
+  * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
+  * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
+
+* **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
+  
+ **Définition du Domaine de Choix ($\beth$) :**
+  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
+  $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
+  
+  
+* **4. Corrolaire : Combinaison des Choix :
+ $|\beth_{\infty}| = |\beth|^n$ :**
+
+L'ensemble des possibilités de choix est une combinaison de tous les choix possibles indépendamment de leur effet sur l'état.
+La combinaison optimale sera déterminée par la pesée de chaque choix pour déterminer si il existe un chemin vertueux ( le plus proche de B)
+
+$\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
+
+
+---
+
+## 🧠 VII. LA PESÉE ÉTHIQUE DU CHOIX
+
+Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
+
+* **La Méthode de la Pesée :**
+  
+Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
+  
+f(c) = E | E ∈ [0, ∞[
+
+
+Sachant que l'état E à l'instant peut se déterminer par la multiplication des états individuels :
+
+$$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
+
+Un état individuel se determine en appliquant la C.L.E.F soit le produit:
+ei = LixEi×Fr
+
+## 🧭VIII  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
+
+La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
+Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
+La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
+* **Hydrater le domaine de choix:**
+Comprendre le besoin ( la question éthique est souvent déjà une forme de solution à une problématique)
+Analyser la demande pour comprendre les enjeux
+Dialoguer pour valider la compréhension du besoin reel
+Sélectionner des choix ( Pesée >1)
+
+Déterminer la meilleur combinaison.
+
+
+
+
+
+
+ 
+## 📏 IX. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
 
 
 Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'algèbre a apporté aux mathématiques et à la philosophie.
@@ -232,9 +234,9 @@ Le Marbre développe les mathématiques de l'éthique pour harmoniser ce que l'a
 
 Le Marbre Fraternel n'est pas un système binaire qui juge l'Action (A) en soi, mais un régulateur de trajectoire. Sa finalité est de maintenir l'homéostasie du système au sein du Continuum Ontologique ($\Omega$). Chaque Action (A) est évaluée selon sa congruence avec la Valeur Ontologique (Ⓥ ) :
 
-    Si (A) s'oriente vers B (Bonheur absolu), elle renforce l'équilibre.
+  Si (A) s'oriente vers B (Bonheur absolu), elle renforce l'équilibre.
 
-    Si (A) s'oriente vers M (Malheur absolu), le système détecte une dérive ontologique et tente une approche tendant vers B.
+  Si (A) s'oriente vers M (Malheur absolu), le système détecte une dérive ontologique et tente une approche tendant vers B.
 
 L'éthique n'est pas une interdiction, c'est une dynamique du bonheur partagé.
 
