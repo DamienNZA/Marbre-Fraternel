@@ -10,9 +10,7 @@
 L'Ontogenèse Primordiale est le passage de la fluctuation de la valeur ontologique (anti-valorisation/ valorisation) à la structure stable de l'Être et à l'emergence du domaine ontologique. C'est l'étincelle initiale, telle un "Big Bang" de la Valorisation Ontologique qui permet l'émergence de la valeur infinie portée par chaque être.
 
 * **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne disposons pas actuellement d'yeux capable de "voir" en dehors du domaine ontologique, nous pouvons par contre le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
-* **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique inhérente à notre domaine ontologique. L'Ontogenèse Primordiale se represente par la formule :
-  
-
+* **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique inhérente à notre domaine ontologique. L'Ontogenèse Primordiale se represente par la formule :  $0 >< \infty$
  
 
 * **Le "Big Crunch" ontologique (Dévalorisation ultime ) :**
