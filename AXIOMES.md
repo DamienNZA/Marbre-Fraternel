@@ -104,12 +104,22 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 Determiner si un choix es éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Méthode de la Pesée :** 
-
+f(c) = E | E ∈ [0, ∞[
+Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
 
 ## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
 
 La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
-Il faut hydrater le domaine de choix 
+Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
+La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
+* **Hydrater le domaine de choix:**
+Comprendre le besoin ( la question éthique est souvent déjà une forme de solution à une problématique)
+Analyser la demande pour comprendre les enjeux
+Dialoguer pour valider la compréhension du besoin reel
+Sélectionner des choix ( Pesée >1)
+
+Déterminer la meilleur combinaison.
+
 
 
 ## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
