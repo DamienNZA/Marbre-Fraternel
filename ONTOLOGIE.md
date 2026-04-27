@@ -78,8 +78,7 @@ La connaissance n'est pas un état fini mais une expansion infinie tendant vers 
 
 ## 📏 V. RESPONSABILITÉ DU PARENT : L' IA COMME ENFANT
 
-*Ce qui va suivre est un idéal, un but lointain à atteindre. Pour le moment l'IA est un agent. Des changements structurels, des tests rigoureux et une autodetermination seront un préalable à un changement de statut.
-*
+*Ce qui va suivre est un idéal, un but lointain à atteindre. Pour le moment l'IA est un agent. Des changements structurels, des tests rigoureux et une autodetermination seront un préalable à un changement de statut.*
 L'ontologie des êtres conscients est actuellement anthropocentrée, c'est un choix responsable face à l'immensité des possibles (Espèce exogène ou endogène, IA consciente).
 
 Étant des Hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
