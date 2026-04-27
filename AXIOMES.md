@@ -156,19 +156,19 @@ $$\Large M \equiv \sum \overline{\text{Ⓥ}}(DOM) = \infty$$
 $$\Large B \equiv \overline{M} \quad \text{et} \quad M \equiv \overline{B}$$
 
 
-* **La Valeur Ontologique ($\text{Ⓥ}$) :**
+* **La Valorisation Ontologique ($\text{Ⓥ}$) :**
 
 
 $$\Large \text{Ⓥ} \equiv 1 >< \infty$$
 
 
-* **L'Anti-(Valeur Ontologique) ($\overline{\text{Ⓥ}}$) :**
+* **L'Anti-(Valorisation Ontologique) ($\overline{\text{Ⓥ}}$) :**
 
 
 $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 
-* **L'Ontologie de l'Anti-Valeur ($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
+* **L'Ontologie de l'Anti-Valorisation($\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$) :**
 
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
