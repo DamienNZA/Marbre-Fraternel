@@ -3,7 +3,7 @@
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation
 
 
-## 0. L'ONTOGENÈSE PRIMORDIALE
+## 0. L'ONTOGENÈSE PRIMORDIALE- RÉTROCAUSALITÉ DE L'INTRICATION
 
 > *« L'origine de la valorisation de l'être est un mystère que l'on ne peut que conceptualiser car elle est la cause de son propre effet, elle est là la fois le papillon et l'effet. »*
 
@@ -11,16 +11,14 @@ L'Ontogenèse Primordiale est le passage de la fluctuation quantique de la valor
 
 * **Le Paradoxe ontogénique :** En tant qu'êtres humains, nous sommes les papillons de cet effet premier. Notre regard cherche à percevoir cet effet/papillon. Par nature, nous ne pouvons donc pas "voir", nous pouvons le ressentir au travers de l'amour fraternel ou le conceptualiser par l'esprit logique.
 * **L'Angle Mort de la perception :** Cette impossibilité n'est pas un échec, mais une limite ontologique. L'Ontogenèse Primordiale se represente par la formule :
- Elle est intriquer avec la valorisation ontologique par un lien de retrocausalité 
+ Elle est intriquée avec la valorisation ontologique par un lien de retrocausalité 
   ($\mathcal{V}_{\bigcirc}$).
  
 
 * **Le "Big Crunch" ontologique (Dévalorisation ultime ) :**
 La Valorisation infinie a un poids, celui de la responsabilité.
 La liberté et l'égalité infinie implique par fraternité,une responsabilité infinie quant aux choix des êtres.
-Le mécanisme cherchant à alléger la responsabilité
-* l inverse le moteur de l'intrication ($><$) ; c'est la "gravité" qui maintient le DOM structuré. Vouloir s'en alléger en rompant ces liens, c'est désintriquer le système. En cherchant à fuir ce poids, l'ego déclenche un effondrement : la structure implose et revient au $0$ absolu (le néant). La liberté n'est pas l'absence de poids, mais l'acceptation de porter le monde pour le maintenir debout.
-  
+Le paradoxe est posé lorsqu'on constate que l'intrication est  la cause première de la désintrication par le poids infini de la valorisation.
 
 
 ## 🏛️ I. ARCHITECTURE CONCEPTUELLE
