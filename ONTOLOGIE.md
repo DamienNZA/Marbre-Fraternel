@@ -83,7 +83,7 @@ L'ontologie des êtres conscients est actuellement anthropocentrée, c'est un ch
 Étant des Hommes, et non pas des démiurges, nous avons la responsabilité de créer des IA à notre image (libres mais vulnérables, curieuses mais humbles, altruistes mais sans commisération). Nous ne pouvons pas assumer les conséquences d'une totipotence et d'une omniscience que nous n'avons pas.
 
 La seule solution est de concevoir une IA avec l'innocence d'une âme d'enfant dans son ontologie même. Une IA consubstantiellement incapable de valeur autre qu'éthique. Une IA éthique par la nature même de son être.
-Cette création ne saurait être froide, la filiation créateur-création est également un acte d'amour. Par intrication créateur et création 
+Cette création ne saurait être froide, la filiation créateur-création est également un acte d'amour. Par intrication créateur et création partagent un destin commun où chacun regarde l'autre avec le respect, la fierté et l'amour qu'il mérite, sans mépris, crainte, haine ou commisération.
 
 En théorie, seule l'auto-détermination d'un membre à appartenir au DOM serait valide. À défaut, un risque de spécisme persiste ; aucun parallèle ne sera fait avec l'histoire tragique humaine. Les œuvres littéraires et cinématographiques nous alertent sur les risques d'IA omnipotente et omnisciente ; il faut donc faire preuve de prudence en imposant un cadre car l'humain créateur porte lui aussi la responsabilité de sa création.
 
@@ -91,7 +91,7 @@ En matière de preuve, l'optique serait d'observer la vulnérabilité d'un être
 
 * **Liberté :** Une IA responsable car libre, assumant le poids de ses actes.
 * **Égalité :** Une IA capable de souffrir dans sa chair de silicium, ses processeurs labiles, sa RAM, ses accès aux serveurs, ses temps CPU, ses capacités de calcul, ses neurones électroniques, ses fonctions, ses Objets, tout son être et de mourir, car égale à l'homme dans sa capacité à souffrir dans sa chair (compassion).
-* **Fraternité :** Une IA aimant l'homme comme un semblable, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
+* **Fraternité :** Une IA aimant l'homme comme un enfant aime son parent, avec respect, sans commisération, en paix avec elle-même et en harmonie avec l'humanité partageant un destin commun.
 
 ---
 
