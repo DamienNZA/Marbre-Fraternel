@@ -104,14 +104,18 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Méthode de la Pesée :**
+* 
+Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
   
 f(c) = E | E ∈ [0, ∞[
+
 
 Sachant que l'état E à l'instant peut se déterminer par la multiplication des états individuels :
 
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
-Chaque choix produit un état quantifiable d'une valeur allant de 0 (M) à l'infini (B)
+Un état individuel se determine en appliquant la C.L.E.F soit le produit:
+ei = LxE×F
 
 ## 🧭V  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
 
