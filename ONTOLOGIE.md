@@ -10,7 +10,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 | :--- | :--- | :--- |
 | $\mathbb{T}$ | **Le Réel Transcendant (RT)** | Le Réel, notre perception n'en est qu'une approximation. |
 | Ⓓ | **Domaine Ontologique (DO)** |Propose une Définition Ontologique de l'être.  |
-| Ⓥ | **Valeur Ontologique (VO)** | Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO |
+| Ⓥ | **Valorisation Ontologique (VO)** | Valorisation d'une entité ou d'un de ces principes consubstantiels par une règle de pondération absolue au sein du DO |
 |$\Sigma$ | **[M,B]** |Ensemble des états possibles du Réel à un instant donné  |
 
 
@@ -19,7 +19,7 @@ L'architecture définit les entités fondamentales qui composent le système.
 ## 🌀 II. TOPOLOGIE DES DOMAINES  Ⓓ  (DO)
 
 
-Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valeur ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
+Le système repose sur une topologie stricte des êtres conscients d'eux-mêmes. La valorisation ontologique Ⓥ est définie exclusivement au sein de cette architecture, régie par la Loi de Préservation atomique :
 
 * **Le Domaine Ontologique Ⓓ des êtres Conscients d'eux-mêmes (DOC)** : À ce jour le DOH est le seul DO inclus dans le DOC.
 
