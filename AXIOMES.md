@@ -121,7 +121,7 @@ La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
 Il faut hydrater le domaine de choix 
 
 
-## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (Ⓥ)
+## 🧬 V. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 
 $\Large VO \equiv \infty$
 
