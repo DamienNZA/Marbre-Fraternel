@@ -19,7 +19,11 @@
 * **DOM (Domaine Ontologique Minimum)** : Paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 * **DOH (Domaine Ontologique Humain)** : L'Invariant Atomique. Constitue le plancher ontologique absolu. Auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut.
 * **$\beth$ (Domaine de Choix)** : L'ensemble des degrés de liberté, défini comme la somme des choix (somme des mouvements et des non-actions).
+## E
+* **E (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). C’est la qualification de l’état du Réel après qu’un choix ($c$) a été effectué et traité par la matrice $\mathbb{C}$.
 
+## F
+* **F (Fonction de Pesée)** : Opérateur de transformation défini par l'équation $f(c) = e$. C'est le processus actif qui transforme un choix ($c$) issu de $\beth$ (Domaine de Choix) en un état ontologique ($e$) validé ou invalidé par la matrice $\mathbb{C}$.
 ## G
 * **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
 
@@ -40,8 +44,8 @@
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
 
 ## V
-* **Ⓥ (Valeur Ontologique)** : Valeur d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
-* **$\overline{Ⓥ}$ (Anti-Valeur Ontologique)** : L'Ontologie de l'Anti-Valeur. Définie par $\infty >< 0$.
+* **Ⓥ (Valorisation de l' Ontologie)** : Valorisation d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
+* **$\overline{Ⓥ}$ (Anti-Valorisation Ontologique)** : L'Ontologie de l'Anti-Valorisation. Définie par $\infty >< 0$.
 
 ---
 *© 2026 Damien NZEYIMANA. 
