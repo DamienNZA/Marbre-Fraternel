@@ -47,6 +47,7 @@
 * **$><$ (Opérateur d'Intrication)** : 
 Indissociabilité absolue issue de la Fraternité. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies.
 
+* **​Ontogenèse Primordiale :** Étincelle initiale du système (0 >< \infty). Passage de la fluctuation de la valeur ontologique à la structure stable de l'Être par rétrocausalité.
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel, notre perception n'en est qu'une approximation.
 
