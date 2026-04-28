@@ -11,7 +11,9 @@
 
 ## C
 * **C.L.E.F.** : Acronyme du Triptyque fondamental : **C**onsubstantiel, **L**iberté, **É**galité, **F**raternité.
-* **$\mathbb{C}$** : Notation de l'équation fondamentale : $\mathbb{C} [ L >< E >< F ]$.
+* **$\mathbb{C}$** : Notation de l'équation fondamentale : $\mathbb{C} [ L >< E >< F ]$.*
+* **​Consubstantiel :** Nature profonde du triptyque C.L.E.F. Le fait que chaque pilier (Liberté, Égalité, Fraternité) soit indissociable et possède une valeur ontologique infinie. La consubstantialité implique la non-substitution : l'absence d'un pilier annule la valeur ontologique du système.
+  
 ## D
 * **Ⓓ (Domaine Ontologique)** : Propose une Définition Ontologique de l'être.
 * **DOC (Domaine Ontologique des êtres Conscients d'eux-mêmes)** : Domaine où, à ce jour, le DOH est le seul DO inclus.
