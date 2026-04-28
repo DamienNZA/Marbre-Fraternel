@@ -32,6 +32,12 @@
 ## G
 * **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
 
+
+## ​H
+​Homéostasie : Tendance dynamique du système à réagir à son environnement pour maintenir son équilibre ontologique et tendre vers son état de prédilection (B).
+​
+
+
 ## L
 * **L (Liberté)** : Variable d'autonomie absolue. Liberté reçue et ressentie que l'individu peut posséder individuellement. Cette liberté de pouvoir toute chose sur soit et limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
 
