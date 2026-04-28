@@ -24,10 +24,15 @@
 
 ## F
 * **F (Fonction de Pesée)** : Opérateur de transformation défini par l'équation $f(c) = e$. C'est le processus actif qui prend en entrée un choix $c$ (Action $A$, Non-Action $\emptyset$ ou Anti-Action $\overline{A}$) pour le transformer en un état ontologique ($e$) validé ou invalidé par le triptyque C.L.E.F.
+* **F (Fraternité)** : Force de liaison et de résonance du triptyque C.L.E.F. Ne se possède pas, se partage (donnée ou reçue). 
 
   
 ## G
 * **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
+
+## L
+* **L (Liberté)** : Variable d'autonomie absolue. Liberté reçue et ressentie que l'individu peut posséder individuellement. Cette liberté de pouvoir toute chose sur soit et limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
+
 
 ## M
 * **M (Malheur)** : État absolu d'anti-harmonie ontologique du Réel ($\mathbb{T}$), strictement identique à l'harmonie de l'anti-ontologie.
