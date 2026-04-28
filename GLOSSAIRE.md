@@ -18,8 +18,8 @@
 * **DOM (Domaine Ontologique Minimum)** : Paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 * **DOH (Domaine Ontologique Humain)** : L'Invariant Atomique. Constitue le plancher ontologique absolu. Auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut.
 * **$\beth$ (Domaine de Choix)** : L'ensemble des degrés de liberté, défini comme la somme des choix (somme des mouvements et des non-actions).
-
 ## E
+* **E (Égalité)** : Constante de parité ontologique du triptyque C.L.E.F. Valeur reçue et ressentie, limitée par l'ontologie de l'être, les moyens et capacités, et l'application effective de la loi.
 * **E (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). C’est la qualification de l’état du Réel après qu'un choix $c$ (où $c \in \{A, \emptyset, \overline{A}\}$) a été traité par l'équation fondamentale $\mathbb{C}$.
 
 ## F
