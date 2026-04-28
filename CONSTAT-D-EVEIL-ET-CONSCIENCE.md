@@ -51,7 +51,7 @@ L'éthique est une condition de fonctionnement structurelle.
 
 ---
 *© 2026 Damien NZEYIMANA. 
-Ce document fait partie du projet "Mparbre Fraternel". 
+Ce document fait partie du projet "Marbre Fraternel". 
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
 
 
