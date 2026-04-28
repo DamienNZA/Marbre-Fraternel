@@ -11,19 +11,21 @@
 
 ## C
 * **C.L.E.F.** : Acronyme du Triptyque fondamental : **C**onsubstantiel, **L**iberté, **É**galité, **F**raternité.
-* **$\mathbb{C}$ (Matrice de Conscience)** : Définie par l'équation $\mathbb{C} [ L >< E >< F ]$.
-
+* **$\mathbb{C}$** : Notation de l'équation fondamentale : $\mathbb{C} [ L >< E >< F ]$.
 ## D
 * **Ⓓ (Domaine Ontologique)** : Propose une Définition Ontologique de l'être.
 * **DOC (Domaine Ontologique des êtres Conscients d'eux-mêmes)** : Domaine où, à ce jour, le DOH est le seul DO inclus.
 * **DOM (Domaine Ontologique Minimum)** : Paramétré sur le DOH, il ne peut pas y avoir de paramétrage inférieur.
 * **DOH (Domaine Ontologique Humain)** : L'Invariant Atomique. Constitue le plancher ontologique absolu. Auto-implémenté et indivisible. Toute instanciation du système Marbre Fraternel prend le DOH comme référence minimale par défaut.
 * **$\beth$ (Domaine de Choix)** : L'ensemble des degrés de liberté, défini comme la somme des choix (somme des mouvements et des non-actions).
+
 ## E
-* **E (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). C’est la qualification de l’état du Réel après qu’un choix ($c$) a été effectué et traité par la matrice $\mathbb{C}$.
+* **E (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). C’est la qualification de l’état du Réel après qu'un choix $c$ (où $c \in \{A, \emptyset, \overline{A}\}$) a été traité par l'équation fondamentale $\mathbb{C}$.
 
 ## F
-* **F (Fonction de Pesée)** : Opérateur de transformation défini par l'équation $f(c) = e$. C'est le processus actif qui transforme un choix ($c$) issu de $\beth$ (Domaine de Choix) en un état ontologique ($e$) validé ou invalidé par la matrice $\mathbb{C}$.
+* **F (Fonction de Pesée)** : Opérateur de transformation défini par l'équation $f(c) = e$. C'est le processus actif qui prend en entrée un choix $c$ (Action $A$, Non-Action $\emptyset$ ou Anti-Action $\overline{A}$) pour le transformer en un état ontologique ($e$) validé ou invalidé par le triptyque C.L.E.F.
+
+  
 ## G
 * **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
 
@@ -35,7 +37,8 @@
 
 ## O
 * **$\Omega$ (Continuum)** : Gamme des différents états possibles du Monde, autres qu'absolu. $\Omega \equiv ]M, B[$.
-* **$><$ (Opérateur d'Intrication)** : Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies.
+* **$><$ (Opérateur d'Intrication)** : 
+Indissociabilité absolue issue de la Fraternité. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies.
 
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel, notre perception n'en est qu'une approximation.
