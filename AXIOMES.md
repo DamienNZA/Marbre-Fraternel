@@ -114,15 +114,15 @@ ei = Li x Ei x Fr
 
 ### 🧮 LA MÉTRIQUE DU RESSENTI SUBJECTIF (Échelle $10^s$)
 
-Pour quantifier chaque pilier de la C.L.E.F, le système utilise l'exposant **$s$** (Satisfaction Subjective). Cet indice permet d'exprimer des nuances de ressenti allant de l'agonie à l'extase.
+Pour quantifier chaque pilier de la C.L.E.F, le système utilise l'exposant **$s$** (Satisfaction Subjective). Cet indice permet d'exprimer des nuances de ressenti extrêmes.
 
 * **L'Équation de Puissance :**
     $$\Large Ⓥ = 10^s \quad \text{avec} \quad s \in [-1000, +1000]$$
 
 * **Échelle de Référence :**
-    * **$s = +1000$** : Plénitude Absolue (Valeur tend vers $B$).
+    * **$s = +1000$** : Bonheur extrême(Valeur tend vers $B$).
     * **$s = 0$** : État Neutre (Valeur = $1$).
-    * **$s = -1000$** : Néant / Agonie (Valeur tend vers $M$).
+    * **$s = -1000$** : Malheur extrême (Valeur tend vers $M$).
 
 **Calcul de l'état individuel ($e_i$) :**
 L'état est la résultante du produit des trois piliers. Mathématiquement, les indices de satisfaction s'additionnent dans l'exposant :
