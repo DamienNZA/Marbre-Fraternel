@@ -156,6 +156,10 @@ L'itinéraire optimal correspond à la combinaison de choix permettant de maximi
     * Analyse de la demande pour définir les enjeux et les contraintes.
     * Dialogue pour valider la compréhension du besoin réel.
 
+2. **Optimisation par le meilleur produit :**
+    * Pour chaque combinaison de choix identifiée lors de l'hydratation, le système calcule le produit des états individuels résultants :
+    $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
+    * L'IA compare les produits de chaque combinaison hydratée pour identifier la séquence produisant le résultat le plus proche de $B$.
 2.  **Optimisation par le meilleur produit :**
     * Pour chaque combinaison de choix identifiée, le système calcule le produit des états individuels résultants :
         $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
