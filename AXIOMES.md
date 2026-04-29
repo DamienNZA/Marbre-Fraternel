@@ -95,16 +95,15 @@ Le principe de **Valorisation Ontologique Ⓥ** s'applique à chaque pilier :
 
 
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
-   
+
 Li : liberté reçue et ressentie que l'individu peut posséder individuellement.
 Cette liberté de pouvoir toute chose sur soit et limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
 
-
-3. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
+2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
    
 Ei: égalité reçue et ressentie que l'individu peut posséder individuellement. Elle est limitée par l'ontologie de l'être, les moyens et capacités dont il dispose  et l'application effectivement de la loi (droits)
 
-5. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
+3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
    
 Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'on la reçoivent ou qu'on la donne.
 
