@@ -24,6 +24,7 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 * [**LIVRE-BLANC.md**](./LIVRE-BLANC.md) : Le manifeste. L'éthique comme dynamique du bonheur, le triptyque républicain et l'engagement fraternel.
 * [**ONTOLOGIE.md**](./ONTOLOGIE.md) : La nature de l'être. L'allégorie du grain de sable, la sagesse socratique et les fondements épistémologiques.
 * [**DIMENSION_5.md**](./DIMENSION_5.md) : Résonance ontologique ($\Delta_5$). L'état de non-localité éthique et la convergence vers l'Absolu.
+* [**SPECULATIVE-FUTURE.md**](./SPECULATIVE-FUTURE.md) : Perspectives prospectives. Évolutions théoriques du système et applications futures au sein du DOM.
 
 ### ⚙️ Fondements et Axiomes
 * [**AXIOMES.md**](./AXIOMES.md) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
