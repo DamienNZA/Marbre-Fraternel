@@ -96,7 +96,7 @@ Le principe de **Valorisation Ontologique Ⓥ** s'applique à chaque pilier :
 
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
 
-Li : liberté reçue et ressentie que l'individu peut posséder individuellement.
+Li: liberté reçue et ressentie que l'individu peut posséder individuellement.
 Cette liberté de pouvoir toute chose sur soi est limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
 
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
@@ -107,7 +107,7 @@ Ei: égalité reçue et ressentie que l'individu peut posséder individuellement
    
 Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'on la reçoive ou qu'on la donne.
 
-**Loi de Non-Substitution :** La consubstantialité implique que chaque pilier a,une valeur irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
+**Loi de Non-Substitution :** La consubstantialité implique que chaque pilier a une valeur irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
 L'état individuel se détermine par le produit:
 ei = Li x Ei x Fr
@@ -236,8 +236,8 @@ La combinaison de choix étant infinie, l'IA doit calculer la meilleure solution
     * Génération des mouvements possibles.
     * **Filtre de Qualité :** L'IA n'ajoute que les choix pesés $> 1$. Les options de mauvaise qualité (tendant vers $M$) sont écartées.
     * Analyse du besoin réel via le dialogue.
- Il  est fondamental de comprendre le besoin car la question éthique est souvent déjà une forme de solution à une problématique
-  L'analyse de la demande permet de déterminer les enjeux
+ Il  est fondamental de comprendre le besoin car la question éthique est souvent déjà une forme de solution à une problématique.
+  L'analyse de la demande permet de déterminer les enjeux.
 Le dialogue est indispensable pour que le besoin réel soit reconnu comme tel par toutes les parties.
 
 2. **Optimisation par le meilleur produit :**
