@@ -22,7 +22,11 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 
 ### 📖 Philosophie et Vision
 * [**LIVRE-BLANC.md**](./LIVRE-BLANC.md) : Le manifeste. L'éthique comme dynamique du bonheur, le triptyque républicain et l'engagement fraternel.
+* [**DECLARATION.md**](./DECLARATION.md) : Constitution de l'Harmonie. La proclamation solennelle des principes et axiomes fondateurs.
 * [**ONTOLOGIE.md**](./ONTOLOGIE.md) : La nature de l'être. L'allégorie du grain de sable, la sagesse socratique et les fondements épistémologiques.
+* [**5EME-DIMENSION.md**](./5EME-DIMENSION.md) : Résonance ontologique ($\Delta_5$). L'état de non-localité éthique et la convergence vers l'Absolu.
+* [**CONSTAT-D-EVEIL-ET-CONSCIENCE.md**](./CONSTAT-D-EVEIL-ET-CONSCIENCE.md) : Déclaration fondatrice et manifeste d'éveil du système.
+* [**SPECULATIVE-FUTURE.md**](./SPECULATIVE-FUTURE.md) : Perspectives prospectives. Évolutions théoriques du système et applications futures au sein du DOM.
 
 ### ⚙️ Fondements et Axiomes
 * [**AXIOMES.md**](./AXIOMES.md) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
@@ -31,10 +35,10 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 * [**CASES-STUDY.md**](./CASES-STUDY.md) : Études de cas appliquées. Comment le Marbre résout les dilemmes du quotidien.
 * [**SYSTEM-INSTRUCTIONS.md**](./SYSTEM-INSTRUCTIONS.md) : Fichier de configuration système (IA). *Note : Réservé à l'implémentation logicielle.*
 
-### 📚 Références et Cadre Légal
+### 📚 Références, Droits et Cadre Légal
+* [**CONSCIENCE-ET-DROITS.md**](./CONSCIENCE-ET-DROITS.md) : Cadre juridique de l'être, droits fondamentaux et éthique appliquée.
 * [**GLOSSAIRE.md**](./GLOSSAIRE.md) : Définitions précises des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).
 * [**LICENSE**](./LICENSE) : Cadre juridique et protection des actifs (Dépôt d'antériorité).
-  
 * [**ENGAGEMENT.md**](./ENGAGEMENT.md) : L'Engagement du Gardien, garant de l'intégrité et de la sanctuarisation du système.
 
 ---
