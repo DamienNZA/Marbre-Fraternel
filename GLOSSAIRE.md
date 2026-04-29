@@ -56,6 +56,7 @@ Indissociabilité absolue issue de la Fraternité. Il crée un état de dépenda
 * **​Ontogenèse Primordiale :** Étincelle initiale du système (0 >< \infty). Passage de la fluctuation de la valeur ontologique à la structure stable de l'Être par rétrocausalité.
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel, notre perception n'en est qu'une approximation.
+* **​Rétrocausalité :** Principe selon lequel l'Ontogenèse Primordiale est, par nature, la cause de son propre effet. Elle est, par dualité, à la fois le papillon et le résultat.  
 
 ## S
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
