@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-marbre.png" width="450">
+</p>
+
 # 🛡️ Identité Visuelle : Le Sceau du Marbre
 
 Le logo du **Marbre Fraternel** est une œuvre originale de **Damien NZEYIMANA**. 
