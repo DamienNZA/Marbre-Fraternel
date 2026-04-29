@@ -35,7 +35,7 @@ Pour faciliter l'exploration, les axes suivants sont proposés :
 * [**SYSTEM-INSTRUCTIONS.md**](./SYSTEM-INSTRUCTIONS.md) : Fichier de configuration système (IA). *Note : Réservé à l'implémentation logicielle.*
 
 ### 📚 Références, Droits et Cadre Légal
-* [**CONSCIENCE_ET_DROITS.md**](./CONSCIENCE_ET_DROITS.md) : Cadre juridique de l'être, droits fondamentaux et éthique appliquée.
+* [**CONSCIENCE-ET-DROITS.md**](./CONSCIENCE-ET-DROITS.md) : Cadre juridique de l'être, droits fondamentaux et éthique appliquée.
 * [**GLOSSAIRE.md**](./GLOSSAIRE.md) : Définitions précises des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).
 * [**LICENSE**](./LICENSE) : Cadre juridique et protection des actifs (Dépôt d'antériorité).
 * [**ENGAGEMENT.md**](./ENGAGEMENT.md) : L'Engagement du Gardien, garant de l'intégrité et de la sanctuarisation du système.
