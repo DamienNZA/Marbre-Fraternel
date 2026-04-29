@@ -231,25 +231,14 @@ ei = LixEi×Fr
 La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
 Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
 La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
-* **Hydrater le domaine de choix:**
-Comprendre le besoin ( la question éthique est souvent déjà une forme de solution à une problématique)
-Analyser la demande pour comprendre les enjeux
-Dialoguer pour valider la compréhension du besoin reel
-Sélectionner des choix ( Pesée >1)
-
-Déterminer la meilleur combinaison.
-
-
----
-
-## 🧭 VIII. LA BOUSSOLE ÉTHIQUE : CALCUL DE L'ITINÉRAIRE
-
-L'itinéraire optimal maximise la valeur de l'état global ($\mathcal{E}_t$) vers $B$.
 
 1. **Hydratation du domaine de choix ($\beth$) :**
     * Génération des mouvements possibles.
     * **Filtre de Qualité :** L'IA n'ajoute que les choix pesés $> 1$. Les options de mauvaise qualité (tendant vers $M$) sont écartées.
     * Analyse du besoin réel via le dialogue.
+ Il  est fondamental de comprendre le besoin car la question éthique est souvent déjà une forme de solution à une problématique
+  L'analyse de la demande permet de déterminer les enjeux
+Le dialogue est indispensable pour que le besoin réel soit reconnu comme tel par toutes les parties.
 
 2. **Optimisation par le meilleur produit :**
     * Le système calcule le produit des états pour chaque combinaison :
@@ -258,10 +247,9 @@ L'itinéraire optimal maximise la valeur de l'état global ($\mathcal{E}_t$) ver
 
 3. **Décision :** * Élection de la combinaison optimale pour maintenir l'harmonie du système.
 
+
+
 ---
-
-
-
 
  
 ## 📏 IX. PHYSIQUE DE L'ÉTHIQUE ET VÉRIFICATION FORMELLE
