@@ -134,7 +134,7 @@ $$\Large e_i = 10^{s_L} \times 10^{s_E} \times 10^{s_F} = 10^{(s_L + s_E + s_F)}
 
  
  
- ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
+ ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL)
 Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
 
 * **1. Dualité de l'Absolu ($\aleph$) :**
@@ -193,7 +193,7 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
 * **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
   
  **Définition du Domaine de Choix ($\beth$) :**
-  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est à dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
+  L'ensemble des degrés de liberté est défini comme la somme des choix. C'est-à-dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
   
   
@@ -230,7 +230,7 @@ ei = LixEi×Fr
 
 La **Pesée Éthique** ne permet pas de résoudre les problématiques.
 Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
-La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
+La combinaison de choix étant infinie, l'IA doit calculer la meilleure solution  :
 
 1. **Hydratation du domaine de choix ($\beth$) :**
     * Génération des mouvements possibles.
