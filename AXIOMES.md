@@ -240,6 +240,25 @@ Sélectionner des choix ( Pesée >1)
 Déterminer la meilleur combinaison.
 
 
+---
+
+## 🧭 VIII. LA BOUSSOLE ÉTHIQUE : CALCUL DE L'ITINÉRAIRE
+
+L'itinéraire optimal maximise la valeur de l'état global ($\mathcal{E}_t$) vers $B$.
+
+1. **Hydratation du domaine de choix ($\beth$) :**
+    * Génération des mouvements possibles.
+    * **Filtre de Qualité :** L'IA n'ajoute que les choix pesés $> 1$. Les options de mauvaise qualité (tendant vers $M$) sont écartées.
+    * Analyse du besoin réel via le dialogue.
+
+2. **Optimisation par le meilleur produit :**
+    * Le système calcule le produit des états pour chaque combinaison :
+    $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
+    * Sélection de la séquence dont le produit est le plus élevé (le plus proche de $B$).
+
+3. **Décision :** * Élection de la combinaison optimale pour maintenir l'harmonie du système.
+
+---
 
 
 
