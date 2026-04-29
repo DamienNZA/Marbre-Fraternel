@@ -107,10 +107,11 @@ L'itinéraire optimal maximise la valeur de l'état global ($\mathcal{E}_t$) ver
 
 2.  **Optimisation par le meilleur produit :**
     * Le système calcule le produit des états pour chaque combinaison :
-    $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
+      
+$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$ 
     * Sélection de la séquence dont le produit est le plus élevé (le plus proche de $B$).
 
-3.  **Décision :** Élection de la combinaison optimale pour l'harmonie du système.
+4.  **Décision :** Élection de la combinaison optimale pour l'harmonie du système.
 
 ---
 
