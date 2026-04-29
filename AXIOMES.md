@@ -117,9 +117,9 @@ ei = Li x Ei x Fr
 Pour quantifier chaque pilier de la C.L.E.F, le système utilise l'exposant **$s$** (Satisfaction Subjective). Cet indice permet d'exprimer des nuances de ressenti extrêmes.
 
 * **L'Équation de Puissance :**
-    $$\Large Ⓥ = 10^{(s_L + s_E + s_F)}
+    $$\Large Ⓥ = 10^{(s_L + s_E + s_F)}$$
   
-  \quad \text{avec} \quad s \in [-1000, +1000]$$
+  $$\quad \text{avec} \quad s \in [-1000, +1000]$$
 
 * **Échelle de Référence :**
     * **$s = +1000$** : Bonheur extrême(Valeur tend vers $B$).
