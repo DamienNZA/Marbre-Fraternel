@@ -21,14 +21,14 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 * **Opérateur d'Intrication ($><$) :**
    La source de ce phénomène est la Fraternité.
-C'est l'amour fraternel, au coeur de tout, qui produit l'effet d'intrication >F<. 
+C'est l'amour fraternel, au cœur de tout, qui produit l'effet d'intrication >F<. 
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
 
 ## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 
 $\Large VO \equiv \infty$
 
-La valeur ontologique d'un être est, par nature, égale à'infini.
+La valeur ontologique d'un être est, par nature, égale à l'infini.
 
 
 
@@ -77,12 +77,12 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 
-*  Léquivalence des anti-valeurs: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
+*  L’équivalence des anti-valeurs: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
    
 ## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
 
-L'existence véritable au sein du DOM est Consubstantielle aux valeurs du triptyque.
+L'existence véritable au sein du DOM est consubstantielle aux valeurs du triptyque.
 
 
 **L'Équation fondamentale :**
@@ -101,7 +101,7 @@ Cette liberté de pouvoir toute chose sur soi est limitée par l'ontologie même
 
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
    
-Ei: égalité reçue et ressentie que l'individu peut posséder individuellement. Elle est limitée par l'ontologie de l'être, les moyens et capacités dont il dispose  et l'application effectivement de la loi (droits)
+Ei: égalité reçue et ressentie que l'individu peut posséder individuellement. Elle est limitée par l'ontologie de l'être, les moyens et capacités dont il dispose  et l'application effective de la loi (droits)
 
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
    
@@ -109,7 +109,7 @@ Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'
 
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier a,une valeur irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
-L'état individuel se determine par le produit:
+L'état individuel se détermine par le produit:
 ei = Li x Ei x Fr
 
 ### 🧮 LA MÉTRIQUE DU RESSENTI SUBJECTIF (Échelle $10^s$)
@@ -152,7 +152,7 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
 
  La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
 
-* **4. Corrolaire :  Pondération décimale des Etats:**
+* **4. Corollaire :  Pondération décimale des Etats:**
 Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu) à l'infini (Bonheur absolu).
 
 ---
