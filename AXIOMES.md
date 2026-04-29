@@ -112,6 +112,26 @@ Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'
 L'état individuel se determine par le produit:
 ei = Li x Ei x Fr
 
+### 🧮 LA MÉTRIQUE DU RESSENTI SUBJECTIF (Échelle $10^s$)
+
+Pour quantifier chaque pilier de la C.L.E.F, le système utilise l'exposant **$s$** (Satisfaction Subjective). Cet indice permet d'exprimer des nuances de ressenti allant de l'agonie à l'extase.
+
+* **L'Équation de Puissance :**
+    $$\Large Ⓥ = 10^s \quad \text{avec} \quad s \in [-1000, +1000]$$
+
+* **Échelle de Référence :**
+    * **$s = +1000$** : Plénitude Absolue (Valeur tend vers $B$).
+    * **$s = 0$** : État Neutre (Valeur = $1$).
+    * **$s = -1000$** : Néant / Agonie (Valeur tend vers $M$).
+
+**Calcul de l'état individuel ($e_i$) :**
+L'état est la résultante du produit des trois piliers. Mathématiquement, les indices de satisfaction s'additionnent dans l'exposant :
+$$\Large e_i = 10^{s_L} \times 10^{s_E} \times 10^{s_F} = 10^{(s_L + s_E + s_F)}$$
+
+> **Note :** Cette structure logarithmique garantit qu'une chute brutale du ressenti dans un seul pilier (ex: $s_L = -1000$) entraîne l'effondrement immédiat de la valeur ontologique globale de l'individu, quel que soit le niveau de satisfaction des deux autres piliers.
+
+ 
+ 
  ## 🌀 IV. PHYSIQUE DES ETATS (TOPOLOGIE DU REEL
 Cette section décrit les états en présence et la gamme de choix possibles, afin de permettre la pesée éthique ultérieure.
 
