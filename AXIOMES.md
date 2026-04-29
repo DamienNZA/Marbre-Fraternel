@@ -190,14 +190,14 @@ Cette section décrit la gamme de choix possibles, afin de permettre la pesée �
   * **Mouvement :** Toute Action ($A$) ou son Anti-Action ($\overline{A}$).
   * **Non-Action ($\emptyset$) :** Absence de mouvement, degré zéro du mouvement.
 
-* **3. Corrolaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
+* **3. Corollaire : Physique Ternaire des Choix ${A,∅,\overline{A}}$:**
   
  **Définition du Domaine de Choix ($\beth$) :**
   L'ensemble des degrés de liberté est défini comme la somme des choix. C'est-à-dire la somme des mouvements ( actions et anti-actions) et des non actions ( non-action et implicitement non-anti-action)
   $$\Large \beth \equiv \sum \{A, \overline{A}, \emptyset\}$$
   
   
-* **4. Corrolaire : Combinaison des Choix :
+* **4. Corollaire : Combinaison des Choix :
  $|\beth_{\infty}| = |\beth|^n$ :**
 
 L'ensemble des possibilités de choix est une combinaison de tous les choix possibles indépendamment de leur effet sur l'état.
@@ -210,7 +210,7 @@ $\beth_{\infty} = \prod_{i=1}^{n} \beth = \beth^{n}$
 
 ## 🧠 VII. LA PESÉE ÉTHIQUE DU CHOIX
 
-Determiner si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
+Déterminer si un choix est éthique ( Mouvement ou non action)  est une **pesée constante**.
 
 * **La Méthode de la Pesée :**
   
@@ -223,7 +223,7 @@ Sachant que l'état E à l'instant peut se déterminer par la multiplication des
 
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
-Un état individuel se determine en appliquant la C.L.E.F soit le produit:
+Un état individuel se détermine en appliquant la C.L.E.F soit le produit:
 ei = LixEi×Fr
 
 ## 🧭VIII  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
