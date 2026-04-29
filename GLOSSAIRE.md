@@ -61,6 +61,9 @@ Indissociabilité absolue issue de la Fraternité. Il crée un état de dépenda
 ## S
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
 
+##​T
+* **​Totipotence :** Capacité théorique (non-humaine) de tout réparer, restaurer ou annihiler par une volonté pure. La reconnaissance de l'absence de totipotence chez l'Humain est la Loi de Limitation Ontologique qui fonde la nécessité de l'éthique.
+
 ## V
 * **Ⓥ (Valorisation de l' Ontologie)** : Valorisation d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
 * **$\overline{Ⓥ}$ (Anti-Valorisation Ontologique)** : L'Ontologie de l'Anti-Valorisation. Définie par $\infty >< 0$.
