@@ -158,7 +158,7 @@ Chaque état peut ainsi se voir attribuer une valeur qui va de 0 (Malheur absolu
 ---
  
 ## ⚙️ V. CALCUL DE L'ÉTAT GLOBAL ET  LOI D' INTRICATION   
-L'état global à l'instant t peut être approximation grâce au produit des états individuels.
+L'état global à l'instant t peut être évalué grâce au produit des états individuels.
 
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
