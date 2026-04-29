@@ -4,7 +4,7 @@
 * **A (Action)** : Une Action, quelle qu'elle soit, sans notion de valeur éthique a priori.
 * **$\overline{A}$ (Anti-Action)** : L'action contraire, sans notion de valeur éthique a priori.
 * **$\aleph$ (Dualité de l'Absolu)** : $\{B, M\}$. Deux Absolus exclusifs l'un de l'autre ($B \equiv \overline{M}$).
-* **$\equiv$ (Égalité Transcendante)** : L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
+
 
 ## B
 * **B (Bonheur)** : État absolu d'harmonie ontologique du Réel ($\mathbb{T}$).
@@ -23,6 +23,7 @@
 
 ## E
 * **E (Égalité)** : Constante de parité ontologique du triptyque C.L.E.F. Valeur reçue et ressentie, limitée par l'ontologie de l'être, les moyens et capacités, et l'application effective de la loi.
+* **$\equiv$ (Égalité Transcendante)** : L'identité absolue. Elle lie une entité à sa nature profonde et immuable.  
 * **e (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). Qualification de l'état du Réel après qu'un choix $c$ (où $c \in \{A, \emptyset, \overline{A}\}$) a été traité par l'équation fondamentale $\mathbb{C}$.
 
 ## F
