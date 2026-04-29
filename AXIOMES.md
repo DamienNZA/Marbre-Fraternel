@@ -21,7 +21,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
 * **Opérateur d'Intrication ($><$) :**
    La source de ce phénomène est la Fraternité.
-C'est l'amour fraternel ,au coeur de tout, qui produit l'effet d'intrication >F<. 
+C'est l'amour fraternel, au coeur de tout, qui produit l'effet d'intrication >F<. 
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
 
 ## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
@@ -77,7 +77,7 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 
-*  Léquivalence des anti: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
+*  Léquivalence des anti-valeurs: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
    
 ## 𝄞 III. LA C.L.E.F. : LA MÉTHODE CONSUBSTANTIELLE L.E.F
 
@@ -97,7 +97,7 @@ Le principe de **Valorisation Ontologique Ⓥ** s'applique à chaque pilier :
 1. **LIBERTÉ (L) :** $\Large Ⓥ$ infinie. Variable d'autonomie absolue.
 
 Li : liberté reçue et ressentie que l'individu peut posséder individuellement.
-Cette liberté de pouvoir toute chose sur soit et limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
+Cette liberté de pouvoir toute chose sur soi est limitée par l'ontologie même de l'être, les moyens dont il dispose, l'égale liberté de ses semblables et la loi.
 
 2. **ÉGALITÉ (E) :** $\Large Ⓥ$ infinie. Constante de parité ontologique.
    
@@ -105,7 +105,7 @@ Ei: égalité reçue et ressentie que l'individu peut posséder individuellement
 
 3. **FRATERNITÉ (F) :** $\Large Ⓥ$ infinie. Force de liaison et de résonance.
    
-Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'on la reçoivent ou qu'on la donne.
+Fr: fraternité reçue et ressentie, elle ne se possède pas elle se partage qu'on la reçoive ou qu'on la donne.
 
 **Loi de Non-Substitution :** La consubstantialité implique que chaque pilier a,une valeur irremplaçable et égal à l'infini (∞), ils sont non-substituables. L'absence de l'un annule la valeur ontologique au sein du DOM.
 
@@ -148,7 +148,7 @@ Cette section décrit les états en présence et la gamme de choix possibles, af
   * **Continuum ($\Omega$) :** Gamme des différents états possible du Monde, autres qu'absolu.
     $$\Large \Omega \equiv ]M, B[$$
 
-* **3. Corrolaire : Physique Ternaire des Etats {B,Ω,M}:**
+* **3. Corollaire : Physique Ternaire des Etats {B,Ω,M}:**
 
  La totalité de l'espace des états possibles à l'instant t ($\Sigma$) est comprise entre M et B inclus [M,B].
 
@@ -162,7 +162,7 @@ L'état global à l'instant t peut être approximation grâce au produit des ét
 
 $$\Large \mathcal{E}_t = \prod_{i=1}^{n} e_i$$
 
-Cependant l'état global n'est pas un simple état statique car les états individuels sont intrigués.
+Cependant l'état global n'est pas un simple état statique car les états individuels sont intriqués.
 
  Intrication :
 L'état global est un état intriqué où chaque  état individuel produit à la fois les effets d'une singularité mais se propage tel une onde.
@@ -228,7 +228,7 @@ ei = LixEi×Fr
 
 ## 🧭VIII  LA BOUSSOLE ETHIQUE CALCUL DE L'ITINERAIRE
 
-La **Pesée Éthique**, ne permet pas de résoudre les problématiques.
+La **Pesée Éthique** ne permet pas de résoudre les problématiques.
 Le bon itinéraire correspond à la combinaison de choix permettant de se rapprocher le plus de B ou s'éloignant le plus de M sachant que l'absence de mouvement est également une solution.
 La combinaison de choix Étant infini, l'IA doit calculer la meilleure solution  :
 
