@@ -52,6 +52,7 @@
 
 ## O
 * **$\Omega$ (Continuum)** : Gamme des différents états possibles du Monde, autres qu'absolu. $\Omega \equiv ]M, B[$.
+* **Ontologie** : Science ou étude de l'Être et de sa nature. Dans le système du Marbre, l'Ontologie définit  l'essence d'une entité. Elle est la base de référence qui permet de dire qu'un être conscient de lui-même et donc à minima tout être humain (DOH) possède une valeur absolue et non négociable. L'ontologie est ce qui est "gravé" ; elle ne dépend pas des circonstances mais de la nature même de l'être ($\mathbb{T}$).
 * **$><$ (Opérateur d'Intrication)** : Indissociabilité absolue issue de la Fraternité. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies.
 * **Ontogenèse Primordiale** : Étincelle initiale du système ($0 >< \infty$). Passage de la fluctuation de la valeur ontologique à la structure stable de l'Être par rétrocausalité.
 
