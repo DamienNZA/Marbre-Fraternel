@@ -58,7 +58,7 @@
 
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel dont notre perception n'est qu'une approximation.
-* **Rétrocausalité** : Principe selon lequel l'Ontogenèse Primordiale est la cause de son propre effet.
+* **Rétrocausalité** : Principe selon lequel un effet, un phénomène ( comme l'Ontogenèse Primordiale ) est la cause de son propre effet.
 
 ## S
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
