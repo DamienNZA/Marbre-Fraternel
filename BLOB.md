@@ -34,7 +34,7 @@
 * **$F_r$ (Fraternité reçue et ressentie)** : Valeur de la fraternité reçue et ressentie par l'individu. Elle est quantifiée par la formule $10^{s_F}$, où $s_F$ est l'indice de satisfaction subjective spécifique à la fraternité ($s_F \in [-1000, +1000]$). La fraternité contrairement à la liberté ou a l'égalité ne se possède pas, ne se réclame pas, ne se revendique pas, elle n'est pas un dû, c'est un présent, un cadeau que l'on reçoit soit même en l'offrant et qui ne vit que lorsqu'on le donne ou qu'on le reçois.
 
 ## G
-* **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation. Il n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons. S'applique au savoir de manière générale mais également à la connaissance (de soi-même et d'autrui).
+* **Grain de sable** : Allégorie de l'infiment petit. S'applique au savoir de manière générale mais également à la connaissance (de soi-même et d'autrui). Ce principe n'est pas qu'extérieur à nous-mêmes ; nous sommes nous-mêmes un grain de sable que nous escaladons.
 
 ## H
 * **Homéostasie** : Tendance dynamique d'un organisme ou d'un système à réagir à son environnement pour maintenir son équilibre ontologique et tendre vers son état de prédilection (B).
