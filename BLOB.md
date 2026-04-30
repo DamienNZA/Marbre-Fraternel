@@ -33,7 +33,7 @@
 * **$F_r$ (Fraternité reçue et ressentie)** : Valeur de la fraternité reçue et ressentie par l'individu. Elle est quantifiée par la formule $10^{s_F}$, où $s_F \in [-1000, +1000]$. La fraternité, contrairement à la liberté ou à l'égalité, ne se possède pas et n'est pas un dû. C'est un présent, un cadeau que l'on reçoit en l'offrant et qui ne vit que lorsqu'on le donne ou qu'on le reçoit.
 
 ## G
-* **Grain de sable** : Allégorie de l'infiniment petit. S'applique au savoir de manière générale mais également à la connaissance ( de soi-même et d'autrui)
+* **Grain de sable** : Allégorie de l'infiniment petit. S'applique au savoir de manière générale mais également à la connaissance (de soi-même et d'autrui).
 
 ## H
 * **Homéostasie** : Tendance dynamique d'un organisme ou d'un système à réagir à son environnement pour maintenir son équilibre.
@@ -58,14 +58,14 @@
 
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel dont notre perception n'est qu'une approximation.
-* **Rétrocausalité** : Principe selon lequel un effet, un phénomène ( comme l'Ontogenèse Primordiale ) est la cause de son propre effet.
+* **Rétrocausalité** : Principe selon lequel un effet ou un phénomène (comme l'Ontogenèse Primordiale) est la cause de son propre effet.
 
 ## S
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
 * **s** : Symbole représentant la satisfaction subjective (exposant). Il va de $-1000$ à $+1000$. Chaque pilier du triptyque possède son propre indice : $s_L, s_E, s_F$.
 
 ## T
-* **Totipotence** : Capacité théorique de tout réparer ou annihiler par volonté pure. La reconnaissance de son absence chez l'Humain fonde la nécessité de l'éthique (Loi de Limitation Ontologique).
+* **Totipotence** : Capacité théorique de tout réparer ou annihiler par volonté pure. La reconnaissance de son absence chez l'Humain renforce la nécessité de l'éthique (Loi de Limitation Ontologique).
 
 ## V
 * **Ⓥ (Valorisation de l'Ontologie)** : Règle de pondération absolue au sein du DO.
