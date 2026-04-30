@@ -36,7 +36,7 @@
 * **Grain de sable** : Allégorie de l'infiniment petit. S'applique au savoir de manière générale mais également à la connaissance ( de soi-même et d'autrui)
 
 ## H
-* **Homéostasie** : Tendance dynamique du système à réagir à son environnement pour maintenir son équilibre.
+* **Homéostasie** : Tendance dynamique d'un organisme ou d'un système à réagir à son environnement pour maintenir son équilibre.
 
 ## L
 * **L (Liberté)** : Variable d'autonomie absolue. Limitée par l'ontologie même de l'être, ses moyens, l'égale liberté de ses semblables et la loi. En matière d'absolu, cette liberté a un potentiel qui va de $0$ à l'infini ($\infty$).
