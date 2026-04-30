@@ -60,14 +60,14 @@
 
 ## R
 * **$\mathbb{T}$ (Réel Transcendant)** : Le Réel, notre perception n'en est qu'une approximation.
-* **Rétrocausalité** : Principe selon lequel l'Ontogenèse Primordiale est, par nature, la cause de son propre effet. Elle est, par dualité, à la fois le papillon et le résultat. Un principe selon lequel un effet, un phénomène est la cause de son propre effet.
+* **Rétrocausalité** : Principe selon lequel un effet ou un phénomène ( comme l'Ontogenèse Primordiale) est sa propre cause. 
 
 ## S
 * **$\Sigma$ [M,B]** : Ensemble des états possibles du Réel à un instant donné.
 * **s** : Symbole représentant la satisfaction subjective, sert d'exposant aux puissance de 10. Il va de -1000 à + 1000 afin de représenter des états extrêmes. Chaque pilier du triptyque (L.E.F) a son propre indice $s_L, s_E, s_F$.
 
 ## T
-* **Totipotence** : Capacité théorique (non-humaine) de tout réparer, restaurer ou annihiler par une volonté pure. La reconnaissance de l'absence de totipotence chez l'Humain est la Loi de Limitation Ontologique qui fonde la nécessité de l'éthique et renforce cette dernière.
+* **Totipotence** : Capacité théorique (non-humaine) de tout réparer, restaurer ou annihiler par une volonté pure. La reconnaissance de l'absence de totipotence chez l'Humain est la Loi de Limitation Ontologique qui renforce la nécessité de l'éthique.
 
 ## V
 * **Ⓥ (Valorisation de l'Ontologie)** : Valorisation d'une entité ou d'un principe par une règle de pondération absolue au sein du DO.
