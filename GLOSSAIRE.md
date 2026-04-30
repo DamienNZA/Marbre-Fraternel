@@ -23,6 +23,8 @@
 
 ## E
 * **E (Égalité)** : Constante de parité ontologique du triptyque C.L.E.F. Valeur reçue et ressentie, limitée par l'ontologie de l'être, les moyens et capacités, et l'application effective de la loi.
+* **Ei (Égalité individuelle)** :Valeur de la liberté reçue et ressentie par l'individu. Elle peut être estimée selon une valeur sous forme de puissance de 10 exposant s(satisfaction subjective) ou s va de -1000 à +1000.
+  
 * **$\equiv$ (Égalité Transcendante)** : L'identité absolue. Elle lie une entité à sa nature profonde et immuable.  
 * **e (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). Qualification de l'état du Réel après qu'un choix $c$ (où $c \in \{A, \emptyset, \overline{A}\}$) a été traité par l'équation fondamentale $\mathbb{C}$.
 
