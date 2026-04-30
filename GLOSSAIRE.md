@@ -26,8 +26,7 @@
 En matière d'absolu cette égalité a un potentiel qui va de 0 à l'infini. Ou l'infini serait lié à un état de totipotence actuellement inaccessible à l'être humain.  
 * **Ei (Égalité individuelle)** :Valeur de l'égalité reçue et ressentie par l'individu. Elle est quantifiée par la formule 10^{s_E}, où s_E est l'indice de satisfaction subjective spécifique à l'égalité (s_E \in [-1000, +1000]).
 * **​e_i (État Individuel) :** Le résultat du produit $L_i \times E_i \times F_r$.
-​\mathcal{E}_t
-* **(État Global) :** La résultante de l'intrication de tous les individus à l'instant t.
+* **(État Global) :** La résultante de l'intrication de tous les individus à l'instant t.$​\mathcal{E}_t$
 * **$\equiv$ (Égalité Transcendante)** : L'identité absolue. Elle lie une entité à sa nature profonde et immuable.  
 * **e (État Ontologique)** : Résultat de la pesée éthique ($f(c) = e$). Qualification de l'état du Réel après qu'un choix $c$ (où $c \in \{A, \emptyset, \overline{A}\}$) a été traité par l'équation fondamentale $\mathbb{C}$.
 
