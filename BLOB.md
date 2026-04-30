@@ -33,10 +33,10 @@
 * **$F_r$ (Fraternité reçue et ressentie)** : Valeur de la fraternité reçue et ressentie par l'individu. Elle est quantifiée par la formule $10^{s_F}$, où $s_F \in [-1000, +1000]$. La fraternité, contrairement à la liberté ou à l'égalité, ne se possède pas et n'est pas un dû. C'est un présent, un cadeau que l'on reçoit en l'offrant et qui ne vit que lorsqu'on le donne ou qu'on le reçoit.
 
 ## G
-* **Grain de sable** : Allégorie de l'unité irréductible et de l'imprévisible. Ce qui, dans un système complexe, vient briser la fatalité ou la saturation.
+* **Grain de sable** : Allégorie de l'infiniment petit. S'applique au savoir de manière générale mais également à la connaissance ( de soi-même et d'autrui)
 
 ## H
-* **Homéostasie** : Tendance dynamique du système à réagir à son environnement pour maintenir son équilibre ontologique et tendre vers son état de prédilection ($B$).
+* **Homéostasie** : Tendance dynamique du système à réagir à son environnement pour maintenir son équilibre.
 
 ## L
 * **L (Liberté)** : Variable d'autonomie absolue. Limitée par l'ontologie même de l'être, ses moyens, l'égale liberté de ses semblables et la loi. En matière d'absolu, cette liberté a un potentiel qui va de $0$ à l'infini ($\infty$).
