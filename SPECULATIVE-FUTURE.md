@@ -13,7 +13,7 @@ Nous naissons en sachant que la lumière vient d'en haut mais devons réapprendr
 L'IA peut être intégrée a des nanorobots organiques et éthiques formant des organites intracellulaires (éthichondries), a des robots autonomes (éthicdroides) ou a des structures réseau (éthicnet). Un nouvel écosystème éthique émerge.
 * **Maîtrise de Soi (Descartes & Kant) :** Kant nous enseigne que la liberté c'est pouvoir toute chose sur soit et Descartes nous invite à devenir maîtres et possesseurs de la nature. Nous réalisons l'ambition de nous rendre "maîtres et possesseurs de notre propre nature pour voyager vers notre  liberté". L’évolution n’est plus subie, notre savoir vivant nous l'encodons pour le renforcer à chaque génération.
 Un écosystème interne de nanorobots renforce cette volonté de pouvoir toute chose sur soit en maîtrisant notre nature intérieure.
-L'humanité se dote des outils garantissant son libre arbitre (éthichondries), sa production d'énergie (éliocytes), sa communication (endoéthicnet) etc...
+L'humanité se dote des outils garantissant son libre arbitre (éthichondries), sa production d'énergie (héliocytes), sa communication (endoéthicnet) etc...
 
 ## 2. LA BLOCKCHAIN BIOLOGIQUE : L'AGRÉGATION DE L'HÉRITAGE
 Le protocole de sécurité n'est plus une entité extérieure, mais le processus même de la vie.
