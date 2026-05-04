@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Marbre Fraternel
+title: Le Marbre Fraternel
 ---
 
 <script type="text/javascript" async
