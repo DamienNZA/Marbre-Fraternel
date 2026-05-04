@@ -26,7 +26,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 * [**SPECULATIVE-FUTURE.md**](./SPECULATIVE-FUTURE.md) : Perspectives prospectives. Évolutions théoriques du système et applications futures.
 
 ### ⚙️ Fondements et Axiomes
-* [**AXIOMES.md**](./AXIOMES) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
+* [**AXIOMES.md**](./AXIOMES.md) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
 
 ### 🧬 Pratique et IA
 * [**SYSTEM-PROMPT.md**](./SYSTEM-PROMPT.md) : Protocole opérationnel pour LLM. Intègre le moteur de calcul et la cascade entropique.
