@@ -4,3 +4,11 @@ theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
 kramdown:
   math_engine: mathjax
+
+  theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+
