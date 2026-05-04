@@ -1,3 +1,18 @@
+---
+layout: default
+title: License
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # ⚖️ LICENSE & PROPRIÉTÉ INTELLECTUELLE
 
 **Détenteur des droits :** Damien NZEYIMANA  
