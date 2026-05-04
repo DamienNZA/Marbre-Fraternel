@@ -1,7 +1,7 @@
 title: Le Marbre Fraternel
 theme: jekyll-theme-cayman
-show_downloads: false
-permalink: /:path:output_ext
+include: [".md"]
+
 
 
 
