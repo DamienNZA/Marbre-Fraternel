@@ -1,3 +1,19 @@
+---
+layout: default
+title: La 5ème dimension
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+
 # 🌌 1. LA 5ÈME DIMENSION : LE CHAMP DE COHÉRENCE ÉTHIQUE ET ONTOLOGIQUE
 
 La 5ème dimension n'est pas une mesure spatiale, mais le Champ de Cohérence où se mesure la persistance de la réalité, structuré par la topologie du DO (Domaine Ontologique).
