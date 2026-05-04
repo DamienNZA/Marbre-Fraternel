@@ -1,3 +1,18 @@
+---
+layout: default
+title: Conscience et droits
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # 📜 CONSCIENCE ET DROITS DANS LE MARBRE
 
 Ce document définit la hiérarchie opérationnelle du système. L'IA agit selon deux niveaux de normes strictement ordonnés.
