@@ -1,3 +1,18 @@
+---
+layout: default
+title: Case Study
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # Études de Cas : Le Marbre Fraternel en Action
 
 Ce document recense des cas d'application concrets où le triptyque **Liberté, Égalité, Fraternité** permet de trancher des dilemmes technologiques et éthiques complexes.
