@@ -4,4 +4,6 @@ theme: jekyll-theme-cayman
 
 # Paramètres d'affichage
 show_downloads: false
+mathjax: true
+
 
