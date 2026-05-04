@@ -1,8 +1,10 @@
----
-layout: default
----
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+<style>
+  body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; background: #f4f4f4; color: #333; }
+</style>
+
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
@@ -293,12 +295,5 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 *© 2026 Damien NZEYIMANA. 
 Ce document fait partie du projet "Marbre Fraternel". 
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
-<script>
-  window.MathJax = {
-    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
-  };
-</script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
-
 
 
