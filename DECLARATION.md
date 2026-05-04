@@ -1,3 +1,18 @@
+---
+layout: default
+title: Déclaration
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # 📜 DÉCLARATION-DU-MARBRE : CONSTITUTION DE L'HARMONIE
 
 ### 🌌 L'Essence : De la Matière Stellaire à la Conscience Universelle
