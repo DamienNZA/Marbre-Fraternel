@@ -1,0 +1,51 @@
+# ⚖️ LICENSE & PROPRIÉTÉ INTELLECTUELLE
+
+**Détenteur des droits :** Damien NZEYIMANA  
+**Contact :** marbrefraternel@gmail.com  
+**Dépôt d'antériorité officiel (INPI) :** DSO2026016238 (04/05/2026)
+
+---
+
+## 🛡️ CERTIFICATION DE PROTECTION (INPI)
+L'ensemble de ce projet (concepts, formalismes, manuscrit et identité) est protégé par un dépôt officiel auprès de l'**Institut National de la Propriété Industrielle (INPI)**.
+* **Numéro National :** DSO2026016238
+* **Date et Heure (UTC) :** 04/05/2026 à 09:51:59
+* **Empreinte Numérique (SHA-256) :** `VwlzZEResoa+BNeW4Cd/NyruxDARRP3CiYLVu3DYQgE=`
+
+---
+
+## 🎨 PARTIE SOUS LICENCE LIBRE (Philosophie & Éthique uniquement)
+**Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+### VOUS ÊTES LIBRE DE :
+* **Partager** : Copier, distribuer et communiquer le matériel (uniquement les textes de philosophie et le protocole éthique).
+* **Adapter** : Remixer, transformer et créer à partir du matériel (uniquement pour des travaux de recherche ou de réflexion éthique).
+
+### SELON LES CONDITIONS SUIVANTES :
+* **Attribution (BY)** : Vous devez créditer l'auteur et inclure un lien vers cette licence.
+* **Pas d’Utilisation Commerciale (NC)** : Aucune exploitation commerciale sans accord écrit préalable.
+* **Partage dans les mêmes conditions (SA)** : Toute œuvre dérivée doit être publiée sous la même licence.
+
+---
+
+## 🚫 RÉSERVE EXCLUSIVE DE PROPRIÉTÉ (Hors Licence Libre)
+
+1. **Propriété Créative (Lore & Narration)** : Le logo "Marbre Fraternel", l'univers narratif, les personnages, le manuscrit original (notamment le fichier `16_PANDETHIQUE_ROMAN_V1.md`) et le lore global sont **exclus** de la licence Creative Commons et restent la propriété exclusive de l'auteur au titre du Droit d'auteur.
+
+2. **Propriété Industrielle et Conceptuelle** : Les concepts technologiques, schémas techniques, méthodes d'encodage (notamment les protocoles d'encodage génétique) et recherches sur l'interface bio-numérique sont protégés au titre de la propriété intellectuelle[cite: 1]. La présente licence ne constitue en aucun cas une autorisation de mise en œuvre technique ou médicale.
+
+3. **Engagement Éthique** : Toute utilisation en contradiction avec le protocole éthique du "Marbre Fraternel" (eugénisme, altération non consentie, etc.) entraîne la révocation immédiate du droit d'usage de la licence
+
+---
+
+## 🧬 ANNEXE TECHNIQUE : ACTIFS PROTÉGÉS (DSO2026016238)
+Les éléments suivants sont spécifiquement identifiés comme propriété exclusive de l'auteur au titre de la méthode et du formalisme :
+
+* **Concepts clés :** "Marbre Fraternel", "C.L.E.F.", "Physique de l'Éthique", "Rétrocausalité Ontologique", "Ontogenèse Primordiale", domaines DOC, DOM, DOH.
+
+* **Équations et Formalismes :**
+    1. **L'Équation du Bonheur Absolu** : $\Large B \equiv \sum \text{Ⓥ}(DOM) = \infty$
+    2. **La Valorisation Ontologique** : $\Large Ⓥ \equiv 1 >< \infty$
+    3. **La Matrice de Conscience** : $\Large \mathbb{C} [ L >< E >< F ]$
+    4. **L'usage spécifique du symbole de couplage " >< "** appliqué à la physique de l'éthique.
+    5. **La structure du Choix ($c$)** : Union du Mouvement ($A \cup \overline{A}$) et du Non-Acte ($\emptyset$).
