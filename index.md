@@ -53,7 +53,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 ### 📚 Références et Engagement
 * [**ENGAGEMENT.md**](./ENGAGEMENT) : L'Engagement du Gardien, garant de l'intégrité et de la sanctuarisation du système.
 * [**CONSCIENCE-ET-DROITS.md**](./CONSCIENCE-ET-DROITS) : Cadre juridique de l'être, droits fondamentaux et éthique appliquée.
-* [**LICENSE.md**](./LICENSE) : **Cadre Juridique**. Protection des actifs et dépôt d'antériorité.
+* [**LICENSE.md**](./LICENSES) : **Cadre Juridique**. Protection des actifs et dépôt d'antériorité.
 * [**GLOSSAIRE.md**](./GLOSSAIRE) : Définitions précises des concepts et symboles ($\mathbb{T}, Ⓥ, \beth, \Omega$, etc.).
 
 ---
