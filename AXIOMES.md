@@ -1,10 +1,6 @@
-<div style="display:none">
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
-</div>
-<style>
-  body { background-color: white !important; color: black !important; font-family: sans-serif; padding: 20px; }
-</style>
-
+---
+layout: default
+---
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
