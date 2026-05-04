@@ -1,4 +1,3 @@
-
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
 *Physique de l'Éthique : Approche Heuristique et Logique Formelle*
