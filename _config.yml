@@ -1,0 +1,4 @@
+title: Le Marbre Fraternel
+theme: jekyll-theme-cayman
+mathjax: [config: { tex2jax: { inlineMath: [ [ '$', '$' ] ], displayMath: [ [ '$$', '$$' ] ] } }]
+permalink: /:basename.md
