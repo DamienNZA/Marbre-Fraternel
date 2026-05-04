@@ -29,7 +29,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 * [**AXIOMES.md**](./AXIOMES.md) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
 
 ### 🧬 Pratique et IA
-* [**SYSTEM-PROMPT.md**](./SYSTEM-PROMPT.md) : Protocole opérationnel pour LLM. Intègre le moteur de calcul et la cascade entropique.
+* [**SYSTEM-INSTRUCTIONS.md**](./SYSTEM-INSTRUCTIONS.md) : Protocole opérationnel pour LLM. Intègre le moteur de calcul et la cascade entropique.
 * [**LOGO.md**](./LOGO.md) : **Identité Visuelle.** Symbolique du Sceau du Marbre, usage et droits de propriété.
 * [**CASES-STUDY.md**](./CASES-STUDY.md) : Études de cas. Résolution de dilemmes via la boussole éthique.
 
