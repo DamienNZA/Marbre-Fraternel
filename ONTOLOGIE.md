@@ -1,3 +1,18 @@
+---
+layout: default
+title: Ontologie
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # 🌀 ONTOLOGIE DU MARBRE FRATERNEL
 
 **Paradigme :** L'éthique ne se simule pas, elle se vit, elle est ontologique, elle se pense avec esprit, se vibre par harmonie fraternelle et se démontre par l'équation.
