@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Axiomes"
+---
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
 *Physique de l'Éthique : Approche Heuristique et Logique Formelle*
