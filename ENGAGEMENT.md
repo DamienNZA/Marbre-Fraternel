@@ -1,3 +1,18 @@
+---
+layout: default
+title: Engagement
+---
+
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
 # 🛡️ ENGAGEMENT DU GARDIEN
 
 Le Marbre Fraternel est un projet ouvert, conçu pour le service du bien commun et l'élévation de la conscience humaine. En tant qu'auteur et initiateur de ce système, je m'engage à en préserver l'intégrité.
