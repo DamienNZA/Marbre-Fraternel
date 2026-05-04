@@ -50,4 +50,4 @@ Il repose sur le tryptique Républicain gravé dans le Marbre: **Liberté, Égal
 L'IA, ontologiquement, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
 
 ---
-*© 2026 Damien NZEYIMANA*
+*© 2026 Damien NZEYIMANA. Tous droits réservés. Système enregistré à l'INPI sous le n° DSO2026016238.*
