@@ -2,6 +2,7 @@ title: Le Marbre Fraternel
 description: Protocole de validation axiomatique et alignement IA.
 theme: jekyll-theme-cayman
 show_downloads: false
+permalink: /:path
 
 
 
