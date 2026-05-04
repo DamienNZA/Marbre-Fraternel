@@ -293,5 +293,12 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 *© 2026 Damien NZEYIMANA. 
 Ce document fait partie du projet "Marbre Fraternel". 
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 
 
