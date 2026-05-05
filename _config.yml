@@ -3,5 +3,9 @@ description: " "
 theme: jekyll-theme-cayman
 show_downloads: false
 mathjax: true
+remote_theme: jekyll/minima # Si tu utilises un thème distant
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag # Très important pour ton influence (SEO)
 
 
