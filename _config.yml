@@ -1,7 +1,16 @@
 title: "Le Marbre Fraternel"
 description: "L'Équation du Bonheur • La Physique de l'Éthique"
-remote_theme: jekyll/minima
+
+# On force l'utilisation du thème Minima proprement
+theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# Indispensable pour que ton style.scss soit lu
+sass:
+  style: :compressed
+
+include:
+  - assets
