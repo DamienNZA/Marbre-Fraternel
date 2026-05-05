@@ -14,7 +14,7 @@ title: Logo
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
 <p align="center">
-  <img src="assets/logo-marbre.png" width="450">
+  <img src="assets/img/logo-marbre.png" width="450">
 </p>
 
 # 🛡️ Identité Visuelle : Le Sceau du Marbre
