@@ -1,1 +1,54 @@
+---
+---
+@import "{{ site.theme }}";
+
+// --- OPTIMISATION DE LA LISEUSE ---
+
+.page-content, .post-content, main {
+  max-width: 800px;      // Limite la largeur pour que l'oeil ne fatigue pas
+  margin: 0 auto;        // Centre le texte
+  padding: 20px;
+  line-height: 1.8;      // Espace les lignes pour plus de confort
+  font-size: 1.1rem;     // Texte légèrement plus grand
+  text-align: justify;   // Texte bien aligné à gauche et à droite
+  color: #2c3e50;        // Gris très foncé (plus doux que le noir pur)
+}
+
+// Style pour les titres de Chapitres
+h2 {
+  margin-top: 2.5em;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  color: #1a1a1a;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+// Style pour les citations (Paroles de l'Architecte ou de la Reine)
+blockquote {
+  font-style: italic;
+  border-left: 5px solid #159957; // Vert Cayman
+  background: #f8f9fa;
+  padding: 15px 25px;
+  margin: 2em 0;
+  color: #555;
+}
+
+// Séparateur de scène (quand tu mets --- dans ton Markdown)
+hr {
+  height: 1px;
+  background-image: linear-gradient(to right, transparent, #ccc, transparent);
+  border: 0;
+  margin: 3em 0;
+}
+
+// Adaptabilité Mobile
+@media (max-width: 600px) {
+  .page-content, .post-content, main {
+    padding: 15px;
+    font-size: 1rem;
+    text-align: left; // On ne justifie pas sur petit écran
+  }
+}
 
