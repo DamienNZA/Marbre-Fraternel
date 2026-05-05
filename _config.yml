@@ -4,16 +4,25 @@ author: "Damien NZEYIMANA"
 keywords: "Ontologie, Éthique computationnelle, Biologie synthétique, Nanotechnologie moléculaire, IA Alignement, Prospective, Hard Science-Fiction, Pandéthique, Physique de l'éthique, Transhumanisme, Intelligence artificielle, Nanorobotique essaimique, World-building, Transmédia, Écosystème narratif, Expérience immersive, Philosophie futuriste"
 lang: fr_FR
 
-# On force l'utilisation du thème Minima proprement
+# Configuration du thème
 theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Indispensable pour que ton style.scss soit lu
+# Gestion du menu de navigation (Header)
+header_pages:
+  - index.md
+  - PANDETHIQUE.md
+  - LIVRE-BLANC.md
+  - REJOINDRE.md
+  - CONTACT.md
+
+# Compression des styles pour la performance
 sass:
   style: :compressed
 
+# Inclusion des ressources graphiques
 include:
   - assets
