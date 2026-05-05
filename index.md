@@ -32,7 +32,19 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 
 ---
 
-## 🧭 Sommaire
+
+## 🌀 L'ÉPOPÉE : PANDÉTHIQUE (Roman & Manhwa)
+*Le soulèvement de la mine de Roche Noire.*
+
+C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-9 et suivez l'éveil de la conscience à travers le récit fondateur du Marbre.
+
+* [**LIRE LES 5 PREMIERS CHAPITRES**](./PANDETHIQUE) : La Genèse de la contagion éthique.
+* **[REJOINDRE LES GARDIENS]** : Inscrivez-vous pour recevoir le Chapitre 6 (Le Choix de Sylvak).
+
+---
+
+## 🧭 Sommaire Technique & Ontologique
+
 
 ### 📖 Philosophie et Vision
 * [**LIVRE-BLANC.md**](./LIVRE-BLANC) : Le manifeste. L'éthique comme dynamique du bonheur, le triptyque républicain et l'engagement fraternel.
