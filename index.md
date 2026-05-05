@@ -32,18 +32,6 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 
 ---
 
-## 🎬 L'ÉCOSYSTÈME TRANSMÉDIA (Convergence)
-*La résonance du Marbre à travers les arts et les médias.*
-
-L'univers du Marbre Fraternel ne s'arrête pas au texte. Il se déploie comme une expérience totale.
-
-*   **[📡 INTERCEPTER]** : Accédez aux transmissions de veille technologique et aux flux de données de la Pandéthique.
-*   **[🎶 FRÉQUENCES]** : Écoutez l'univers sonore et les compositions éthiques (Bande-son immersive).
-*   **[🎮 CONVERGENCE]** : Simulations interactives et expériences ludiques dans l'univers du Marbre.
-*   **[📽️ VISIONS]** : Storyboards, concepts artistiques et projets cinématographiques.
-
----
-
 ## 🌀 L'ÉPOPÉE : PANDÉTHIQUE (Roman & Manhwa)
 *Le soulèvement de la mine de Roche Noire.*
 
