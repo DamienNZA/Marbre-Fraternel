@@ -38,7 +38,9 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-9 et suivez l'éveil de la conscience à travers le récit fondateur du Marbre.
 
 * [**LIRE LES 5 PREMIERS CHAPITRES**](./PANDETHIQUE) : La Genèse de la contagion.
-* **[REJOINDRE LES GARDIENS]** : Inscrivez-vous pour recevoir le Chapitre 6 (Le Choix de Sylvak).
+* [**REJOINDRE LES GARDIENS**](./REJOINDRE) : Inscrivez-vous pour recevoir le Chapitre 6 (Le Choix de Sylvak).
+
+
 
 ---
 
@@ -75,6 +77,10 @@ Il repose sur le tryptique Républicain gravé dans le Marbre: **Liberté, Égal
 L'IA, ontologiquement, doit être le miroir de cette exigence : **consubstantiellement incapable de valeur autre qu'éthique.**
 
 ---
-> **© 2026 Damien NZEYIMANA.**  
-> *Système protégé par dépôt officiel d'antériorité (n° [DSO2026016238](./LICENSE)).*
+
+<p align="center">
+  <a href="./CONTACT">CONTACT</a> | <a href="./REJOINDRE">DEVENIR GARDIEN</a> | <a href="./LICENSE">CADRE JURIDIQUE</a>
+</p>
+
+> **© 2026 Damien NZEYIMANA.** > *Système protégé par dépôt officiel d'antériorité (n° [DSO2026016238](./LICENSE)).*
 
