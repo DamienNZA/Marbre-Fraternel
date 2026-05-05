@@ -2,53 +2,49 @@
 ---
 @import "{{ site.theme }}";
 
-// --- OPTIMISATION DE LA LISEUSE ---
+// --- DESIGN SUR MESURE LE MARBRE ---
 
-.page-content, .post-content, main {
-  max-width: 800px;      // Limite la largeur pour que l'oeil ne fatigue pas
-  margin: 0 auto;        // Centre le texte
-  padding: 20px;
-  line-height: 1.8;      // Espace les lignes pour plus de confort
-  font-size: 1.1rem;     // Texte légèrement plus grand
-  text-align: justify;   // Texte bien aligné à gauche et à droite
-  color: #2c3e50;        // Gris très foncé (plus doux que le noir pur)
-}
-
-// Style pour les titres de Chapitres
-h2 {
-  margin-top: 2.5em;
-  text-align: center;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 10px;
+body {
+  background-color: #ffffff; // Fond blanc pur pour la clarté
   color: #1a1a1a;
+  font-family: "Georgia", serif; // Police type "roman" pour Pandéthique
+}
+
+.site-header {
+  border-top: 5px solid #000; // Une barre noire solide en haut
+  background-color: #f8f9fa;
+}
+
+.page-content {
+  max-width: 700px; // Format livre parfait
+  margin: 0 auto;
+  padding: 40px 20px;
+  line-height: 1.9;
+}
+
+// Style des Chapitres de Pandéthique
+h2 {
+  font-family: "Helvetica", sans-serif;
+  text-align: center;
   text-transform: uppercase;
-  letter-spacing: 2px;
+  letter-spacing: 4px;
+  margin-top: 4rem;
+  font-weight: 300;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 20px;
 }
 
-// Style pour les citations (Paroles de l'Architecte ou de la Reine)
+// Les pensées de Kavel ou du Marbre
 blockquote {
+  border-left: 2px solid #000;
+  padding: 20px 30px;
+  margin: 3rem 0;
+  background: #fdfdfd;
   font-style: italic;
-  border-left: 5px solid #159957; // Vert Cayman
-  background: #f8f9fa;
-  padding: 15px 25px;
-  margin: 2em 0;
-  color: #555;
+  color: #444;
 }
 
-// Séparateur de scène (quand tu mets --- dans ton Markdown)
-hr {
-  height: 1px;
-  background-image: linear-gradient(to right, transparent, #ccc, transparent);
-  border: 0;
-  margin: 3em 0;
+// Pour les équations MathJax
+.MathJax {
+  color: #004d40; // Un vert émeraude profond pour la science
 }
-
-// Adaptabilité Mobile
-@media (max-width: 600px) {
-  .page-content, .post-content, main {
-    padding: 15px;
-    font-size: 1rem;
-    text-align: left; // On ne justifie pas sur petit écran
-  }
-}
-
