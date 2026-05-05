@@ -16,7 +16,7 @@ title: Le Marbre Fraternel
 # Bienvenue sur Le Marbre Fraternel
 
 <p align="center">
-  <img src="assets/logo-marbre.png" width="450">
+  <img src="assets/img/logo-marbre.png" width="450">
 </p>
 
 # 🏛️ LE MARBRE FRATERNEL : L'ÉQUATION DU BONHEUR
