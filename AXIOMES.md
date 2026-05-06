@@ -33,8 +33,7 @@ C'est l'amour fraternel, au cœur de tout, qui produit l'effet d'intrication >F<
 
 ## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
 
-<img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
-$\Large VO \equiv \infty$
+
 
 La valeur ontologique d'un être est, par nature, égale à l'infini.
 
