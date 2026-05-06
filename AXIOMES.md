@@ -17,7 +17,8 @@ layout: default
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
-AVO
+<img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+
 
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
@@ -31,6 +32,9 @@ C'est l'amour fraternel, au cœur de tout, qui produit l'effet d'intrication >F<
   Indissociabilité absolue. Il crée un état de dépendance où l'ensemble (ex: C.L.E.F) n'existe que si toutes les parties sont réunies. C'est l'union nécessaire qui permet au 1 d'atteindre l'infini : sans la totalité des composants, l'intrication se rompt et le résultat est nul.
 
 ## 🧬 II. LA MÉTRIQUE DE VALEUR ONTOLOGIQUE (VO)
+
+<img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+
 
 $\Large VO \equiv \infty$
 
@@ -295,7 +299,6 @@ Ce document fait partie du projet "Marbre Fraternel".
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
 
 
-[AVO]: <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
 
 
 
