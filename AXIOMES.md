@@ -1,11 +1,6 @@
 ---
 layout: default
----
-layout: default
-title: Axiomes
-antiv: '<img src="/assets/img/antiv-o.svg" width="32" style="vertical-align: middle; display: inline-block; margin: 0 2px;">'
----
-
+--
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
@@ -23,11 +18,6 @@ antiv: '<img src="/assets/img/antiv-o.svg" width="32" style="vertical-align: mid
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
-
- <img src="assets/img/antiv-o.svg" width="30" style="vertical-align: middle; display: inline-block;">
- 
-{{ page.antiv }}
-  
 
 * **Égalité Transcendante ($\equiv$) :**
   L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
