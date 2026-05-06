@@ -295,7 +295,7 @@ Ce document fait partie du projet "Marbre Fraternel".
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
 
 
-*[AVO]: <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+[AVO]: <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
 
 
 
