@@ -21,7 +21,9 @@ title : Axiomes
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
  <img src="assets/img/antiv-o.svg" width="30" style="vertical-align: middle; display: inline-block;">
-{ % include antiv-o.html % }    
+ 
+{% include antiv-o.html %}
+  
 
 * **Égalité Transcendante ($\equiv$) :**
   L'identité absolue. Elle lie une entité à sa nature profonde et immuable.
