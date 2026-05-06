@@ -85,6 +85,9 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+<img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+$$ \equiv \infty >< 0$$
+
 
 
 *  L’équivalence des anti-valeurs: $\Large \overline{Ⓥ} \equiv \Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$ 
