@@ -20,7 +20,7 @@ title : Axiomes
 
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
- <img src="assets/img/antiv-o.svg" width="45" style="vertical-align: middle; display: inline-block;">
+ <img src="assets/img/antiv-o.svg" width="40" style="vertical-align: middle; display: inline-block;">
     
 
 * **Égalité Transcendante ($\equiv$) :**
