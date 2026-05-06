@@ -1,7 +1,11 @@
 ---
 layout: default
-title : Axiomes
 ---
+layout: default
+title: Axiomes
+antiv: '<img src="/assets/img/antiv-o.svg" width="32" style="vertical-align: middle; display: inline-block; margin: 0 2px;">'
+---
+
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
@@ -22,7 +26,7 @@ Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont
 
  <img src="assets/img/antiv-o.svg" width="30" style="vertical-align: middle; display: inline-block;">
  
-{% include antiv-o.html %}
+{{ page.antiv }}
   
 
 * **Égalité Transcendante ($\equiv$) :**
