@@ -17,9 +17,6 @@ layout: default
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
-<img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
-
-
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
 * **Égalité Transcendante ($\equiv$) :**
@@ -84,7 +81,8 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
 
 * **L'Ontologie de l'Anti-Valorisation :**
-  
+(  <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+) 
 <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle; display:inline;"> $\Large \equiv \infty >< 0$
 
 
