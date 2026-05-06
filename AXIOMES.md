@@ -1,6 +1,6 @@
 ---
 layout: default
---
+---
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
