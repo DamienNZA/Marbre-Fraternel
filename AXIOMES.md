@@ -17,6 +17,8 @@ layout: default
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
+AVO
+
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
 * **Égalité Transcendante ($\equiv$) :**
@@ -291,5 +293,9 @@ Le système obéit à une règle simple : la résistance physique du matériel e
 *© 2026 Damien NZEYIMANA. 
 Ce document fait partie du projet "Marbre Fraternel". 
 La reproduction, même partielle, est régie par les conditions détaillées dans le fichier [LICENSE](./LICENSE).*
+
+
+*[AVO]: <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
+
 
 
