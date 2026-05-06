@@ -18,7 +18,7 @@ title : Axiomes
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
-$$\Large \rlap{\bigcirc} \kern 0.08em \bar{\scriptstyle \mathsf{V}}$$
+$$\Large \rlap{\bigcirc} \kern 0.18em \bar{\scriptstyle \mathsf{V}}$$
 
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
