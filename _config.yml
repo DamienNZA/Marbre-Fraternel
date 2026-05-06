@@ -26,3 +26,18 @@ sass:
 # Inclusion des ressources graphiques
 include:
   - assets
+  # Inclusion des ressources graphiques
+include:
+  - assets
+
+# --- LIEN GITHUB ---
+# Paramètres du thème Minima
+minima:
+  social_links:
+    - platform: github
+      user_url: https://github.com/marbrefraternel/Marbre-Fraternel-Core
+
+# Paramètres généraux de métadonnées
+github_username: marbrefraternel
+repository: marbrefraternel/Marbre-Fraternel-Core
+# ------------------------------------------------
