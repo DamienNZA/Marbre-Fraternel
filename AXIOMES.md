@@ -27,7 +27,7 @@ title : Axiomes
 
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
-
+$$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}}$$
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
 * **Égalité Transcendante ($\equiv$) :**
