@@ -18,7 +18,7 @@ title : Axiomes
 
 ## ⚙️ I. OPÉRATEURS LOGIQUES
 
-$$\Large \buildrel \circ \over {\bar{\scriptstyle \mathsf{V}}}$$
+$$\Large \bar{\text{Ⓥ}}$$
 
 Les opérateurs définissent la syntaxe du système. Seuls deux opérateurs sont actifs :
 
