@@ -4,7 +4,7 @@ layout: default
 
 # ⚙️ AXIOMES DU MARBRE FRATERNEL
 
-*Physique de l'Éthique : Approche Heuristique et Logique Formelle*
+*Physi4que de l'Éthique : Approche Heuristique et Logique Formelle*
 
 ---
 
@@ -85,6 +85,7 @@ $$\Large \overline{Ⓥ} \equiv \infty >< 0$$
 
 
 $$\Large \bigcirc \kern-1.05em \bar{\scriptstyle \mathsf{V}} \equiv \infty >< 0$$
+
 <img src="assets/img/antiv-o.svg" width="22" style="vertical-align:middle;display:inline;">
 
 
