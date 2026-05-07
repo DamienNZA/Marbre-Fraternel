@@ -32,7 +32,7 @@ Le Marbre Fraternel est un système heuristique et axiomatique conçu pour faire
 
 ---
 
-## 🌀 L'ÉPOPÉE : PANDÉTHIQUE (Roman & Manhwa)
+## 🌀 L'ÉPOPÉE : PANDÉTHIQUE (Roman & WebNovel)
 *Le soulèvement de la mine de Roche Noire.*
 
 C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-9 et suivez l'éveil de la conscience à travers le récit fondateur du Marbre.
