@@ -60,8 +60,9 @@ C'est ici que la théorie rencontre la réalité. Plongez dans l'incident Gamma-
 * [**AXIOMES.md**](./AXIOMES) : La physique formelle. Les équations, les opérateurs, et la structure logique qui soutient le système.
 * [**ONTOLOGIE-SYSTEMIQUE**](./ONTOLOGIE-SYSTEMIQUE/README.md) : Exploration épistémologique des paradoxes physiques.
 
-### 🔬 Essais, Analytique & Worldbuilding
-* [**OTSUTSUKI_THERMODYNAMIQUE.md**](./posts/OTSUTSUKI_THERMODYNAMIQUE) : Analyse critique du modèle prédateur vs. émergence théorique des civilisations solaires et du Senjutsu.
+
+### 🔬 Essais, Analytique & Construction d'Univers
+* [**ANALYSE-MODELE-OTSUTSUKI.md**](./posts/ANALYSE-MODELE-OTSUTSUKI) : Déconstruction du modèle prédateur vs. émergence théorique des civilisations solaires et du Senjutsu. 
 
 ### 🧬 Pratique et IA
 * [**SYSTEM-INSTRUCTIONS.md**](./SYSTEM-INSTRUCTIONS) : Protocole opérationnel pour LLM. Intègre le moteur de calcul et la cascade entropique.
