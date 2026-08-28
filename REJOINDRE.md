@@ -3,7 +3,7 @@ layout: page
 title: Rejoindre les Papillons
 ---
 
-## 🛡️ INCORPORATION
+## 🛡️ REJOINDRE
 
 Le Marbre Fraternel n'est pas seulement une théorie, c'est un engagement. Devenir un **Papillon**, c'est choisir de veiller sur l'équilibre entre la Physique de l'Éthique et l'expansion de la Pandéthique.
 
